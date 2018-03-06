@@ -28,6 +28,47 @@
 <script src="data:application/x-javascript;base64,Cgp3aW5kb3cuaW5pdGlhbGl6ZVNvdXJjZUVtYmVkID0gZnVuY3Rpb24oZmlsZW5hbWUpIHsKICAkKCIjcm1kLWRvd25sb2FkLXNvdXJjZSIpLmNsaWNrKGZ1bmN0aW9uKCkgewogICAgdmFyIHNyYyA9IHdpbmRvdy5hdG9iKCQoIiNybWQtc291cmNlLWNvZGUiKS5odG1sKCkpOwogICAgdmFyIGJsb2IgPSBuZXcgQmxvYihbc3JjXSwge3R5cGU6ICJ0ZXh0L3gtci1tYXJrZG93biJ9KTsKICAgIHNhdmVBcyhibG9iLCBmaWxlbmFtZSk7CiAgfSk7Cn07Cg=="></script>
 
 
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+div.sourceCode { overflow-x: auto; }
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {
+  margin: 0; padding: 0; vertical-align: baseline; border: none; }
+table.sourceCode { width: 100%; line-height: 100%; }
+td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }
+td.sourceCode { padding-left: 5px; }
+code > span.kw { color: #0000ff; } /* Keyword */
+code > span.ch { color: #008080; } /* Char */
+code > span.st { color: #008080; } /* String */
+code > span.co { color: #008000; } /* Comment */
+code > span.ot { color: #ff4000; } /* Other */
+code > span.al { color: #ff0000; } /* Alert */
+code > span.er { color: #ff0000; font-weight: bold; } /* Error */
+code > span.wa { color: #008000; font-weight: bold; } /* Warning */
+code > span.cn { } /* Constant */
+code > span.sc { color: #008080; } /* SpecialChar */
+code > span.vs { color: #008080; } /* VerbatimString */
+code > span.ss { color: #008080; } /* SpecialString */
+code > span.im { } /* Import */
+code > span.va { } /* Variable */
+code > span.cf { color: #0000ff; } /* ControlFlow */
+code > span.op { } /* Operator */
+code > span.bu { } /* BuiltIn */
+code > span.ex { } /* Extension */
+code > span.pp { color: #ff4000; } /* Preprocessor */
+code > span.do { color: #008000; } /* Documentation */
+code > span.an { color: #008000; } /* Annotation */
+code > span.cv { color: #008000; } /* CommentVar */
+code > span.at { } /* Attribute */
+code > span.in { color: #008000; } /* Information */
+div.sourceCode {
+  overflow-x: visible;
+}
+</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
 
 
 <style type="text/css">
@@ -166,25 +207,49 @@ $(document).ready(function () {
 <li>
 <p>Developed a clean <a href="https://github.com/grmunjal/socialcops/tree/master/data">rubric template of the survey</a></p>
 <li>
-<p>Extracted all .xls files given into a <a href="https://github.com/grmunjal/socialcops/tree/master/dataxls-files/">single folder</a> using bash</p>
+<p>Extracted all .xls files given into a <a href="https://github.com/grmunjal/socialcops/tree/master/data/xls-files/">single folder</a> using bash</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY2Qgc29jaWFsY29wcy9kYXRhL3hscy1maWxlc1xuXG5maW5kIC4uL2dpdmVuLyAtbmFtZSAnKi54bHMnIC1leGVjIGNwIHt9IC4vIFxcO1xuXG5yZW1vdmU9Q29weVxcIG9mXFwgXG5mb3IgZmlsZW5hbWUgaW4gIFwiJHJlbW92ZVwiKjsgZG8gbXYgXCIkZmlsZW5hbWVcIiBcIiR7ZmlsZW5hbWUjXCIkcmVtb3ZlXCJ9XCI7IGRvbmVcbmBgYCJ9 -->
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">cd socialcops/data/xls-files
+
+find ../given/<span class="st"> </span>-name <span class="st">'*.xls'</span> -exec cp {} ./<span class="st"> </span>\;
+
+remove=Copy\ of\ 
+for filename in  <span class="st">&quot;$remove&quot;</span>*; do mv <span class="st">&quot;$filename&quot;</span> <span class="st">&quot;${filename#&quot;</span>$remove<span class="st">&quot;}&quot;</span>; done</code></pre></div>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <li>
-<p>Developed a <a href="https://github.com/grmunjal/socialcops/code/">Python based parser</a> that takes an excel file, fishes out all the data and labels the rows according to the rubric</p>
+<p>Developed a <a href="https://github.com/grmunjal/socialcops/tree/master/code/">Python based parser</a> that takes an excel file, fishes out all the data and labels the rows according to the rubric</p>
 <li>
 <p>Ran parser recursively on all .xls files using bash (less than 1 minute for all files):</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuI0Fzc3VtaW5nIHlvdSBhcmUgaW4gdGhlIFwieGxzLWZpbGVzXCIgZGlyZWN0b3J5XG5cbmZvciBmaWxlbmFtZSBpbiAqXCIueGxzXCI7IGRvIHB5dGhvbiAuLi8uLi9jb2RlL05SSE0tcGFyc2VyLnB5IC4vXCIkZmlsZW5hbWVcIiAuLi9OUkhNLU1ILXRpZHlydWJyaWMuY3N2OyBkb25lXG5cbm12IHRpZHkqIC4uL3RpZHktZmlsZXNcbmBgYCJ9 -->
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co">#Assuming you are in the &quot;xls-files&quot; directory</span>
+
+for filename in *<span class="st">&quot;.xls&quot;</span>; do python ../../code/NRHM-parser.py ./<span class="st">&quot;$filename&quot;</span> ../NRHM-MH-tidyrubric.csv; done
+
+mv tidy*<span class="st"> </span>../tidy-files</code></pre></div>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <li>
-<p>Output from parser is a “tidy” .csv file that is R readable. File names for the tidy files match the Facility Name inside the spreadsheet. <a href="https://github.com/grmunjal/socialcops/tree/master/datatidy-files/">One file produced per xls provided</a>.</p>
+<p>Output from parser is a “tidy” .csv file that is R readable. File names for the tidy files match the Facility Name inside the spreadsheet. <a href="https://github.com/grmunjal/socialcops/tree/master/data/tidy-files/">One file produced per xls provided</a>.</p>
 <li>
 <p>All files merged to form the merged file and column headers added using bash:</p>
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuI0Fzc3VtaW5nIHlvdSBhcmUgaW4gdGhlIFwidGlkeS1maWxlc1wiIGRpcmVjdG9yeVxuXG5jYXQgdGlkeS0qID4gdGlkeS1OUkhNLWNvbXBpbGVkc2V0LmNzdlxuXG57IGVjaG8gJ0ZhY2lsaXR5TmFtZSxpZCxTdWJqZWN0QXJlYSxGb2N1cyxEZXNjcmlwdGlvbixHcm91cGluZyxRdWVzdGlvbixOYW1lcyxGYWNpbGl0eUxldmVsLEFwci4yMDE1LE1heS4yMDE1LEp1bi4yMDE1LEp1bC4yMDE1LEF1Zy4yMDE1LFNlcC4yMDE1LE9jdC4yMDE1LE5vdi4yMDE1LERlYy4yMDE1LEphbi4yMDE2LEZlYi4yMDE2LE1hci4yMDE2JzsgY2F0IHRpZHktTlJITS1jb21waWxlZHNldC5jc3Y7IH0gPiAvdG1wLyQkICYmIG12IC90bXAvJCQgdGlkeS1OUkhNLWNvbXBpbGVkc2V0LmNzdlxuXG5tdiB0aWR5LU5SSE0tY29tcGlsZWRzZXQuY3N2IC4uL1xuYGBgIn0= -->
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co">#Assuming you are in the &quot;tidy-files&quot; directory</span>
+
+cat tidy-<span class="er">*</span><span class="st"> </span><span class="er">&gt;</span><span class="st"> </span>tidy-NRHM-compiledset.csv
+
+{ echo <span class="st">'FacilityName,id,SubjectArea,Focus,Description,Grouping,Question,Names,FacilityLevel,Apr.2015,May.2015,Jun.2015,Jul.2015,Aug.2015,Sep.2015,Oct.2015,Nov.2015,Dec.2015,Jan.2016,Feb.2016,Mar.2016'</span>; cat tidy-NRHM-compiledset.csv; } &gt;<span class="st"> </span><span class="er">/</span>tmp/<span class="er">$$</span><span class="st"> </span><span class="er">&amp;&amp;</span><span class="st"> </span>mv /tmp/<span class="er">$$</span><span class="st"> </span>tidy-NRHM-compiledset.csv
+
+mv tidy-NRHM-compiledset.csv ../</code></pre></div>
+<!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <li>
@@ -192,7 +257,7 @@ $(document).ready(function () {
 <!-- rnb-text-end -->
 </div>
 
-<div id="rmd-source-code">LS0tCnRpdGxlOiAiICIKYXV0aG9yOiAiR2l0YW5zaHUgTXVuamFsIgpkYXRlOiAiTWFyY2ggNnRoLCAyMDE4IgpvdXRwdXQ6IAogIGh0bWxfbm90ZWJvb2s6IAogICAgaGlnaGxpZ2h0OiBoYWRkb2NrCiAgICB0aGVtZTogc3BhY2VsYWIKLS0tCjxicj48YnI+PGJyPjxicj4KQW5hbHlzaXMgbm90ZXMgY2FuIGJlIGZvdW5kIFtoZXJlXShodHRwOi8vZ3JtdW5qYWwuZ2l0aHViLmlvL3ByZXNlbnRhdGlvbnMvc29jaWFsY29wcy9NdW5qYWwtTlJITS1hbmFseXNpcy5uYi5odG1sKSBhbmQgQW5hbHlzaXMgY2FuIGJlIGZvdW5kIFtoZXJlXShodHRwOi8vZ3JtdW5qYWwuZ2l0aHViLmlvL3ByZXNlbnRhdGlvbnMvc29jaWFsY29wcy9NdW5qYWwtTlJITS1jb2RlLm5iLmh0bWwpCjxicj48YnI+PGhyPjxicj48YnI+CgoKIyMjIyBOb3Rlcy9jb2RlIGZvciAqKipEYXRhIENsZWFuLVVwKioqCjxocj4KCjxsaT4KRGV2ZWxvcGVkIGEgY2xlYW4gW3J1YnJpYyB0ZW1wbGF0ZSBvZiB0aGUgc3VydmV5XShodHRwczovL2dpdGh1Yi5jb20vZ3JtdW5qYWwvc29jaWFsY29wcy90cmVlL21hc3Rlci9kYXRhKQoKPGxpPgpFeHRyYWN0ZWQgYWxsIC54bHMgZmlsZXMgZ2l2ZW4gaW50byBhIFtzaW5nbGUgZm9sZGVyXShodHRwczovL2dpdGh1Yi5jb20vZ3JtdW5qYWwvc29jaWFsY29wcy90cmVlL21hc3Rlci9kYXRheGxzLWZpbGVzLykgdXNpbmcgYmFzaApgYGB7cn0KY2Qgc29jaWFsY29wcy9kYXRhL3hscy1maWxlcwoKZmluZCAuLi9naXZlbi8gLW5hbWUgJyoueGxzJyAtZXhlYyBjcCB7fSAuLyBcOwoKcmVtb3ZlPUNvcHlcIG9mXCAKZm9yIGZpbGVuYW1lIGluICAiJHJlbW92ZSIqOyBkbyBtdiAiJGZpbGVuYW1lIiAiJHtmaWxlbmFtZSMiJHJlbW92ZSJ9IjsgZG9uZQpgYGAKPGxpPgpEZXZlbG9wZWQgYSBbUHl0aG9uIGJhc2VkIHBhcnNlcl0oaHR0cHM6Ly9naXRodWIuY29tL2dybXVuamFsL3NvY2lhbGNvcHMvY29kZS8pIHRoYXQgdGFrZXMgYW4gZXhjZWwgZmlsZSwgZmlzaGVzIG91dCBhbGwgdGhlIGRhdGEgYW5kIGxhYmVscyB0aGUgcm93cyBhY2NvcmRpbmcgdG8gdGhlIHJ1YnJpYwoKPGxpPgpSYW4gcGFyc2VyIHJlY3Vyc2l2ZWx5IG9uIGFsbCAueGxzIGZpbGVzIHVzaW5nIGJhc2ggKGxlc3MgdGhhbiAxIG1pbnV0ZSBmb3IgYWxsIGZpbGVzKToKCmBgYHtyfQojQXNzdW1pbmcgeW91IGFyZSBpbiB0aGUgInhscy1maWxlcyIgZGlyZWN0b3J5Cgpmb3IgZmlsZW5hbWUgaW4gKiIueGxzIjsgZG8gcHl0aG9uIC4uLy4uL2NvZGUvTlJITS1wYXJzZXIucHkgLi8iJGZpbGVuYW1lIiAuLi9OUkhNLU1ILXRpZHlydWJyaWMuY3N2OyBkb25lCgptdiB0aWR5KiAuLi90aWR5LWZpbGVzCmBgYAoKCgo8bGk+Ck91dHB1dCBmcm9tIHBhcnNlciBpcyBhICJ0aWR5IiAuY3N2IGZpbGUgdGhhdCBpcyBSIHJlYWRhYmxlLiBGaWxlIG5hbWVzIGZvciB0aGUgdGlkeSBmaWxlcyBtYXRjaCB0aGUgRmFjaWxpdHkgTmFtZSBpbnNpZGUgdGhlIHNwcmVhZHNoZWV0LiBbT25lIGZpbGUgcHJvZHVjZWQgcGVyIHhscyBwcm92aWRlZF0oaHR0cHM6Ly9naXRodWIuY29tL2dybXVuamFsL3NvY2lhbGNvcHMvdHJlZS9tYXN0ZXIvZGF0YXRpZHktZmlsZXMvKS4gCgo8bGk+CkFsbCBmaWxlcyBtZXJnZWQgdG8gZm9ybSB0aGUgbWVyZ2VkIGZpbGUgYW5kIGNvbHVtbiBoZWFkZXJzIGFkZGVkIHVzaW5nIGJhc2g6CmBgYHtyfQojQXNzdW1pbmcgeW91IGFyZSBpbiB0aGUgInRpZHktZmlsZXMiIGRpcmVjdG9yeQoKY2F0IHRpZHktKiA+IHRpZHktTlJITS1jb21waWxlZHNldC5jc3YKCnsgZWNobyAnRmFjaWxpdHlOYW1lLGlkLFN1YmplY3RBcmVhLEZvY3VzLERlc2NyaXB0aW9uLEdyb3VwaW5nLFF1ZXN0aW9uLE5hbWVzLEZhY2lsaXR5TGV2ZWwsQXByLjIwMTUsTWF5LjIwMTUsSnVuLjIwMTUsSnVsLjIwMTUsQXVnLjIwMTUsU2VwLjIwMTUsT2N0LjIwMTUsTm92LjIwMTUsRGVjLjIwMTUsSmFuLjIwMTYsRmViLjIwMTYsTWFyLjIwMTYnOyBjYXQgdGlkeS1OUkhNLWNvbXBpbGVkc2V0LmNzdjsgfSA+IC90bXAvJCQgJiYgbXYgL3RtcC8kJCB0aWR5LU5SSE0tY29tcGlsZWRzZXQuY3N2CgptdiB0aWR5LU5SSE0tY29tcGlsZWRzZXQuY3N2IC4uLwpgYGAKCgo8bGk+IEZpbmFsIGZpbGUgaXMgW2hlcmUgKHRpZHktTlJITS1jb21waWxlZHNldC5jc3YpXShodHRwczovL2dpdGh1Yi5jb20vZ3JtdW5qYWwvc29jaWFsY29wcy90cmVlL21hc3Rlci9kYXRhLykKPGJyPjxicj48YnI+PGJyPgo=</div>
+<div id="rmd-source-code">LS0tCnRpdGxlOiAiICIKYXV0aG9yOiAiR2l0YW5zaHUgTXVuamFsIgpkYXRlOiAiTWFyY2ggNnRoLCAyMDE4IgpvdXRwdXQ6IAogIGh0bWxfbm90ZWJvb2s6IAogICAgaGlnaGxpZ2h0OiBoYWRkb2NrCiAgICB0aGVtZTogc3BhY2VsYWIKLS0tCjxicj48YnI+PGJyPjxicj4KQW5hbHlzaXMgbm90ZXMgY2FuIGJlIGZvdW5kIFtoZXJlXShodHRwOi8vZ3JtdW5qYWwuZ2l0aHViLmlvL3ByZXNlbnRhdGlvbnMvc29jaWFsY29wcy9NdW5qYWwtTlJITS1hbmFseXNpcy5uYi5odG1sKSBhbmQgQW5hbHlzaXMgY2FuIGJlIGZvdW5kIFtoZXJlXShodHRwOi8vZ3JtdW5qYWwuZ2l0aHViLmlvL3ByZXNlbnRhdGlvbnMvc29jaWFsY29wcy9NdW5qYWwtTlJITS1jb2RlLm5iLmh0bWwpCjxicj48YnI+PGhyPjxicj48YnI+CgoKIyMjIyBOb3Rlcy9jb2RlIGZvciAqKipEYXRhIENsZWFuLVVwKioqCjxocj4KCjxsaT4KRGV2ZWxvcGVkIGEgY2xlYW4gW3J1YnJpYyB0ZW1wbGF0ZSBvZiB0aGUgc3VydmV5XShodHRwczovL2dpdGh1Yi5jb20vZ3JtdW5qYWwvc29jaWFsY29wcy90cmVlL21hc3Rlci9kYXRhKQoKPGxpPgpFeHRyYWN0ZWQgYWxsIC54bHMgZmlsZXMgZ2l2ZW4gaW50byBhIFtzaW5nbGUgZm9sZGVyXShodHRwczovL2dpdGh1Yi5jb20vZ3JtdW5qYWwvc29jaWFsY29wcy90cmVlL21hc3Rlci9kYXRhL3hscy1maWxlcy8pIHVzaW5nIGJhc2gKYGBge3J9CmNkIHNvY2lhbGNvcHMvZGF0YS94bHMtZmlsZXMKCmZpbmQgLi4vZ2l2ZW4vIC1uYW1lICcqLnhscycgLWV4ZWMgY3Age30gLi8gXDsKCnJlbW92ZT1Db3B5XCBvZlwgCmZvciBmaWxlbmFtZSBpbiAgIiRyZW1vdmUiKjsgZG8gbXYgIiRmaWxlbmFtZSIgIiR7ZmlsZW5hbWUjIiRyZW1vdmUifSI7IGRvbmUKYGBgCjxsaT4KRGV2ZWxvcGVkIGEgW1B5dGhvbiBiYXNlZCBwYXJzZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9ncm11bmphbC9zb2NpYWxjb3BzL3RyZWUvbWFzdGVyL2NvZGUvKSB0aGF0IHRha2VzIGFuIGV4Y2VsIGZpbGUsIGZpc2hlcyBvdXQgYWxsIHRoZSBkYXRhIGFuZCBsYWJlbHMgdGhlIHJvd3MgYWNjb3JkaW5nIHRvIHRoZSBydWJyaWMKCjxsaT4KUmFuIHBhcnNlciByZWN1cnNpdmVseSBvbiBhbGwgLnhscyBmaWxlcyB1c2luZyBiYXNoIChsZXNzIHRoYW4gMSBtaW51dGUgZm9yIGFsbCBmaWxlcyk6CgpgYGB7cn0KI0Fzc3VtaW5nIHlvdSBhcmUgaW4gdGhlICJ4bHMtZmlsZXMiIGRpcmVjdG9yeQoKZm9yIGZpbGVuYW1lIGluICoiLnhscyI7IGRvIHB5dGhvbiAuLi8uLi9jb2RlL05SSE0tcGFyc2VyLnB5IC4vIiRmaWxlbmFtZSIgLi4vTlJITS1NSC10aWR5cnVicmljLmNzdjsgZG9uZQoKbXYgdGlkeSogLi4vdGlkeS1maWxlcwpgYGAKCgoKPGxpPgpPdXRwdXQgZnJvbSBwYXJzZXIgaXMgYSAidGlkeSIgLmNzdiBmaWxlIHRoYXQgaXMgUiByZWFkYWJsZS4gRmlsZSBuYW1lcyBmb3IgdGhlIHRpZHkgZmlsZXMgbWF0Y2ggdGhlIEZhY2lsaXR5IE5hbWUgaW5zaWRlIHRoZSBzcHJlYWRzaGVldC4gW09uZSBmaWxlIHByb2R1Y2VkIHBlciB4bHMgcHJvdmlkZWRdKGh0dHBzOi8vZ2l0aHViLmNvbS9ncm11bmphbC9zb2NpYWxjb3BzL3RyZWUvbWFzdGVyL2RhdGEvdGlkeS1maWxlcy8pLiAKCjxsaT4KQWxsIGZpbGVzIG1lcmdlZCB0byBmb3JtIHRoZSBtZXJnZWQgZmlsZSBhbmQgY29sdW1uIGhlYWRlcnMgYWRkZWQgdXNpbmcgYmFzaDoKYGBge3J9CiNBc3N1bWluZyB5b3UgYXJlIGluIHRoZSAidGlkeS1maWxlcyIgZGlyZWN0b3J5CgpjYXQgdGlkeS0qID4gdGlkeS1OUkhNLWNvbXBpbGVkc2V0LmNzdgoKeyBlY2hvICdGYWNpbGl0eU5hbWUsaWQsU3ViamVjdEFyZWEsRm9jdXMsRGVzY3JpcHRpb24sR3JvdXBpbmcsUXVlc3Rpb24sTmFtZXMsRmFjaWxpdHlMZXZlbCxBcHIuMjAxNSxNYXkuMjAxNSxKdW4uMjAxNSxKdWwuMjAxNSxBdWcuMjAxNSxTZXAuMjAxNSxPY3QuMjAxNSxOb3YuMjAxNSxEZWMuMjAxNSxKYW4uMjAxNixGZWIuMjAxNixNYXIuMjAxNic7IGNhdCB0aWR5LU5SSE0tY29tcGlsZWRzZXQuY3N2OyB9ID4gL3RtcC8kJCAmJiBtdiAvdG1wLyQkIHRpZHktTlJITS1jb21waWxlZHNldC5jc3YKCm12IHRpZHktTlJITS1jb21waWxlZHNldC5jc3YgLi4vCmBgYAoKCjxsaT4gRmluYWwgZmlsZSBpcyBbaGVyZSAodGlkeS1OUkhNLWNvbXBpbGVkc2V0LmNzdildKGh0dHBzOi8vZ2l0aHViLmNvbS9ncm11bmphbC9zb2NpYWxjb3BzL3RyZWUvbWFzdGVyL2RhdGEvKQo8YnI+PGJyPjxicj48YnI+Cg==</div>
 
 
 

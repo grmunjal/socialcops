@@ -19,7 +19,7 @@ Analysis notes can be found [here](http://grmunjal.github.io/presentations/socia
 Developed a clean [rubric template of the survey](https://github.com/grmunjal/socialcops/tree/master/data)
 
 <li>
-Extracted all .xls files given into a [single folder](https://github.com/grmunjal/socialcops/tree/master/dataxls-files/) using bash
+Extracted all .xls files given into a [single folder](https://github.com/grmunjal/socialcops/tree/master/data/xls-files/) using bash
 ```{r}
 cd socialcops/data/xls-files
 
@@ -29,7 +29,7 @@ remove=Copy\ of\
 for filename in  "$remove"*; do mv "$filename" "${filename#"$remove"}"; done
 ```
 <li>
-Developed a [Python based parser](https://github.com/grmunjal/socialcops/code/) that takes an excel file, fishes out all the data and labels the rows according to the rubric
+Developed a [Python based parser](https://github.com/grmunjal/socialcops/tree/master/code/) that takes an excel file, fishes out all the data and labels the rows according to the rubric
 
 <li>
 Ran parser recursively on all .xls files using bash (less than 1 minute for all files):
@@ -45,7 +45,7 @@ mv tidy* ../tidy-files
 
 
 <li>
-Output from parser is a "tidy" .csv file that is R readable. File names for the tidy files match the Facility Name inside the spreadsheet. [One file produced per xls provided](https://github.com/grmunjal/socialcops/tree/master/datatidy-files/). 
+Output from parser is a "tidy" .csv file that is R readable. File names for the tidy files match the Facility Name inside the spreadsheet. [One file produced per xls provided](https://github.com/grmunjal/socialcops/tree/master/data/tidy-files/). 
 
 <li>
 All files merged to form the merged file and column headers added using bash:
