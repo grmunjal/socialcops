@@ -1,0 +1,64 @@
+---
+title: " "
+author: "Gitanshu Munjal"
+date: "March 6th, 2018"
+output: 
+  html_notebook: 
+    highlight: haddock
+    theme: spacelab
+---
+<br><br><br><br>
+Analysis notes can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-analysis.nb.html) and Analysis can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-code.nb.html)
+<br><br><hr><br><br>
+
+
+#### Notes/code for ***Data Clean-Up***
+<hr>
+
+<li>
+Developed a clean [rubric template of the survey](https://github.com/grmunjal/socialcops/data/)
+
+<li>
+Extracted all .xls files given into a [single folder](https://github.com/grmunjal/socialcops/data/xls-files/) using bash
+```{r}
+cd socialcops/data/xls-files
+
+find ../given/ -name '*.xls' -exec cp {} ./ \;
+
+remove=Copy\ of\ 
+for filename in  "$remove"*; do mv "$filename" "${filename#"$remove"}"; done
+```
+<li>
+Developed a [Python based parser](https://github.com/grmunjal/socialcops/code/) that takes an excel file, fishes out all the data and labels the rows according to the rubric
+
+<li>
+Ran parser recursively on all .xls files using bash (less than 1 minute for all files):
+
+```{r}
+#Assuming you are in the "xls-files" directory
+
+for filename in *".xls"; do python ../../code/NRHM-parser.py ./"$filename" ../NRHM-MH-tidyrubric.csv; done
+
+mv tidy* ../tidy-files
+```
+
+
+
+<li>
+Output from parser is a "tidy" .csv file that is R readable. File names for the tidy files match the Facility Name inside the spreadsheet. [One file produced per xls provided](https://github.com/grmunjal/socialcops/data/tidy-files/). 
+
+<li>
+All files merged to form the merged file and column headers added using bash:
+```{r}
+#Assuming you are in the "tidy-files" directory
+
+cat tidy-* > tidy-NRHM-compiledset.csv
+
+{ echo 'FacilityName,id,SubjectArea,Focus,Description,Grouping,Question,Names,FacilityLevel,Apr.2015,May.2015,Jun.2015,Jul.2015,Aug.2015,Sep.2015,Oct.2015,Nov.2015,Dec.2015,Jan.2016,Feb.2016,Mar.2016'; cat tidy-NRHM-compiledset.csv; } > /tmp/$$ && mv /tmp/$$ tidy-NRHM-compiledset.csv
+
+mv tidy-NRHM-compiledset.csv ../
+```
+
+
+<li> Final file is [here (tidy-NRHM-compiledset.csv)](https://github.com/grmunjal/socialcops/data/xls-files/)
+<br><br><br><br>

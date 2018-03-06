@@ -1,0 +1,525 @@
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,Part A,Part A-dummy-Ante Natal Care Services ANC,SC,,,,,,,,,,,,
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,M1,M1-dummy-Ante Natal Care Services ANC,SC,,,,,,,,,,,,
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women Registered for ANC  ,TOTAL,1.1,1.1-TOTAL-Total number of pregnant women Registered for ANC,SC,3.0,8.0,3.0,4.0,4.0,5.0,9.0,5.0,3.0,5.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Of which Number registered within first trimester,TOTAL,1.1.1,1.1.1-TOTAL-Of which Number registered within first trimester,SC,3.0,8.0,3.0,2.0,1.0,3.0,6.0,4.0,2.0,3.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New women registered under JSY,TOTAL,1.2,1.2-TOTAL-New women registered under JSY,SC,1.0,3.0,1.0,1.0,4.0,4.0,2.0,2.0,1.0,3.0,2.0,1.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women received 3 ANC check ups,TOTAL,1.3,1.3-TOTAL-Number of pregnant women received 3 ANC check ups,SC,4.0,7.0,3.0,7.0,3.0,4.0,3.0,4.0,8.0,5.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women given,dummy,1.4,1.4-dummy-Number of pregnant women given,SC,,,,,,,,,,,,
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT1,TOTAL,1.4.1,1.4.1-TOTAL-TT1,SC,2.0,6.0,2.0,1.0,3.0,3.0,5.0,4.0,3.0,3.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT2 or Booster,TOTAL,1.4.2,1.4.2-TOTAL-TT2 or Booster,SC,3.0,8.0,3.0,4.0,4.0,5.0,9.0,5.0,3.0,5.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women given 100 IFA tablets,TOTAL,1.5,1.5-TOTAL-Total number of pregnant women given 100 IFA tablets,SC,0.0,8.0,3.0,4.0,4.0,5.0,9.0,5.0,3.0,5.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Hypertension (BP>140/90) ,dummy,1.6,1.6-dummy-Pregnant women with Hypertension (BP>140/90),SC,,,,,,,,,,,,
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New cases detected at institution,TOTAL,1.6.1,1.6.1-TOTAL-New cases detected at institution,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of Eclampsia cases managed during delivery,TOTAL,1.6.2,1.6.2-TOTAL-Number of Eclampsia cases managed during delivery,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Anaemia ,dummy,1.7,1.7-dummy-Pregnant women with Anaemia,SC,,,,,,,,,,,,
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having Hb level<11 (tested cases),TOTAL,1.7.1,1.7.1-TOTAL-Number having Hb level<11 (tested cases),SC,3.0,8.0,3.0,4.0,4.0,5.0,9.0,5.0,3.0,5.0,2.0,3.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having severe anaemia (Hb<7) treated at institution,TOTAL,1.7.2,1.7.2-TOTAL-Number having severe anaemia (Hb<7) treated at institution,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnancy kits used at Sub-centre,TOTAL,1.8,1.8-TOTAL-Number of pregnancy kits used at Sub-centre,SC,3.0,8.0,3.0,4.0,4.0,5.0,9.0,5.0,3.0,5.0,2.0,3.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries ,dummy,M2,M2-dummy-Deliveries,SC,,,,,,,,,,,,
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Home:,dummy,2.1,2.1-dummy-Deliveries conducted at Home:,SC,,,,,,,,,,,,
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Home Deliveries attended by:,dummy,2.1.1,2.1.1-dummy-Number of Home Deliveries attended by:,SC,,,,,,,,,,,,
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,SBA Trained (Doctor/Nurse/ANM),TOTAL,2.1.1.a,2.1.1.a-TOTAL-SBA Trained (Doctor/Nurse/ANM),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Non SBA (Trained TBA/Relatives/etc.),TOTAL,2.1.1.b,2.1.1.b-TOTAL-Non SBA (Trained TBA/Relatives/etc.),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Total {(a) to (b)},TOTAL,2.1.1.c,2.1.1.c-TOTAL-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of newborns visited within 24 hours of Home Delivery,TOTAL,2.1.2,2.1.2-TOTAL-Number of newborns visited within 24 hours of Home Delivery,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of mothers paid JSY incentive for Home deliveries,TOTAL,2.1.3,2.1.3-TOTAL-Number of mothers paid JSY incentive for Home deliveries,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Public Institutions ,TOTAL,2.2,2.2-TOTAL-Deliveries conducted at Public Institutions,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Of which Number discharged under 48 hours of delivery,TOTAL,2.2.1,2.2.1-TOTAL-Of which Number discharged under 48 hours of delivery,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of cases where JSY incentive paid to,dummy,2.2.2,2.2.2-dummy-Number of cases where JSY incentive paid to,SC,,,,,,,,,,,,
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.2.2.a,2.2.2.a-TOTAL-Mothers,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.2.2.b,2.2.2.b-TOTAL-ASHAs,SC,1.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,2.0,3.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.2.2.c,2.2.2.c-TOTAL-ANM or AWW (only for HPS States),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Deliveries  at accredited Private Institutions,TOTAL,2.3,2.3-TOTAL-Number of Deliveries  at accredited Private Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of institutional delivery cases where JSY incentive paid to,dummy,2.3.1,2.3.1-dummy-Number of institutional delivery cases where JSY incentive paid to,SC,,,,,,,,,,,,
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.3.1.a,2.3.1.a-TOTAL-Mothers,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.3.1.b,2.3.1.b-TOTAL-ASHAs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+SC Tuman,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.3.1.c,2.3.1.c-TOTAL-ANM or AWW (only for HPS States),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Number of Caesarean C-Section deliveries performed at ,dummy,M3,M3-dummy-Number of Caesarean C-Section deliveries performed at,SC,,,,,,,,,,,,
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Public facilities,dummy,3.1,3.1-dummy-Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,PHC,TOTAL,3.1.1,3.1.1-TOTAL-PHC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,CHC ,TOTAL,3.1.2,3.1.2-TOTAL-CHC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Sub-divisional hospital/District Hospital,TOTAL,3.1.3,3.1.3-TOTAL-Sub-divisional hospital/District Hospital,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,At Other State Owned Public Institutions,TOTAL,3.1.4,3.1.4-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Total {(3.1.1) to (3.1.4)},TOTAL,3.1.5,3.1.5-TOTAL-Total {(3.1.1) to (3.1.4)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Private facilities,TOTAL,3.2,3.2-TOTAL-Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy outcome & weight of new-born,dummy,M4,M4-dummy-Pregnancy outcome & weight of new-born,SC,,,,,,,,,,,,
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy Outcome (in number),dummy,4.1,4.1-dummy-Pregnancy Outcome (in number),SC,,,,,,,,,,,,
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Live Birth,dummy,4.1.1,4.1.1-dummy-Live Birth,SC,,,,,,,,,,,,
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Male,TOTAL,4.1.1.a,4.1.1.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0,0.0,0.0,1.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Female,TOTAL,4.1.1.b ,4.1.1.b -TOTAL-Female,SC,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Total ({a} + {b}),TOTAL,4.1.1.c,4.1.1.c-TOTAL-Total ({a} + {b}),SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Still Birth,TOTAL,4.1.2,4.1.2-TOTAL-Still Birth,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Abortion (spontaneous/induced),TOTAL,4.1.3,4.1.3-TOTAL-Abortion (spontaneous/induced),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Details of Newborn children weighed,dummy,4.2,4.2-dummy-Details of Newborn children weighed,SC,,,,,,,,,,,,
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns weighed at birth,TOTAL,4.2.1,4.2.1-TOTAL-Number of Newborns weighed at birth,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns having weight less than 2.5 kg,TOTAL,4.2.2,4.2.2-TOTAL-Number of Newborns having weight less than 2.5 kg,SC,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns breast fed within 1 hour,TOTAL,4.3,4.3-TOTAL-Number of Newborns breast fed within 1 hour,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Complicated pregnanices,dummy,M5,M5-dummy-Complicated pregnanices,SC,,,,,,,,,,,,
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,dummy,5.1,5.1-dummy-Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At PHCs ,TOTAL,5.1.1,5.1.1-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At CHCs ,TOTAL,5.1.2,5.1.2-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Sub-divisional hospitals/ District Hospitals,TOTAL,5.1.3,5.1.3-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Other State Owned Public Institutions,TOTAL,5.1.4,5.1.4-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Total {(5.1.1) to (5.1.4)},TOTAL,5.1.5,5.1.5-TOTAL-Total {(5.1.1) to (5.1.4)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,5.2,5.2-TOTAL-Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of Complicated pregnancies treated with,dummy,5.3,5.3-dummy-Number of Complicated pregnancies treated with,SC,,,,,,,,,,,,
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antibiotics,TOTAL,5.3.1,5.3.1-TOTAL-IV antibiotics,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antihypertensive/Magsulph injection,TOTAL,5.3.2,5.3.2-TOTAL-IV antihypertensive/Magsulph injection,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV Oxytocis,TOTAL,5.3.3,5.3.3-TOTAL-IV Oxytocis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Blood Transfusion ,TOTAL,5.3.4,5.3.4-TOTAL-Blood Transfusion,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Post - Natal Care,dummy,M6,M6-dummy-Post - Natal Care,SC,,,,,,,,,,,,
+SC Tuman,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women receiving post partum check-up within 48 hours after delivery,TOTAL,6.1,6.1-TOTAL-Women receiving post partum check-up within 48 hours after delivery,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women getting a post partum check up between 48 hours and 14 days,TOTAL,6.2,6.2-TOTAL-Women getting a post partum check up between 48 hours and 14 days,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,PNC maternal complications attended ,TOTAL,6.3,6.3-TOTAL-PNC maternal complications attended,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Medical Termination of Pregnancy (MTP),dummy,M7,M7-dummy-Medical Termination of Pregnancy (MTP),SC,,,,,,,,,,,,
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Public Institutions,dummy,7.1,7.1-dummy-Number of MTPs conducted at Public Institutions,SC,,,,,,,,,,,,
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Up to 12 weeks of pregnancy,TOTAL,7.1.1,7.1.1-TOTAL-Up to 12 weeks of pregnancy,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),More than 12 weeks of pregnancy,TOTAL,7.1.2,7.1.2-TOTAL-More than 12 weeks of pregnancy,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Total {(7.1.1) to (7.1.2)},TOTAL,7.1.3,7.1.3-TOTAL-Total {(7.1.1) to (7.1.2)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Private Facilities,TOTAL,7.2,7.2-TOTAL-Number of MTPs conducted at Private Facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,RTI/STI Cases,dummy,M8,M8-dummy-RTI/STI Cases,SC,,,,,,,,,,,,
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of new RTI/STI for which treatment initiated,dummy,8.1,8.1-dummy-Number of new RTI/STI for which treatment initiated,SC,,,,,,,,,,,,
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Male,TOTAL,8.1.a,8.1.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Female,TOTAL,8.1.b,8.1.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Total {(a) to (b)},TOTAL,8.1.c,8.1.c-TOTAL-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of wet mount tests conducted,TOTAL,8.2,8.2-TOTAL-Number of wet mount tests conducted,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Family Planning,dummy,M9,M9-dummy-Family Planning,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of NSV/Conventional Vasectomy conducted,dummy,9.01,9.01-dummy-Number of NSV/Conventional Vasectomy conducted,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.1.1,9.1.1-dummy-At Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.1.1.a,9.1.1.a-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.1.1.b,9.1.1.b-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.1.1.c,9.1.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.1.1.d,9.1.1.d-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.1.1.e,9.1.1.e-TOTAL-Total {(a) to (d)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.1.2,9.1.2-TOTAL-At Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Laparoscopic sterilizations conducted,dummy,9.02,9.02-dummy-Number of Laparoscopic sterilizations conducted,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.2.1,9.2.1-dummy-At Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.2.1.a,9.2.1.a-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.2.1.b,9.2.1.b-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.2.1.c,9.2.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.2.1.d,9.2.1.d-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.2.1.e,9.2.1.e-TOTAL-Total {(a) to (d)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.2.2,9.2.2-TOTAL-At Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Mini-lap sterilizations conducted ,dummy,9.03,9.03-dummy-Number of Mini-lap sterilizations conducted,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.3.1,9.3.1-dummy-At Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.3.1.a,9.3.1.a-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.3.1.b,9.3.1.b-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.3.1.c,9.3.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.3.1.d,9.3.1.d-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.3.1.e,9.3.1.e-TOTAL-Total {(a) to (d)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.3.2,9.3.2-TOTAL-At Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Post-Partum sterilizations conducted ,dummy,9.04,9.04-dummy-Number of Post-Partum sterilizations conducted,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.4.1,9.4.1-dummy-Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.4.1.a,9.4.1.a-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.4.1.b,9.4.1.b-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.4.1.c,9.4.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.4.1.d,9.4.1.d-TOTAL-At Other State Owned Public Institutions,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.4.1.e,9.4.1.e-TOTAL-Total {(a) to (d)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.4.2,9.4.2-TOTAL-Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD Insertions,dummy,9.05,9.05-dummy-Number of IUD Insertions,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.5.1,9.5.1-dummy-Public facilities,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-Centres ,TOTAL,9.5.1.a,9.5.1.a-TOTAL-At Sub-Centres,SC,0.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.5.1.b,9.5.1.b-TOTAL-At PHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.5.1.c,9.5.1.c-TOTAL-At CHCs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.5.1.d,9.5.1.d-TOTAL-At Sub-divisional hospitals/ District Hospitals,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.5.1.e,9.5.1.e-TOTAL-At Other State Owned Public Institutions,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (e)},TOTAL,9.5.1.f,9.5.1.f-TOTAL-Total {(a) to (e)},SC,0.0,2.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,"Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",TOTAL,9.5.1.A,"9.5.1.A-TOTAL-Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.5.2,9.5.2-TOTAL-Private facilities,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD removals,TOTAL,9.06,9.06-TOTAL-Number of IUD removals,SC,0.0,0.0,1.0,2.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Oral Pills cycles distributed,TOTAL,9.07,9.07-TOTAL-Number of Oral Pills cycles distributed,SC,0.0,0.0,0.0,0.0,2.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Condom pieces distributed,TOTAL,9.08,9.08-TOTAL-Number of Condom pieces distributed,SC,0.0,0.0,0.0,0.0,2.0,0.0,2.0,2.0,4.0,5.0,2.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Centchroman (weekly) pills given,TOTAL,9.09,9.09-TOTAL-Number of Centchroman (weekly) pills given,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Emergency Contraceptive Pills distributed,TOTAL,9.1,9.1-TOTAL-Number of Emergency Contraceptive Pills distributed,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Quality in sterilization services,dummy,9.11,9.11-dummy-Quality in sterilization services,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of complications following sterilization,dummy,9.11.1,9.11.1-dummy-Number of complications following sterilization,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.1.a,9.11.1.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.1.b,9.11.1.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of failures following sterilization,dummy,9.11.2,9.11.2-dummy-Number of failures following sterilization,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.2.a,9.11.2.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.2.b,9.11.2.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of deaths following sterilization,dummy,9.11.3,9.11.3-dummy-Number of deaths following sterilization,SC,,,,,,,,,,,,
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.3.a,9.11.3.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.3.b,9.11.3.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Institutions having NSV trained doctors,TOTAL,9.12,9.12-TOTAL-Number of Institutions having NSV trained doctors,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,CHILD IMMUNIZATION,dummy,M10,M10-dummy-CHILD IMMUNIZATION,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Infants 0 to 11 months old who received the following:,dummy,10.1,10.1-dummy-Number of Infants 0 to 11 months old who received the following:,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,BCG,TOTAL,10.1.01,10.1.01-TOTAL-BCG,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,1.0,0.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT1,TOTAL,10.1.02,10.1.02-TOTAL-DPT1,SC,2.0,2.0,0.0,1.0,3.0,3.0,5.0,9.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT2,TOTAL,10.1.03,10.1.03-TOTAL-DPT2,SC,6.0,2.0,1.0,0.0,2.0,2.0,4.0,3.0,7.0,2.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT3,TOTAL,10.1.04,10.1.04-TOTAL-DPT3,SC,4.0,5.0,3.0,2.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 1,TOTAL,10.1.04A,10.1.04A-TOTAL-Pentavalent 1,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,7.0,2.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 2,TOTAL,10.1.04B,10.1.04B-TOTAL-Pentavalent 2,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,7.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 3,TOTAL,10.1.04C,10.1.04C-TOTAL-Pentavalent 3,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV 0 (Birth Dose),TOTAL,10.1.05,10.1.05-TOTAL-OPV 0 (Birth Dose),SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV1,TOTAL,10.1.06,10.1.06-TOTAL-OPV1,SC,2.0,2.0,0.0,1.0,3.0,3.0,5.0,9.0,2.0,2.0,7.0,2.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV2,TOTAL,10.1.07,10.1.07-TOTAL-OPV2,SC,6.0,2.0,1.0,0.0,2.0,2.0,4.0,3.0,7.0,2.0,2.0,7.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV3,TOTAL,10.1.08,10.1.08-TOTAL-OPV3,SC,4.0,5.0,3.0,2.0,4.0,4.0,5.0,5.0,4.0,2.0,2.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B0,TOTAL,10.1.09,10.1.09-TOTAL-Hepatitis-B0,SC,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,4.0,0.0,0.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B1,TOTAL,10.1.10,10.1.10-TOTAL-Hepatitis-B1,SC,2.0,2.0,0.0,1.0,3.0,3.0,5.0,9.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B2,TOTAL,10.1.11,10.1.11-TOTAL-Hepatitis-B2,SC,6.0,2.0,1.0,0.0,2.0,2.0,4.0,3.0,7.0,2.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B3,TOTAL,10.1.12,10.1.12-TOTAL-Hepatitis-B3,SC,4.0,5.0,3.0,2.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles,TOTAL,10.1.13,10.1.13-TOTAL-Measles,SC,3.0,3.0,4.0,7.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles 2nd Dose,TOTAL,10.1.14,10.1.14-TOTAL-Measles 2nd Dose,SC,2.0,8.0,0.0,2.0,5.0,2.0,1.0,1.0,2.0,4.0,4.0,6.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.1.13,10.1.13-dummy-Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.1.13.a,10.1.13.a-TOTAL-Male,SC,2.0,1.0,0.0,3.0,3.0,0.0,4.0,3.0,2.0,1.0,0.0,2.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.1.13.b,10.1.13.b-TOTAL-Female,SC,1.0,2.0,4.0,4.0,1.0,4.0,1.0,2.0,2.0,1.0,1.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.1.13.c,10.1.13.c-TOTAL-Total {(a) to (b)},SC,3.0,3.0,4.0,7.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,No. of children aged 9 to 12 months who received JE 1st dose,TOTAL,10.1.A,10.1.A-TOTAL-No. of children aged 9 to 12 months who received JE 1st dose,SC,3.0,3.0,4.0,7.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of children more than 16 months who received the following,dummy,10.2,10.2-dummy-Number of children more than 16 months who received the following,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT Booster,TOTAL,10.2.1,10.2.1-TOTAL-DPT Booster,SC,2.0,8.0,0.0,2.0,5.0,2.0,1.0,1.0,2.0,4.0,4.0,6.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV Booster,TOTAL,10.2.2,10.2.2-TOTAL-OPV Booster,SC,2.0,8.0,0.0,2.0,5.0,2.0,1.0,1.0,2.0,4.0,4.0,6.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,"Measles, Mumps, Rubella (MMR) Vaccine",TOTAL,10.2.3,"10.2.3-TOTAL-Measles, Mumps, Rubella (MMR) Vaccine",SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Immunisation Status,dummy,10.3,10.3-dummy-Immunisation Status,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.3.1,10.3.1-dummy-Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.3.1.a,10.3.1.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.3.1.b,10.3.1.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.3.1.c,10.3.1.c-TOTAL-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 5 years given DT5,TOTAL,10.3.2,10.3.2-TOTAL-Children more than 5 years given DT5,SC,0.0,0.0,2.0,0.0,24.0,0.0,6.0,18.0,0.0,0.0,0.0,1.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 10 years given TT10,TOTAL,10.3.3,10.3.3-TOTAL-Children more than 10 years given TT10,SC,0.0,0.0,0.0,0.0,39.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 16 years given TT16,TOTAL,10.3.4,10.3.4-TOTAL-Children more than 16 years given TT16,SC,0.0,0.0,0.0,0.0,0.0,24.0,0.0,20.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Adverse Event Following Immunisation (AEFI),dummy,10.3.5,10.3.5-dummy-Adverse Event Following Immunisation (AEFI),SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Abscess,TOTAL,10.3.5.a,10.3.5.a-TOTAL-Abscess,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Death,TOTAL,10.3.5.b,10.3.5.b-TOTAL-Death,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Others,TOTAL,10.3.5.c,10.3.5.c-TOTAL-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Immunisation sessions during the month,dummy,10.4,10.4-dummy-Number of Immunisation sessions during the month,SC,,,,,,,,,,,,
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Planned,TOTAL,10.4.1,10.4.1-TOTAL-Planned,SC,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Held,TOTAL,10.4.2,10.4.2-TOTAL-Held,SC,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+SC Tuman,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Sessions where ASHAs were present,TOTAL,10.4.3,10.4.3-TOTAL-Sessions where ASHAs were present,SC,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+SC Tuman,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Number of Vitamin A doses ,dummy,M11,M11-dummy-Number of Vitamin A doses,SC,,,,,,,,,,,,
+SC Tuman,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Administered between 9 months and 5 years,dummy,11.1,11.1-dummy-Administered between 9 months and 5 years,SC,,,,,,,,,,,,
+SC Tuman,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-1,TOTAL,11.1.1,11.1.1-TOTAL-Dose-1,SC,3.0,3.0,4.0,7.0,4.0,4.0,5.0,5.0,4.0,2.0,1.0,3.0
+SC Tuman,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-5,TOTAL,11.1.2,11.1.2-TOTAL-Dose-5,SC,20.0,0.0,0.0,0.0,0.0,23.0,7.0,0.0,3.0,0.0,0.0,11.0
+SC Tuman,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-9,TOTAL,11.1.3,11.1.3-TOTAL-Dose-9,SC,7.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number of cases of Childhood Diseases reported during the month0-5 years: ,dummy,M12,M12-dummy-Number of cases of Childhood Diseases reported during the month0-5 years:,SC,,,,,,,,,,,,
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diphtheria                         ,TOTAL,12.1,12.1-TOTAL-Diphtheria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Pertussis                            ,TOTAL,12.2,12.2-TOTAL-Pertussis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus Neonatorum,TOTAL,12.3,12.3-TOTAL-Tetanus Neonatorum,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus others,TOTAL,12.4,12.4-TOTAL-Tetanus others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Polio,TOTAL,12.5,12.5-TOTAL-Polio,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Measles,TOTAL,12.6,12.6-TOTAL-Measles,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diarrhoea and dehydration,TOTAL,12.7,12.7-TOTAL-Diarrhoea and dehydration,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Malaria,TOTAL,12.8,12.8-TOTAL-Malaria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number admitted with Respiratory Infections,TOTAL,12.9,12.9-TOTAL-Number admitted with Respiratory Infections,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,dummy,dummy,dummy,Part B,Part B-dummy-dummy,SC,,,,,,,,,,,,
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Blindness Control Programme,dummy,M13,M13-dummy-Blindness Control Programme,SC,,,,,,,,,,,,
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of Patients operated for cataract,TOTAL,13.1,13.1-TOTAL-Number of Patients operated for cataract,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of Intraocular Lens(IOL) implantations,TOTAL,13.2,13.2-TOTAL-Number of Intraocular Lens(IOL) implantations,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of School children detected with Refractive errors,TOTAL,13.3,13.3-TOTAL-Number of School children detected with Refractive errors,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of children provided free glasses,TOTAL,13.4,13.4-TOTAL-Number of children provided free glasses,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes collected,TOTAL,13.5,13.5-TOTAL-Number of eyes collected,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes utilised,TOTAL,13.6,13.6-TOTAL-Number of eyes utilised,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,dummy,dummy,dummy,Part C,Part C-dummy-dummy,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Patient Services,dummy,M14,M14-dummy-Patient Services,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of CHC/ SDH/ DH functioning as an FRUs,TOTAL,14.01,14.01-TOTAL-Number of CHC/ SDH/ DH functioning as an FRUs,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of PHCs functioning  24X7 3 Staff Nurses?,TOTAL,14.02,14.02-TOTAL-Number of PHCs functioning  24X7 3 Staff Nurses?,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,14.03,14.03-TOTAL-Number of Anganwadi centres reported to have conducted VHNDs,SC,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,6.0,3.0,3.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of facilities having a Rogi Kalyan Samiti,TOTAL,14.04,14.04-TOTAL-Number of facilities having a Rogi Kalyan Samiti,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of RKS meetings held during the month,TOTAL,14.05,14.05-TOTAL-Number of RKS meetings held during the month,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of  facilities having Ambulance services  Assured Referral Services available,TOTAL,14.06,14.06-TOTAL-Number of  facilities having Ambulance services  Assured Referral Services available,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,14.07,14.07-TOTAL-Total Number of times the Ambulance was used for transporting patients during the month,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of Institutions having Operational Sick New Born and Child Care Units,TOTAL,14.08,14.08-TOTAL-Number of Institutions having Operational Sick New Born and Child Care Units,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,14.09,14.09-TOTAL-Number of functional Laproscopes in CHC/SDH/DH,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Inpatient,dummy,14.1,14.1-dummy-Inpatient,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Admissions ,dummy,14.10.1,14.10.1-dummy-Admissions,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Male,Children,14.10.1.a,14.10.1.a-Children-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Male,Adults,14.10.1.a,14.10.1.a-Adults-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Female,Children,14.10.1.b,14.10.1.b-Children-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Female,Adults,14.10.1.b,14.10.1.b-Adults-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Children,14.10.1.c,14.10.1.c-Children-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Adults,14.10.1.c,14.10.1.c-Adults-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Deaths,dummy,14.10.2,14.10.2-dummy-Deaths,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Male,TOTAL,14.10.2.a,14.10.2.a-TOTAL-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Female,TOTAL,14.10.2.b,14.10.2.b-TOTAL-Female,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},TOTAL,14.10.2.c,14.10.2.c-TOTAL-Total {(a) to (b)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,In-Patient Head Count at midnight,TOTAL,14.11,14.11-TOTAL-In-Patient Head Count at midnight,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Outpatient,dummy,14.12,14.12-dummy-Outpatient,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,OPD attendance (All),TOTAL,14.12.1,14.12.1-TOTAL-OPD attendance (All),SC,20.0,69.0,43.0,78.0,93.0,38.0,40.0,66.0,80.0,78.0,58.0,92.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Operation Theatre,dummy,14.13,14.13-dummy-Operation Theatre,SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Operation major (General and spinal anaesthesia),TOTAL,14.13.1,14.13.1-TOTAL-Operation major (General and spinal anaesthesia),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,"Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",TOTAL,14.13.1A,"14.13.1A-TOTAL-Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Operation minor (No or local anaesthesia),TOTAL,14.13.2,14.13.2-TOTAL-Operation minor (No or local anaesthesia),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,"Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",dummy,14.14,"14.14-dummy-Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",SC,,,,,,,,,,,,
+SC Tuman,C-M14-,Health Facility Services,Patient Services,AYUSH,TOTAL,14.14.a,14.14.a-TOTAL-AYUSH,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Dental Procedures,TOTAL,14.14.b,14.14.b-TOTAL-Dental Procedures,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M14-,Health Facility Services,Patient Services,Adolescent counselling services,TOTAL,14.14.c,14.14.c-TOTAL-Adolescent counselling services,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Testing,dummy,M15,M15-dummy-Laboratory Testing,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Test Details,dummy,15.1,15.1-dummy-Laboratory Test Details,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Hb Tests conducted,dummy,15.1.1,15.1.1-dummy-Hb Tests conducted,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Number of Hb tests conducted,TOTAL,15.1.1.a,15.1.1.a-TOTAL-Number of Hb tests conducted,SC,3.0,8.0,20.0,38.0,21.0,7.0,26.0,15.0,15.0,16.0,12.0,19.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Of which number having Hb < 7 mg,TOTAL,15.1.1.b,15.1.1.b-TOTAL-Of which number having Hb < 7 mg,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,HIV tests conducted,dummy,15.1.2,15.1.2-dummy-HIV tests conducted,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Male,Number Positive,15.1.2.a,15.1.2.a-Number Positive-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.1.2.a,15.1.2.a-Number tested-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number Positive,15.1.2.b,15.1.2.b-Number Positive-Female-Non ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.1.2.b,15.1.2.b-Number tested-Female-Non ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number Positive,15.1.2.c,15.1.2.c-Number Positive-Female with ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.1.2.c,15.1.2.c-Number tested-Female with ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number Positive,15.1.2.d,15.1.2.d-Number Positive-Total {(a) to (c)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.1.2.d,15.1.2.d-Number tested-Total {(a) to (c)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Widal tests conducted,Number tested,15.2,15.2-Number tested-Widal tests conducted,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,VDRL  tests conducted,dummy,15.3,15.3-dummy-VDRL  tests conducted,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.3.a,15.3.a-Number tested-Male,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.3.b,15.3.b-Number tested-Female-Non ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.3.c,15.3.c-Number tested-Female with ANC,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.3.d,15.3.d-Number tested-Total {(a) to (c)},SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Malaria tests conducted,dummy,15.4,15.4-dummy-Malaria tests conducted,SC,,,,,,,,,,,,
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Blood smears examined,TOTAL,15.4.1,15.4.1-TOTAL-Blood smears examined,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Vivax test positive,TOTAL,15.4.2,15.4.2-TOTAL-Plasmodium Vivax test positive,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Falciparum test positive,TOTAL,15.4.3,15.4.3-TOTAL-Plasmodium Falciparum test positive,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,D-M16-,Monthly Inventory Status,dummy,dummy,dummy,Part D,Part D-dummy-dummy,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Stock Position (During the month),dummy,M16,M16-dummy-Stock Position (During the month),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vaccines,dummy,16.1,16.1-dummy-Vaccines,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Balance From Previous Month,16.1.1,16.1.1-Balance From Previous Month-DPT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stocks Received,16.1.1,16.1.1-Stocks Received-DPT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Unusable Stock,16.1.1,16.1.1-Unusable Stock-DPT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stock Distributed,16.1.1,16.1.1-Stock Distributed-DPT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Total Stock,16.1.1,16.1.1-Total Stock-DPT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Balance From Previous Month,16.1.2,16.1.2-Balance From Previous Month-OPV,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stocks Received,16.1.2,16.1.2-Stocks Received-OPV,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Unusable Stock,16.1.2,16.1.2-Unusable Stock-OPV,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stock Distributed,16.1.2,16.1.2-Stock Distributed-OPV,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Total Stock,16.1.2,16.1.2-Total Stock-OPV,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Balance From Previous Month,16.1.3,16.1.3-Balance From Previous Month-TT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stocks Received,16.1.3,16.1.3-Stocks Received-TT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Unusable Stock,16.1.3,16.1.3-Unusable Stock-TT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stock Distributed,16.1.3,16.1.3-Stock Distributed-TT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Total Stock,16.1.3,16.1.3-Total Stock-TT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Balance From Previous Month,16.1.4,16.1.4-Balance From Previous Month-DT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stocks Received,16.1.4,16.1.4-Stocks Received-DT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Unusable Stock,16.1.4,16.1.4-Unusable Stock-DT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stock Distributed,16.1.4,16.1.4-Stock Distributed-DT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Total Stock,16.1.4,16.1.4-Total Stock-DT,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Balance From Previous Month,16.1.5,16.1.5-Balance From Previous Month-BCG,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stocks Received,16.1.5,16.1.5-Stocks Received-BCG,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Unusable Stock,16.1.5,16.1.5-Unusable Stock-BCG,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stock Distributed,16.1.5,16.1.5-Stock Distributed-BCG,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Total Stock,16.1.5,16.1.5-Total Stock-BCG,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Balance From Previous Month,16.1.6,16.1.6-Balance From Previous Month-Measles,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stocks Received,16.1.6,16.1.6-Stocks Received-Measles,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Unusable Stock,16.1.6,16.1.6-Unusable Stock-Measles,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stock Distributed,16.1.6,16.1.6-Stock Distributed-Measles,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Total Stock,16.1.6,16.1.6-Total Stock-Measles,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Balance From Previous Month,16.1.7,16.1.7-Balance From Previous Month-JE,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stocks Received,16.1.7,16.1.7-Stocks Received-JE,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Unusable Stock,16.1.7,16.1.7-Unusable Stock-JE,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stock Distributed,16.1.7,16.1.7-Stock Distributed-JE,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Total Stock,16.1.7,16.1.7-Total Stock-JE,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Balance From Previous Month,16.1.8,16.1.8-Balance From Previous Month-Hepatitis B,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stocks Received,16.1.8,16.1.8-Stocks Received-Hepatitis B,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Unusable Stock,16.1.8,16.1.8-Unusable Stock-Hepatitis B,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stock Distributed,16.1.8,16.1.8-Stock Distributed-Hepatitis B,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Total Stock,16.1.8,16.1.8-Total Stock-Hepatitis B,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Family Planning,dummy,16.2,16.2-dummy-Family Planning,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Balance From Previous Month,16.2.1,16.2.1-Balance From Previous Month-IUD 380 A,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stocks Received,16.2.1,16.2.1-Stocks Received-IUD 380 A,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Unusable Stock,16.2.1,16.2.1-Unusable Stock-IUD 380 A,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stock Distributed,16.2.1,16.2.1-Stock Distributed-IUD 380 A,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Total Stock,16.2.1,16.2.1-Total Stock-IUD 380 A,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Balance From Previous Month,16.2.2,16.2.2-Balance From Previous Month-Condoms,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stocks Received,16.2.2,16.2.2-Stocks Received-Condoms,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Unusable Stock,16.2.2,16.2.2-Unusable Stock-Condoms,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stock Distributed,16.2.2,16.2.2-Stock Distributed-Condoms,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Total Stock,16.2.2,16.2.2-Total Stock-Condoms,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Balance From Previous Month,16.2.3,16.2.3-Balance From Previous Month-Oral Contraceptive,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stocks Received,16.2.3,16.2.3-Stocks Received-Oral Contraceptive,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Unusable Stock,16.2.3,16.2.3-Unusable Stock-Oral Contraceptive,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stock Distributed,16.2.3,16.2.3-Stock Distributed-Oral Contraceptive,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Total Stock,16.2.3,16.2.3-Total Stock-Oral Contraceptive,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Balance From Previous Month,16.2.4,16.2.4-Balance From Previous Month-Emergency Contraceptive Pills,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stocks Received,16.2.4,16.2.4-Stocks Received-Emergency Contraceptive Pills,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Unusable Stock,16.2.4,16.2.4-Unusable Stock-Emergency Contraceptive Pills,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stock Distributed,16.2.4,16.2.4-Stock Distributed-Emergency Contraceptive Pills,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Total Stock,16.2.4,16.2.4-Total Stock-Emergency Contraceptive Pills,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Balance From Previous Month,16.2.5,16.2.5-Balance From Previous Month-Tubal rings,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stocks Received,16.2.5,16.2.5-Stocks Received-Tubal rings,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Unusable Stock,16.2.5,16.2.5-Unusable Stock-Tubal rings,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stock Distributed,16.2.5,16.2.5-Stock Distributed-Tubal rings,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Total Stock,16.2.5,16.2.5-Total Stock-Tubal rings,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Other Items,dummy,16.3,16.3-dummy-Other Items,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Balance From Previous Month,16.3.01,16.3.01-Balance From Previous Month-Injection Oxytocin,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stocks Received,16.3.01,16.3.01-Stocks Received-Injection Oxytocin,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Unusable Stock,16.3.01,16.3.01-Unusable Stock-Injection Oxytocin,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stock Distributed,16.3.01,16.3.01-Stock Distributed-Injection Oxytocin,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Total Stock,16.3.01,16.3.01-Total Stock-Injection Oxytocin,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Balance From Previous Month,16.3.02,16.3.02-Balance From Previous Month-Gloves,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stocks Received,16.3.02,16.3.02-Stocks Received-Gloves,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Unusable Stock,16.3.02,16.3.02-Unusable Stock-Gloves,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stock Distributed,16.3.02,16.3.02-Stock Distributed-Gloves,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Total Stock,16.3.02,16.3.02-Total Stock-Gloves,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Balance From Previous Month,16.3.03,16.3.03-Balance From Previous Month-MVA Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stocks Received,16.3.03,16.3.03-Stocks Received-MVA Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Unusable Stock,16.3.03,16.3.03-Unusable Stock-MVA Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stock Distributed,16.3.03,16.3.03-Stock Distributed-MVA Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Total Stock,16.3.03,16.3.03-Total Stock-MVA Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Balance From Previous Month,16.3.04,16.3.04-Balance From Previous Month-Tab. Fluconazole,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stocks Received,16.3.04,16.3.04-Stocks Received-Tab. Fluconazole,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Unusable Stock,16.3.04,16.3.04-Unusable Stock-Tab. Fluconazole,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stock Distributed,16.3.04,16.3.04-Stock Distributed-Tab. Fluconazole,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Total Stock,16.3.04,16.3.04-Total Stock-Tab. Fluconazole,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Balance From Previous Month,16.3.05,16.3.05-Balance From Previous Month-Blood Transfusion sets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stocks Received,16.3.05,16.3.05-Stocks Received-Blood Transfusion sets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Unusable Stock,16.3.05,16.3.05-Unusable Stock-Blood Transfusion sets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stock Distributed,16.3.05,16.3.05-Stock Distributed-Blood Transfusion sets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Total Stock,16.3.05,16.3.05-Total Stock-Blood Transfusion sets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Balance From Previous Month,16.3.06,16.3.06-Balance From Previous Month-Gluteraldehyde 2%,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stocks Received,16.3.06,16.3.06-Stocks Received-Gluteraldehyde 2%,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Unusable Stock,16.3.06,16.3.06-Unusable Stock-Gluteraldehyde 2%,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stock Distributed,16.3.06,16.3.06-Stock Distributed-Gluteraldehyde 2%,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Total Stock,16.3.06,16.3.06-Total Stock-Gluteraldehyde 2%,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Balance From Previous Month,16.3.07,16.3.07-Balance From Previous Month-IFA tablets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stocks Received,16.3.07,16.3.07-Stocks Received-IFA tablets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Unusable Stock,16.3.07,16.3.07-Unusable Stock-IFA tablets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stock Distributed,16.3.07,16.3.07-Stock Distributed-IFA tablets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Total Stock,16.3.07,16.3.07-Total Stock-IFA tablets,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Balance From Previous Month,16.3.08,16.3.08-Balance From Previous Month-IFA Syrup (Paediatric),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stocks Received,16.3.08,16.3.08-Stocks Received-IFA Syrup (Paediatric),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Unusable Stock,16.3.08,16.3.08-Unusable Stock-IFA Syrup (Paediatric),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stock Distributed,16.3.08,16.3.08-Stock Distributed-IFA Syrup (Paediatric),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Total Stock,16.3.08,16.3.08-Total Stock-IFA Syrup (Paediatric),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Balance From Previous Month,16.3.09,16.3.09-Balance From Previous Month-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stocks Received,16.3.09,16.3.09-Stocks Received-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Unusable Stock,16.3.09,16.3.09-Unusable Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stock Distributed,16.3.09,16.3.09-Stock Distributed-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Total Stock,16.3.09,16.3.09-Total Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Balance From Previous Month,16.3.10,16.3.10-Balance From Previous Month-Vitamin A solution,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stocks Received,16.3.10,16.3.10-Stocks Received-Vitamin A solution,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Unusable Stock,16.3.10,16.3.10-Unusable Stock-Vitamin A solution,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stock Distributed,16.3.10,16.3.10-Stock Distributed-Vitamin A solution,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Total Stock,16.3.10,16.3.10-Total Stock-Vitamin A solution,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Balance From Previous Month,16.3.11,16.3.11-Balance From Previous Month-ORS (New WHO),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stocks Received,16.3.11,16.3.11-Stocks Received-ORS (New WHO),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Unusable Stock,16.3.11,16.3.11-Unusable Stock-ORS (New WHO),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stock Distributed,16.3.11,16.3.11-Stock Distributed-ORS (New WHO),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Total Stock,16.3.11,16.3.11-Total Stock-ORS (New WHO),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),Syringes,dummy,16.4,16.4-dummy-Syringes,SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Balance From Previous Month,16.4.1,16.4.1-Balance From Previous Month-0.1 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stocks Received,16.4.1,16.4.1-Stocks Received-0.1 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Unusable Stock,16.4.1,16.4.1-Unusable Stock-0.1 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stock Distributed,16.4.1,16.4.1-Stock Distributed-0.1 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Total Stock,16.4.1,16.4.1-Total Stock-0.1 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Balance From Previous Month,16.4.2,16.4.2-Balance From Previous Month-0.5 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stocks Received,16.4.2,16.4.2-Stocks Received-0.5 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Unusable Stock,16.4.2,16.4.2-Unusable Stock-0.5 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stock Distributed,16.4.2,16.4.2-Stock Distributed-0.5 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Total Stock,16.4.2,16.4.2-Total Stock-0.5 ml (AD),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Balance From Previous Month,16.4.3,16.4.3-Balance From Previous Month-5.0 ml (Disposable),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stocks Received,16.4.3,16.4.3-Stocks Received-5.0 ml (Disposable),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Unusable Stock,16.4.3,16.4.3-Unusable Stock-5.0 ml (Disposable),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stock Distributed,16.4.3,16.4.3-Stock Distributed-5.0 ml (Disposable),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Total Stock,16.4.3,16.4.3-Total Stock-5.0 ml (Disposable),SC,,,,,,,,,,,,
+SC Tuman,D-M16-,Mortality Details,dummy,dummy,dummy,Part E,dummy,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Details of deaths reported during the month with probable causes:,dummy,M17,M17-dummy-Details of deaths reported during the month with probable causes:,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant deaths within 24 hrs of birth,TOTAL,17.1,17.1-TOTAL-Infant deaths within 24 hrs of birth,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant Deaths up to 4 weeks by cause,dummy,17.2,17.2-dummy-Infant Deaths up to 4 weeks by cause,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Up to 1 Weeks of Birth,17.2.1,17.2.1-Up to 1 Weeks of Birth-Sepsis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Between 1 week & 4 weeks of birth,17.2.1,17.2.1-Between 1 week & 4 weeks of birth-Sepsis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Total,17.2.1,17.2.1-Total-Sepsis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Up to 1 Weeks of Birth,17.2.2,17.2.2-Up to 1 Weeks of Birth-Asphyxia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Between 1 week & 4 weeks of birth,17.2.2,17.2.2-Between 1 week & 4 weeks of birth-Asphyxia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Total,17.2.2,17.2.2-Total-Asphyxia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Up to 1 Weeks of Birth,17.2.3,17.2.3-Up to 1 Weeks of Birth-LBW,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Between 1 week & 4 weeks of birth,17.2.3,17.2.3-Between 1 week & 4 weeks of birth-LBW,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Total,17.2.3,17.2.3-Total-LBW,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Up to 1 Weeks of Birth,17.2.4,17.2.4-Up to 1 Weeks of Birth-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 week & 4 weeks of birth,17.2.4,17.2.4-Between 1 week & 4 weeks of birth-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.2.4,17.2.4-Total-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant/Child Deaths up to 5 years by cause,dummy,17.3,17.3-dummy-Infant/Child Deaths up to 5 years by cause,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 month and 11 months,17.3.1,17.3.1-Between 1 month and 11 months-Pneumonia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 year & 5 years,17.3.1,17.3.1-Between 1 year & 5 years-Pneumonia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Total,17.3.1,17.3.1-Total-Pneumonia,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 month and 11 months,17.3.2,17.3.2-Between 1 month and 11 months-Diarrhoea,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 year & 5 years,17.3.2,17.3.2-Between 1 year & 5 years-Diarrhoea,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Total,17.3.2,17.3.2-Total-Diarrhoea,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 month and 11 months,17.3.3,17.3.3-Between 1 month and 11 months-Fever related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 year & 5 years,17.3.3,17.3.3-Between 1 year & 5 years-Fever related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Total,17.3.3,17.3.3-Total-Fever related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 month and 11 months,17.3.4,17.3.4-Between 1 month and 11 months-Measles,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 year & 5 years,17.3.4,17.3.4-Between 1 year & 5 years-Measles,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Total,17.3.4,17.3.4-Total-Measles,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 month and 11 months,17.3.5,17.3.5-Between 1 month and 11 months-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 year & 5 years,17.3.5,17.3.5-Between 1 year & 5 years-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.3.5,17.3.5-Total-Others,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Adolescent/Adult deaths by cause,dummy,17.4,17.4-dummy-Adolescent/Adult deaths by cause,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,6-14 yrs,17.4.1,17.4.1-6-14 yrs-Diarrhoeal diseases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,15-55 yrs.,17.4.1,17.4.1-15-55 yrs.-Diarrhoeal diseases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Above 55 yrs.,17.4.1,17.4.1-Above 55 yrs.-Diarrhoeal diseases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Total,17.4.1,17.4.1-Total-Diarrhoeal diseases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,6-14 yrs,17.4.2,17.4.2-6-14 yrs-Tuberculosis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,15-55 yrs.,17.4.2,17.4.2-15-55 yrs.-Tuberculosis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Above 55 yrs.,17.4.2,17.4.2-Above 55 yrs.-Tuberculosis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Total,17.4.2,17.4.2-Total-Tuberculosis,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),6-14 yrs,17.4.3,17.4.3-6-14 yrs-Respiratory diseases including infections (other than TB),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),15-55 yrs.,17.4.3,17.4.3-15-55 yrs.-Respiratory diseases including infections (other than TB),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Above 55 yrs.,17.4.3,17.4.3-Above 55 yrs.-Respiratory diseases including infections (other than TB),SC,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Total,17.4.3,17.4.3-Total-Respiratory diseases including infections (other than TB),SC,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,6-14 yrs,17.4.4,17.4.4-6-14 yrs-Malaria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,15-55 yrs.,17.4.4,17.4.4-15-55 yrs.-Malaria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Above 55 yrs.,17.4.4,17.4.4-Above 55 yrs.-Malaria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Total,17.4.4,17.4.4-Total-Malaria,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,6-14 yrs,17.4.5,17.4.5-6-14 yrs-Other Fever Related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,15-55 yrs.,17.4.5,17.4.5-15-55 yrs.-Other Fever Related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Above 55 yrs.,17.4.5,17.4.5-Above 55 yrs.-Other Fever Related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Total,17.4.5,17.4.5-Total-Other Fever Related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,6-14 yrs,17.4.6,17.4.6-6-14 yrs-HIV/AIDS,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,15-55 yrs.,17.4.6,17.4.6-15-55 yrs.-HIV/AIDS,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Above 55 yrs.,17.4.6,17.4.6-Above 55 yrs.-HIV/AIDS,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Total,17.4.6,17.4.6-Total-HIV/AIDS,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,6-14 yrs,17.4.7,17.4.7-6-14 yrs-Heart disease/Hypertension related,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,15-55 yrs.,17.4.7,17.4.7-15-55 yrs.-Heart disease/Hypertension related,SC,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Above 55 yrs.,17.4.7,17.4.7-Above 55 yrs.-Heart disease/Hypertension related,SC,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Total,17.4.7,17.4.7-Total-Heart disease/Hypertension related,SC,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,6-14 yrs,17.4.8,17.4.8-6-14 yrs-Neurological disease including strokes,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,15-55 yrs.,17.4.8,17.4.8-15-55 yrs.-Neurological disease including strokes,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Above 55 yrs.,17.4.8,17.4.8-Above 55 yrs.-Neurological disease including strokes,SC,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Total,17.4.8,17.4.8-Total-Neurological disease including strokes,SC,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Maternal Deaths,dummy,17.4.9,17.4.9-dummy-Maternal Deaths,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,6-14 yrs,17.4.9(a),17.4.9(a)-6-14 yrs-Abortion,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,15-55 yrs.,17.4.9(a),17.4.9(a)-15-55 yrs.-Abortion,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Above 55 yrs.,17.4.9(a),17.4.9(a)-Above 55 yrs.-Abortion,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Total,17.4.9(a),17.4.9(a)-Total-Abortion,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,6-14 yrs,17.4.9(b),17.4.9(b)-6-14 yrs-Obstructed/prolonged labour,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,15-55 yrs.,17.4.9(b),17.4.9(b)-15-55 yrs.-Obstructed/prolonged labour,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Above 55 yrs.,17.4.9(b),17.4.9(b)-Above 55 yrs.-Obstructed/prolonged labour,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Total,17.4.9(b),17.4.9(b)-Total-Obstructed/prolonged labour,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,6-14 yrs,17.4.9(c),17.4.9(c)-6-14 yrs-Severe hypertesnion/fits,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,15-55 yrs.,17.4.9(c),17.4.9(c)-15-55 yrs.-Severe hypertesnion/fits,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Above 55 yrs.,17.4.9(c),17.4.9(c)-Above 55 yrs.-Severe hypertesnion/fits,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Total,17.4.9(c),17.4.9(c)-Total-Severe hypertesnion/fits,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,6-14 yrs,17.4.9(d),17.4.9(d)-6-14 yrs-Bleeding,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,15-55 yrs.,17.4.9(d),17.4.9(d)-15-55 yrs.-Bleeding,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Above 55 yrs.,17.4.9(d),17.4.9(d)-Above 55 yrs.-Bleeding,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Total,17.4.9(d),17.4.9(d)-Total-Bleeding,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,6-14 yrs,17.4.9(e),17.4.9(e)-6-14 yrs-High fever,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,15-55 yrs.,17.4.9(e),17.4.9(e)-15-55 yrs.-High fever,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Above 55 yrs.,17.4.9(e),17.4.9(e)-Above 55 yrs.-High fever,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Total,17.4.9(e),17.4.9(e)-Total-High fever,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),6-14 yrs,17.4.9(f),17.4.9(f)-6-14 yrs-Other Causes (including causes not known),SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),15-55 yrs.,17.4.9(f),17.4.9(f)-15-55 yrs.-Other Causes (including causes not known),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Above 55 yrs.,17.4.9(f),17.4.9(f)-Above 55 yrs.-Other Causes (including causes not known),SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Total,17.4.9(f),17.4.9(f)-Total-Other Causes (including causes not known),SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,6-14 yrs,17.4.10,17.4.10-6-14 yrs-Trauma/Accidents/Burn cases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,15-55 yrs.,17.4.10,17.4.10-15-55 yrs.-Trauma/Accidents/Burn cases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Above 55 yrs.,17.4.10,17.4.10-Above 55 yrs.-Trauma/Accidents/Burn cases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Total,17.4.10,17.4.10-Total-Trauma/Accidents/Burn cases,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,6-14 yrs,17.4.11,17.4.11-6-14 yrs-Suicide,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,15-55 yrs.,17.4.11,17.4.11-15-55 yrs.-Suicide,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Above 55 yrs.,17.4.11,17.4.11-Above 55 yrs.-Suicide,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Total,17.4.11,17.4.11-Total-Suicide,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,6-14 yrs,17.4.12,17.4.12-6-14 yrs-Animal bites and stings,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,15-55 yrs.,17.4.12,17.4.12-15-55 yrs.-Animal bites and stings,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Above 55 yrs.,17.4.12,17.4.12-Above 55 yrs.-Animal bites and stings,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Total,17.4.12,17.4.12-Total-Animal bites and stings,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Diseases,dummy,17.4.13,17.4.13-dummy-Other Diseases,SC,,,,,,,,,,,,
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,6-14 yrs,17.4.13(a),17.4.13(a)-6-14 yrs-Known Acute Disease,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,15-55 yrs.,17.4.13(a),17.4.13(a)-15-55 yrs.-Known Acute Disease,SC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Above 55 yrs.,17.4.13(a),17.4.13(a)-Above 55 yrs.-Known Acute Disease,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Total,17.4.13(a),17.4.13(a)-Total-Known Acute Disease,SC,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,6-14 yrs,17.4.13(b),17.4.13(b)-6-14 yrs-Known Chronic Disease,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,15-55 yrs.,17.4.13(b),17.4.13(b)-15-55 yrs.-Known Chronic Disease,SC,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Above 55 yrs.,17.4.13(b),17.4.13(b)-Above 55 yrs.-Known Chronic Disease,SC,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Total,17.4.13(b),17.4.13(b)-Total-Known Chronic Disease,SC,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,6-14 yrs,17.4.13(c),17.4.13(c)-6-14 yrs-Causes not known,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,15-55 yrs.,17.4.13(c),17.4.13(c)-15-55 yrs.-Causes not known,SC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Above 55 yrs.,17.4.13(c),17.4.13(c)-Above 55 yrs.-Causes not known,SC,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SC Tuman,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Total,17.4.13(c),17.4.13(c)-Total-Causes not known,SC,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

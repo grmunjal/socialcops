@@ -1,0 +1,525 @@
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,Part A,Part A-dummy-Ante Natal Care Services ANC,RH,,,,,,,,,,,,
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,M1,M1-dummy-Ante Natal Care Services ANC,RH,,,,,,,,,,,,
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women Registered for ANC  ,TOTAL,1.1,1.1-TOTAL-Total number of pregnant women Registered for ANC,RH,1920.0,2180.0,2413.0,2172.0,1920.0,2045.0,1915.0,1759.0,1997.0,1721.0,1859.0,1896.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Of which Number registered within first trimester,TOTAL,1.1.1,1.1.1-TOTAL-Of which Number registered within first trimester,RH,628.0,634.0,630.0,538.0,535.0,571.0,546.0,518.0,565.0,481.0,606.0,633.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New women registered under JSY,TOTAL,1.2,1.2-TOTAL-New women registered under JSY,RH,190.0,252.0,168.0,215.0,179.0,235.0,199.0,153.0,142.0,302.0,175.0,187.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women received 3 ANC check ups,TOTAL,1.3,1.3-TOTAL-Number of pregnant women received 3 ANC check ups,RH,1463.0,943.0,1239.0,1067.0,1048.0,1370.0,1121.0,951.0,1173.0,1180.0,1098.0,1226.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women given,dummy,1.4,1.4-dummy-Number of pregnant women given,RH,,,,,,,,,,,,
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT1,TOTAL,1.4.1,1.4.1-TOTAL-TT1,RH,610.0,428.0,853.0,646.0,526.0,488.0,448.0,569.0,539.0,465.0,463.0,540.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT2 or Booster,TOTAL,1.4.2,1.4.2-TOTAL-TT2 or Booster,RH,521.0,384.0,647.0,545.0,470.0,409.0,381.0,388.0,548.0,455.0,505.0,477.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women given 100 IFA tablets,TOTAL,1.5,1.5-TOTAL-Total number of pregnant women given 100 IFA tablets,RH,421.0,444.0,493.0,610.0,513.0,509.0,629.0,895.0,529.0,510.0,501.0,553.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Hypertension (BP>140/90) ,dummy,1.6,1.6-dummy-Pregnant women with Hypertension (BP>140/90),RH,,,,,,,,,,,,
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New cases detected at institution,TOTAL,1.6.1,1.6.1-TOTAL-New cases detected at institution,RH,123.0,116.0,114.0,172.0,142.0,151.0,161.0,119.0,126.0,133.0,80.0,118.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of Eclampsia cases managed during delivery,TOTAL,1.6.2,1.6.2-TOTAL-Number of Eclampsia cases managed during delivery,RH,4.0,3.0,7.0,15.0,2.0,18.0,1.0,15.0,5.0,6.0,14.0,15.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Anaemia ,dummy,1.7,1.7-dummy-Pregnant women with Anaemia,RH,,,,,,,,,,,,
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having Hb level<11 (tested cases),TOTAL,1.7.1,1.7.1-TOTAL-Number having Hb level<11 (tested cases),RH,1902.0,2142.0,2376.0,2127.0,1884.0,1999.0,1896.0,1723.0,1960.0,1695.0,1827.0,1850.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having severe anaemia (Hb<7) treated at institution,TOTAL,1.7.2,1.7.2-TOTAL-Number having severe anaemia (Hb<7) treated at institution,RH,104.0,98.0,116.0,50.0,64.0,102.0,104.0,38.0,29.0,36.0,34.0,52.0
+RH Nagpur,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnancy kits used at Sub-centre,TOTAL,1.8,1.8-TOTAL-Number of pregnancy kits used at Sub-centre,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries ,dummy,M2,M2-dummy-Deliveries,RH,,,,,,,,,,,,
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Home:,dummy,2.1,2.1-dummy-Deliveries conducted at Home:,RH,,,,,,,,,,,,
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Home Deliveries attended by:,dummy,2.1.1,2.1.1-dummy-Number of Home Deliveries attended by:,RH,,,,,,,,,,,,
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,SBA Trained (Doctor/Nurse/ANM),TOTAL,2.1.1.a,2.1.1.a-TOTAL-SBA Trained (Doctor/Nurse/ANM),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Non SBA (Trained TBA/Relatives/etc.),TOTAL,2.1.1.b,2.1.1.b-TOTAL-Non SBA (Trained TBA/Relatives/etc.),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Total {(a) to (b)},TOTAL,2.1.1.c,2.1.1.c-TOTAL-Total {(a) to (b)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of newborns visited within 24 hours of Home Delivery,TOTAL,2.1.2,2.1.2-TOTAL-Number of newborns visited within 24 hours of Home Delivery,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of mothers paid JSY incentive for Home deliveries,TOTAL,2.1.3,2.1.3-TOTAL-Number of mothers paid JSY incentive for Home deliveries,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Public Institutions ,TOTAL,2.2,2.2-TOTAL-Deliveries conducted at Public Institutions,RH,1093.0,1256.0,1124.0,1161.0,1397.0,1413.0,1487.0,1321.0,1220.0,1242.0,1213.0,1356.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Of which Number discharged under 48 hours of delivery,TOTAL,2.2.1,2.2.1-TOTAL-Of which Number discharged under 48 hours of delivery,RH,107.0,149.0,118.0,185.0,182.0,126.0,217.0,166.0,129.0,175.0,159.0,129.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of cases where JSY incentive paid to,dummy,2.2.2,2.2.2-dummy-Number of cases where JSY incentive paid to,RH,,,,,,,,,,,,
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.2.2.a,2.2.2.a-TOTAL-Mothers,RH,272.0,344.0,219.0,356.0,261.0,321.0,89.0,435.0,276.0,302.0,270.0,271.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.2.2.b,2.2.2.b-TOTAL-ASHAs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.2.2.c,2.2.2.c-TOTAL-ANM or AWW (only for HPS States),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Deliveries  at accredited Private Institutions,TOTAL,2.3,2.3-TOTAL-Number of Deliveries  at accredited Private Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of institutional delivery cases where JSY incentive paid to,dummy,2.3.1,2.3.1-dummy-Number of institutional delivery cases where JSY incentive paid to,RH,,,,,,,,,,,,
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.3.1.a,2.3.1.a-TOTAL-Mothers,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.3.1.b,2.3.1.b-TOTAL-ASHAs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.3.1.c,2.3.1.c-TOTAL-ANM or AWW (only for HPS States),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Number of Caesarean C-Section deliveries performed at ,dummy,M3,M3-dummy-Number of Caesarean C-Section deliveries performed at,RH,,,,,,,,,,,,
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Public facilities,dummy,3.1,3.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,PHC,TOTAL,3.1.1,3.1.1-TOTAL-PHC,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,CHC ,TOTAL,3.1.2,3.1.2-TOTAL-CHC,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Sub-divisional hospital/District Hospital,TOTAL,3.1.3,3.1.3-TOTAL-Sub-divisional hospital/District Hospital,RH,460.0,494.0,478.0,484.0,570.0,550.0,585.0,518.0,491.0,459.0,465.0,517.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,At Other State Owned Public Institutions,TOTAL,3.1.4,3.1.4-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Total {(3.1.1) to (3.1.4)},TOTAL,3.1.5,3.1.5-TOTAL-Total {(3.1.1) to (3.1.4)},RH,460.0,494.0,478.0,484.0,570.0,550.0,585.0,518.0,491.0,459.0,465.0,517.0
+RH Nagpur,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Private facilities,TOTAL,3.2,3.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy outcome & weight of new-born,dummy,M4,M4-dummy-Pregnancy outcome & weight of new-born,RH,,,,,,,,,,,,
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy Outcome (in number),dummy,4.1,4.1-dummy-Pregnancy Outcome (in number),RH,,,,,,,,,,,,
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Live Birth,dummy,4.1.1,4.1.1-dummy-Live Birth,RH,,,,,,,,,,,,
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Male,TOTAL,4.1.1.a,4.1.1.a-TOTAL-Male,RH,564.0,635.0,586.0,596.0,718.0,726.0,746.0,681.0,623.0,602.0,660.0,694.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Female,TOTAL,4.1.1.b ,4.1.1.b -TOTAL-Female,RH,529.0,611.0,536.0,554.0,666.0,684.0,733.0,637.0,590.0,626.0,554.0,659.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Total ({a} + {b}),TOTAL,4.1.1.c,4.1.1.c-TOTAL-Total ({a} + {b}),RH,1093.0,1246.0,1122.0,1150.0,1384.0,1410.0,1479.0,1318.0,1213.0,1228.0,1214.0,1353.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Still Birth,TOTAL,4.1.2,4.1.2-TOTAL-Still Birth,RH,6.0,13.0,9.0,15.0,17.0,14.0,16.0,11.0,13.0,18.0,6.0,13.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Abortion (spontaneous/induced),TOTAL,4.1.3,4.1.3-TOTAL-Abortion (spontaneous/induced),RH,62.0,67.0,37.0,55.0,48.0,49.0,52.0,50.0,85.0,70.0,52.0,61.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Details of Newborn children weighed,dummy,4.2,4.2-dummy-Details of Newborn children weighed,RH,,,,,,,,,,,,
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns weighed at birth,TOTAL,4.2.1,4.2.1-TOTAL-Number of Newborns weighed at birth,RH,1093.0,1246.0,1122.0,1150.0,1384.0,1410.0,1479.0,1318.0,1213.0,1228.0,1214.0,1350.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns having weight less than 2.5 kg,TOTAL,4.2.2,4.2.2-TOTAL-Number of Newborns having weight less than 2.5 kg,RH,333.0,316.0,286.0,336.0,371.0,371.0,341.0,360.0,325.0,282.0,367.0,395.0
+RH Nagpur,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns breast fed within 1 hour,TOTAL,4.3,4.3-TOTAL-Number of Newborns breast fed within 1 hour,RH,630.0,754.0,643.0,667.0,815.0,859.0,892.0,799.0,719.0,768.0,745.0,832.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Complicated pregnanices,dummy,M5,M5-dummy-Complicated pregnanices,RH,,,,,,,,,,,,
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,dummy,5.1,5.1-dummy-Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At PHCs ,TOTAL,5.1.1,5.1.1-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At CHCs ,TOTAL,5.1.2,5.1.2-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Sub-divisional hospitals/ District Hospitals,TOTAL,5.1.3,5.1.3-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,654.0,745.0,716.0,774.0,756.0,673.0,798.0,811.0,655.0,649.0,630.0,632.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Other State Owned Public Institutions,TOTAL,5.1.4,5.1.4-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Total {(5.1.1) to (5.1.4)},TOTAL,5.1.5,5.1.5-TOTAL-Total {(5.1.1) to (5.1.4)},RH,654.0,745.0,716.0,774.0,756.0,673.0,798.0,811.0,655.0,649.0,630.0,632.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,5.2,5.2-TOTAL-Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of Complicated pregnancies treated with,dummy,5.3,5.3-dummy-Number of Complicated pregnancies treated with,RH,,,,,,,,,,,,
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antibiotics,TOTAL,5.3.1,5.3.1-TOTAL-IV antibiotics,RH,654.0,745.0,716.0,774.0,756.0,673.0,798.0,811.0,655.0,649.0,630.0,632.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antihypertensive/Magsulph injection,TOTAL,5.3.2,5.3.2-TOTAL-IV antihypertensive/Magsulph injection,RH,64.0,86.0,44.0,44.0,33.0,42.0,36.0,30.0,70.0,39.0,61.0,55.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV Oxytocis,TOTAL,5.3.3,5.3.3-TOTAL-IV Oxytocis,RH,367.0,325.0,248.0,268.0,500.0,272.0,336.0,345.0,469.0,335.0,422.0,398.0
+RH Nagpur,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Blood Transfusion ,TOTAL,5.3.4,5.3.4-TOTAL-Blood Transfusion,RH,142.0,152.0,79.0,133.0,185.0,167.0,172.0,128.0,46.0,128.0,46.0,156.0
+RH Nagpur,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Post - Natal Care,dummy,M6,M6-dummy-Post - Natal Care,RH,,,,,,,,,,,,
+RH Nagpur,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women receiving post partum check-up within 48 hours after delivery,TOTAL,6.1,6.1-TOTAL-Women receiving post partum check-up within 48 hours after delivery,RH,1093.0,1256.0,1124.0,185.0,182.0,126.0,217.0,166.0,129.0,1242.0,159.0,129.0
+RH Nagpur,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women getting a post partum check up between 48 hours and 14 days,TOTAL,6.2,6.2-TOTAL-Women getting a post partum check up between 48 hours and 14 days,RH,986.0,1107.0,1006.0,976.0,1215.0,1287.0,1270.0,1155.0,1091.0,1067.0,1054.0,1227.0
+RH Nagpur,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,PNC maternal complications attended ,TOTAL,6.3,6.3-TOTAL-PNC maternal complications attended,RH,53.0,43.0,13.0,52.0,19.0,29.0,32.0,35.0,26.0,19.0,34.0,31.0
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Medical Termination of Pregnancy (MTP),dummy,M7,M7-dummy-Medical Termination of Pregnancy (MTP),RH,,,,,,,,,,,,
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Public Institutions,dummy,7.1,7.1-dummy-Number of MTPs conducted at Public Institutions,RH,,,,,,,,,,,,
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Up to 12 weeks of pregnancy,TOTAL,7.1.1,7.1.1-TOTAL-Up to 12 weeks of pregnancy,RH,39.0,38.0,36.0,24.0,27.0,23.0,36.0,29.0,51.0,43.0,31.0,32.0
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),More than 12 weeks of pregnancy,TOTAL,7.1.2,7.1.2-TOTAL-More than 12 weeks of pregnancy,RH,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Total {(7.1.1) to (7.1.2)},TOTAL,7.1.3,7.1.3-TOTAL-Total {(7.1.1) to (7.1.2)},RH,39.0,38.0,37.0,26.0,29.0,23.0,36.0,29.0,52.0,43.0,32.0,32.0
+RH Nagpur,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Private Facilities,TOTAL,7.2,7.2-TOTAL-Number of MTPs conducted at Private Facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,RTI/STI Cases,dummy,M8,M8-dummy-RTI/STI Cases,RH,,,,,,,,,,,,
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of new RTI/STI for which treatment initiated,dummy,8.1,8.1-dummy-Number of new RTI/STI for which treatment initiated,RH,,,,,,,,,,,,
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Male,TOTAL,8.1.a,8.1.a-TOTAL-Male,RH,33.0,54.0,49.0,57.0,46.0,31.0,27.0,29.0,32.0,24.0,40.0,42.0
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Female,TOTAL,8.1.b,8.1.b-TOTAL-Female,RH,322.0,360.0,379.0,349.0,358.0,387.0,339.0,318.0,420.0,292.0,363.0,335.0
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Total {(a) to (b)},TOTAL,8.1.c,8.1.c-TOTAL-Total {(a) to (b)},RH,355.0,414.0,428.0,406.0,404.0,418.0,366.0,347.0,452.0,316.0,403.0,377.0
+RH Nagpur,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of wet mount tests conducted,TOTAL,8.2,8.2-TOTAL-Number of wet mount tests conducted,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Family Planning,dummy,M9,M9-dummy-Family Planning,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of NSV/Conventional Vasectomy conducted,dummy,9.01,9.01-dummy-Number of NSV/Conventional Vasectomy conducted,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.1.1,9.1.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.1.1.a,9.1.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.1.1.b,9.1.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.1.1.c,9.1.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.1.1.d,9.1.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.1.1.e,9.1.1.e-TOTAL-Total {(a) to (d)},RH,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.1.2,9.1.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Laparoscopic sterilizations conducted,dummy,9.02,9.02-dummy-Number of Laparoscopic sterilizations conducted,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.2.1,9.2.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.2.1.a,9.2.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.2.1.b,9.2.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.2.1.c,9.2.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.2.1.d,9.2.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.2.1.e,9.2.1.e-TOTAL-Total {(a) to (d)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.2.2,9.2.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Mini-lap sterilizations conducted ,dummy,9.03,9.03-dummy-Number of Mini-lap sterilizations conducted,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.3.1,9.3.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.3.1.a,9.3.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.3.1.b,9.3.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.3.1.c,9.3.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,23.0,30.0,31.0,18.0,0.0,10.0,23.0,20.0,40.0,36.0,31.0,24.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.3.1.d,9.3.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.3.1.e,9.3.1.e-TOTAL-Total {(a) to (d)},RH,23.0,30.0,31.0,18.0,0.0,10.0,23.0,20.0,40.0,36.0,31.0,24.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.3.2,9.3.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,188.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Post-Partum sterilizations conducted ,dummy,9.04,9.04-dummy-Number of Post-Partum sterilizations conducted,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.4.1,9.4.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.4.1.a,9.4.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.4.1.b,9.4.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.4.1.c,9.4.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,113.0,181.0,174.0,178.0,0.0,190.0,258.0,221.0,193.0,222.0,164.0,164.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.4.1.d,9.4.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.4.1.e,9.4.1.e-TOTAL-Total {(a) to (d)},RH,113.0,181.0,174.0,178.0,0.0,190.0,258.0,221.0,193.0,222.0,164.0,164.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.4.2,9.4.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD Insertions,dummy,9.05,9.05-dummy-Number of IUD Insertions,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.5.1,9.5.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-Centres ,TOTAL,9.5.1.a,9.5.1.a-TOTAL-At Sub-Centres,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.5.1.b,9.5.1.b-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.5.1.c,9.5.1.c-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.5.1.d,9.5.1.d-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,67.0,38.0,55.0,98.0,105.0,79.0,64.0,70.0,61.0,60.0,58.0,79.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.5.1.e,9.5.1.e-TOTAL-At Other State Owned Public Institutions,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (e)},TOTAL,9.5.1.f,9.5.1.f-TOTAL-Total {(a) to (e)},RH,67.0,38.0,55.0,98.0,105.0,79.0,64.0,70.0,61.0,60.0,58.0,79.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,"Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",TOTAL,9.5.1.A,"9.5.1.A-TOTAL-Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",RH,27.0,8.0,24.0,67.0,74.0,56.0,31.0,43.0,20.0,28.0,25.0,51.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.5.2,9.5.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD removals,TOTAL,9.06,9.06-TOTAL-Number of IUD removals,RH,5.0,1.0,14.0,7.0,10.0,5.0,6.0,5.0,9.0,4.0,12.0,5.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Oral Pills cycles distributed,TOTAL,9.07,9.07-TOTAL-Number of Oral Pills cycles distributed,RH,38.0,70.0,45.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Condom pieces distributed,TOTAL,9.08,9.08-TOTAL-Number of Condom pieces distributed,RH,2760.0,4900.0,5310.0,3720.0,5710.0,5010.0,3730.0,3910.0,4110.0,5880.0,3180.0,2570.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Centchroman (weekly) pills given,TOTAL,9.09,9.09-TOTAL-Number of Centchroman (weekly) pills given,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Emergency Contraceptive Pills distributed,TOTAL,9.1,9.1-TOTAL-Number of Emergency Contraceptive Pills distributed,RH,1.0,1.0,1.0,1.0,63.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Quality in sterilization services,dummy,9.11,9.11-dummy-Quality in sterilization services,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of complications following sterilization,dummy,9.11.1,9.11.1-dummy-Number of complications following sterilization,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.1.a,9.11.1.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.1.b,9.11.1.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of failures following sterilization,dummy,9.11.2,9.11.2-dummy-Number of failures following sterilization,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.2.a,9.11.2.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.2.b,9.11.2.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of deaths following sterilization,dummy,9.11.3,9.11.3-dummy-Number of deaths following sterilization,RH,,,,,,,,,,,,
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.3.a,9.11.3.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.3.b,9.11.3.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Institutions having NSV trained doctors,TOTAL,9.12,9.12-TOTAL-Number of Institutions having NSV trained doctors,RH,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,CHILD IMMUNIZATION,dummy,M10,M10-dummy-CHILD IMMUNIZATION,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Infants 0 to 11 months old who received the following:,dummy,10.1,10.1-dummy-Number of Infants 0 to 11 months old who received the following:,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,BCG,TOTAL,10.1.01,10.1.01-TOTAL-BCG,RH,1085.0,1223.0,1106.0,1141.0,1279.0,1405.0,1467.0,1887.0,1298.0,1197.0,1214.0,1306.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT1,TOTAL,10.1.02,10.1.02-TOTAL-DPT1,RH,428.0,429.0,443.0,441.0,409.0,448.0,492.0,328.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT2,TOTAL,10.1.03,10.1.03-TOTAL-DPT2,RH,402.0,356.0,400.0,354.0,436.0,358.0,426.0,389.0,390.0,95.0,21.0,3.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT3,TOTAL,10.1.04,10.1.04-TOTAL-DPT3,RH,412.0,376.0,409.0,407.0,420.0,368.0,431.0,346.0,403.0,361.0,93.0,37.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 1,TOTAL,10.1.04A,10.1.04A-TOTAL-Pentavalent 1,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,198.0,557.0,485.0,440.0,472.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 2,TOTAL,10.1.04B,10.1.04B-TOTAL-Pentavalent 2,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0,369.0,380.0,405.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 3,TOTAL,10.1.04C,10.1.04C-TOTAL-Pentavalent 3,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,257.0,366.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV 0 (Birth Dose),TOTAL,10.1.05,10.1.05-TOTAL-OPV 0 (Birth Dose),RH,1085.0,1223.0,1106.0,1141.0,1279.0,1405.0,1467.0,1287.0,1298.0,1197.0,1214.0,1306.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV1,TOTAL,10.1.06,10.1.06-TOTAL-OPV1,RH,428.0,429.0,443.0,441.0,409.0,448.0,492.0,328.0,557.0,485.0,440.0,472.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV2,TOTAL,10.1.07,10.1.07-TOTAL-OPV2,RH,402.0,356.0,400.0,354.0,436.0,358.0,426.0,389.0,443.0,464.0,401.0,405.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV3,TOTAL,10.1.08,10.1.08-TOTAL-OPV3,RH,412.0,376.0,409.0,407.0,420.0,368.0,431.0,346.0,403.0,387.0,350.0,403.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B0,TOTAL,10.1.09,10.1.09-TOTAL-Hepatitis-B0,RH,1005.0,1121.0,889.0,1022.0,1152.0,1164.0,1368.0,1194.0,1159.0,1020.0,1108.0,1236.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B1,TOTAL,10.1.10,10.1.10-TOTAL-Hepatitis-B1,RH,428.0,429.0,443.0,441.0,409.0,448.0,492.0,328.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B2,TOTAL,10.1.11,10.1.11-TOTAL-Hepatitis-B2,RH,402.0,356.0,400.0,354.0,436.0,358.0,426.0,389.0,364.0,95.0,21.0,3.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B3,TOTAL,10.1.12,10.1.12-TOTAL-Hepatitis-B3,RH,412.0,376.0,409.0,407.0,420.0,368.0,431.0,346.0,403.0,361.0,93.0,37.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles,TOTAL,10.1.13,10.1.13-TOTAL-Measles,RH,266.0,283.0,347.0,368.0,469.0,322.0,387.0,308.0,298.0,275.0,309.0,340.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles 2nd Dose,TOTAL,10.1.14,10.1.14-TOTAL-Measles 2nd Dose,RH,266.0,347.0,312.0,256.0,271.0,248.0,369.0,225.0,298.0,217.0,238.0,260.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.1.13,10.1.13-dummy-Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.1.13.a,10.1.13.a-TOTAL-Male,RH,131.0,178.0,173.0,186.0,255.0,170.0,203.0,169.0,203.0,131.0,115.0,163.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.1.13.b,10.1.13.b-TOTAL-Female,RH,135.0,105.0,174.0,182.0,214.0,152.0,184.0,139.0,189.0,144.0,123.0,177.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.1.13.c,10.1.13.c-TOTAL-Total {(a) to (b)},RH,266.0,283.0,347.0,368.0,469.0,322.0,387.0,308.0,392.0,275.0,238.0,340.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,No. of children aged 9 to 12 months who received JE 1st dose,TOTAL,10.1.A,10.1.A-TOTAL-No. of children aged 9 to 12 months who received JE 1st dose,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of children more than 16 months who received the following,dummy,10.2,10.2-dummy-Number of children more than 16 months who received the following,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT Booster,TOTAL,10.2.1,10.2.1-TOTAL-DPT Booster,RH,266.0,347.0,312.0,256.0,271.0,248.0,369.0,225.0,298.0,217.0,238.0,260.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV Booster,TOTAL,10.2.2,10.2.2-TOTAL-OPV Booster,RH,266.0,347.0,312.0,256.0,271.0,248.0,369.0,225.0,298.0,217.0,238.0,260.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,"Measles, Mumps, Rubella (MMR) Vaccine",TOTAL,10.2.3,"10.2.3-TOTAL-Measles, Mumps, Rubella (MMR) Vaccine",RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Immunisation Status,dummy,10.3,10.3-dummy-Immunisation Status,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.3.1,10.3.1-dummy-Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.3.1.a,10.3.1.a-TOTAL-Male,RH,0.0,0.0,0.0,250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.3.1.b,10.3.1.b-TOTAL-Female,RH,0.0,0.0,0.0,23.0,98.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.3.1.c,10.3.1.c-TOTAL-Total {(a) to (b)},RH,0.0,0.0,0.0,273.0,98.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 5 years given DT5,TOTAL,10.3.2,10.3.2-TOTAL-Children more than 5 years given DT5,RH,102.0,91.0,172.0,12.0,38.0,94.0,111.0,118.0,124.0,85.0,91.0,71.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 10 years given TT10,TOTAL,10.3.3,10.3.3-TOTAL-Children more than 10 years given TT10,RH,0.0,0.0,33.0,0.0,28.0,35.0,34.0,25.0,14.0,25.0,15.0,10.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 16 years given TT16,TOTAL,10.3.4,10.3.4-TOTAL-Children more than 16 years given TT16,RH,0.0,0.0,22.0,0.0,0.0,16.0,12.0,0.0,12.0,8.0,9.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Adverse Event Following Immunisation (AEFI),dummy,10.3.5,10.3.5-dummy-Adverse Event Following Immunisation (AEFI),RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Abscess,TOTAL,10.3.5.a,10.3.5.a-TOTAL-Abscess,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Death,TOTAL,10.3.5.b,10.3.5.b-TOTAL-Death,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Others,TOTAL,10.3.5.c,10.3.5.c-TOTAL-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Immunisation sessions during the month,dummy,10.4,10.4-dummy-Number of Immunisation sessions during the month,RH,,,,,,,,,,,,
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Planned,TOTAL,10.4.1,10.4.1-TOTAL-Planned,RH,23.0,24.0,26.0,26.0,22.0,24.0,23.0,22.0,26.0,25.0,24.0,24.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Held,TOTAL,10.4.2,10.4.2-TOTAL-Held,RH,23.0,24.0,26.0,26.0,22.0,24.0,23.0,22.0,26.0,25.0,24.0,24.0
+RH Nagpur,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Sessions where ASHAs were present,TOTAL,10.4.3,10.4.3-TOTAL-Sessions where ASHAs were present,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Number of Vitamin A doses ,dummy,M11,M11-dummy-Number of Vitamin A doses,RH,,,,,,,,,,,,
+RH Nagpur,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Administered between 9 months and 5 years,dummy,11.1,11.1-dummy-Administered between 9 months and 5 years,RH,,,,,,,,,,,,
+RH Nagpur,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-1,TOTAL,11.1.1,11.1.1-TOTAL-Dose-1,RH,266.0,283.0,347.0,368.0,469.0,322.0,387.0,308.0,392.0,275.0,309.0,340.0
+RH Nagpur,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-5,TOTAL,11.1.2,11.1.2-TOTAL-Dose-5,RH,191.0,78.0,43.0,300.0,316.0,90.0,254.0,220.0,129.0,109.0,111.0,122.0
+RH Nagpur,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-9,TOTAL,11.1.3,11.1.3-TOTAL-Dose-9,RH,95.0,91.0,19.0,30.0,210.0,95.0,190.0,260.0,0.0,0.0,91.0,71.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number of cases of Childhood Diseases reported during the month0-5 years: ,dummy,M12,M12-dummy-Number of cases of Childhood Diseases reported during the month0-5 years:,RH,,,,,,,,,,,,
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diphtheria                         ,TOTAL,12.1,12.1-TOTAL-Diphtheria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Pertussis                            ,TOTAL,12.2,12.2-TOTAL-Pertussis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus Neonatorum,TOTAL,12.3,12.3-TOTAL-Tetanus Neonatorum,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus others,TOTAL,12.4,12.4-TOTAL-Tetanus others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Polio,TOTAL,12.5,12.5-TOTAL-Polio,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Measles,TOTAL,12.6,12.6-TOTAL-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diarrhoea and dehydration,TOTAL,12.7,12.7-TOTAL-Diarrhoea and dehydration,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Malaria,TOTAL,12.8,12.8-TOTAL-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number admitted with Respiratory Infections,TOTAL,12.9,12.9-TOTAL-Number admitted with Respiratory Infections,RH,0.0,6.0,5.0,7.0,7.0,16.0,18.0,12.0,20.0,28.0,33.0,27.0
+RH Nagpur,B-M13-,Other Programmes,dummy,dummy,dummy,Part B,Part B-dummy-dummy,RH,,,,,,,,,,,,
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Blindness Control Programme,dummy,M13,M13-dummy-Blindness Control Programme,RH,,,,,,,,,,,,
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of Patients operated for cataract,TOTAL,13.1,13.1-TOTAL-Number of Patients operated for cataract,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of Intraocular Lens(IOL) implantations,TOTAL,13.2,13.2-TOTAL-Number of Intraocular Lens(IOL) implantations,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of School children detected with Refractive errors,TOTAL,13.3,13.3-TOTAL-Number of School children detected with Refractive errors,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of children provided free glasses,TOTAL,13.4,13.4-TOTAL-Number of children provided free glasses,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes collected,TOTAL,13.5,13.5-TOTAL-Number of eyes collected,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes utilised,TOTAL,13.6,13.6-TOTAL-Number of eyes utilised,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,dummy,dummy,dummy,Part C,Part C-dummy-dummy,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Patient Services,dummy,M14,M14-dummy-Patient Services,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of CHC/ SDH/ DH functioning as an FRUs,TOTAL,14.01,14.01-TOTAL-Number of CHC/ SDH/ DH functioning as an FRUs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of PHCs functioning  24X7 3 Staff Nurses?,TOTAL,14.02,14.02-TOTAL-Number of PHCs functioning  24X7 3 Staff Nurses?,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,14.03,14.03-TOTAL-Number of Anganwadi centres reported to have conducted VHNDs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of facilities having a Rogi Kalyan Samiti,TOTAL,14.04,14.04-TOTAL-Number of facilities having a Rogi Kalyan Samiti,RH,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of RKS meetings held during the month,TOTAL,14.05,14.05-TOTAL-Number of RKS meetings held during the month,RH,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of  facilities having Ambulance services  Assured Referral Services available,TOTAL,14.06,14.06-TOTAL-Number of  facilities having Ambulance services  Assured Referral Services available,RH,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,14.07,14.07-TOTAL-Total Number of times the Ambulance was used for transporting patients during the month,RH,595.0,692.0,547.0,491.0,793.0,825.0,887.0,845.0,911.0,1004.0,1096.0,814.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of Institutions having Operational Sick New Born and Child Care Units,TOTAL,14.08,14.08-TOTAL-Number of Institutions having Operational Sick New Born and Child Care Units,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,14.09,14.09-TOTAL-Number of functional Laproscopes in CHC/SDH/DH,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Inpatient,dummy,14.1,14.1-dummy-Inpatient,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Admissions ,dummy,14.10.1,14.10.1-dummy-Admissions,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Male,Children,14.10.1.a,14.10.1.a-Children-Male,RH,636.0,698.0,618.0,642.0,761.0,767.0,789.0,712.0,660.0,656.0,722.0,743.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Male,Adults,14.10.1.a,14.10.1.a-Adults-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,591.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Female,Children,14.10.1.b,14.10.1.b-Children-Female,RH,565.0,645.0,571.0,599.0,697.0,733.0,772.0,655.0,29.0,655.0,596.0,696.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Female,Adults,14.10.1.b,14.10.1.b-Adults-Female,RH,1649.0,1871.0,1614.0,1674.0,1966.0,1901.0,2025.0,1742.0,1667.0,1625.0,1794.0,1726.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Children,14.10.1.c,14.10.1.c-Children-Total {(a) to (b)},RH,1201.0,1343.0,1189.0,1241.0,1458.0,1500.0,1561.0,1367.0,689.0,1311.0,1318.0,1439.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Adults,14.10.1.c,14.10.1.c-Adults-Total {(a) to (b)},RH,2747.0,3117.0,2737.0,2827.0,3351.0,3314.0,3504.0,3063.0,2290.0,2855.0,3010.0,3078.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Deaths,dummy,14.10.2,14.10.2-dummy-Deaths,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Male,TOTAL,14.10.2.a,14.10.2.a-TOTAL-Male,RH,7.0,7.0,3.0,7.0,3.0,6.0,5.0,4.0,4.0,2.0,8.0,4.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Female,TOTAL,14.10.2.b,14.10.2.b-TOTAL-Female,RH,1.0,3.0,0.0,3.0,6.0,4.0,5.0,4.0,3.0,1.0,0.0,4.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},TOTAL,14.10.2.c,14.10.2.c-TOTAL-Total {(a) to (b)},RH,8.0,10.0,3.0,10.0,9.0,10.0,10.0,8.0,7.0,3.0,8.0,8.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,In-Patient Head Count at midnight,TOTAL,14.11,14.11-TOTAL-In-Patient Head Count at midnight,RH,12619.0,14701.0,12936.0,13473.0,15004.0,14318.0,16325.0,14357.0,13658.0,13070.0,13362.0,14405.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Outpatient,dummy,14.12,14.12-dummy-Outpatient,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,OPD attendance (All),TOTAL,14.12.1,14.12.1-TOTAL-OPD attendance (All),RH,16701.0,16526.0,15092.0,17878.0,18405.0,19643.0,19807.0,16843.0,19405.0,17620.0,18046.0,17742.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Operation Theatre,dummy,14.13,14.13-dummy-Operation Theatre,RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Operation major (General and spinal anaesthesia),TOTAL,14.13.1,14.13.1-TOTAL-Operation major (General and spinal anaesthesia),RH,527.0,580.0,489.0,548.0,621.0,666.0,661.0,577.0,570.0,548.0,539.0,580.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,"Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",TOTAL,14.13.1A,"14.13.1A-TOTAL-Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",RH,3.0,8.0,7.0,5.0,7.0,4.0,1.0,0.0,6.0,0.0,8.0,6.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Operation minor (No or local anaesthesia),TOTAL,14.13.2,14.13.2-TOTAL-Operation minor (No or local anaesthesia),RH,452.0,496.0,419.0,484.0,446.0,471.0,603.0,506.0,548.0,523.0,622.0,640.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,"Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",dummy,14.14,"14.14-dummy-Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",RH,,,,,,,,,,,,
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,AYUSH,TOTAL,14.14.a,14.14.a-TOTAL-AYUSH,RH,730.0,628.0,750.0,982.0,786.0,801.0,543.0,590.0,674.0,741.0,752.0,670.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Dental Procedures,TOTAL,14.14.b,14.14.b-TOTAL-Dental Procedures,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,C-M14-,Health Facility Services,Patient Services,Adolescent counselling services,TOTAL,14.14.c,14.14.c-TOTAL-Adolescent counselling services,RH,216.0,187.0,0.0,346.0,312.0,268.0,240.0,0.0,0.0,0.0,0.0,314.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Testing,dummy,M15,M15-dummy-Laboratory Testing,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Test Details,dummy,15.1,15.1-dummy-Laboratory Test Details,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Hb Tests conducted,dummy,15.1.1,15.1.1-dummy-Hb Tests conducted,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Number of Hb tests conducted,TOTAL,15.1.1.a,15.1.1.a-TOTAL-Number of Hb tests conducted,RH,3317.0,4483.0,4553.0,4325.0,3874.0,3971.0,3565.0,3584.0,3845.0,1951.0,2072.0,2134.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Of which number having Hb < 7 mg,TOTAL,15.1.1.b,15.1.1.b-TOTAL-Of which number having Hb < 7 mg,RH,166.0,150.0,186.0,173.0,195.0,232.0,244.0,168.0,181.0,160.0,46.0,158.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,HIV tests conducted,dummy,15.1.2,15.1.2-dummy-HIV tests conducted,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Male,Number Positive,15.1.2.a,15.1.2.a-Number Positive-Male,RH,0.0,3.0,2.0,3.0,1.0,3.0,2.0,1.0,3.0,3.0,1.0,4.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.1.2.a,15.1.2.a-Number tested-Male,RH,69.0,66.0,60.0,84.0,60.0,47.0,64.0,52.0,51.0,32.0,58.0,50.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number Positive,15.1.2.b,15.1.2.b-Number Positive-Female-Non ANC,RH,0.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,3.0,1.0,0.0,1.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.1.2.b,15.1.2.b-Number tested-Female-Non ANC,RH,107.0,122.0,143.0,99.0,134.0,158.0,157.0,176.0,262.0,190.0,207.0,144.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number Positive,15.1.2.c,15.1.2.c-Number Positive-Female with ANC,RH,2.0,0.0,1.0,0.0,4.0,1.0,3.0,2.0,3.0,0.0,3.0,3.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.1.2.c,15.1.2.c-Number tested-Female with ANC,RH,1651.0,2002.0,2374.0,2172.0,1739.0,1793.0,1810.0,1758.0,1882.0,1657.0,1676.0,1590.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number Positive,15.1.2.d,15.1.2.d-Number Positive-Total {(a) to (c)},RH,2.0,5.0,4.0,4.0,6.0,6.0,6.0,3.0,9.0,4.0,4.0,8.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.1.2.d,15.1.2.d-Number tested-Total {(a) to (c)},RH,1827.0,2190.0,2577.0,2355.0,1933.0,1998.0,2031.0,1986.0,2195.0,1879.0,1941.0,1784.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Widal tests conducted,Number tested,15.2,15.2-Number tested-Widal tests conducted,RH,125.0,100.0,158.0,295.0,100.0,100.0,93.0,108.0,111.0,137.0,348.0,162.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,VDRL  tests conducted,dummy,15.3,15.3-dummy-VDRL  tests conducted,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.3.a,15.3.a-Number tested-Male,RH,45.0,38.0,48.0,44.0,20.0,17.0,34.0,40.0,34.0,28.0,0.0,28.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.3.b,15.3.b-Number tested-Female-Non ANC,RH,56.0,60.0,73.0,52.0,52.0,90.0,91.0,94.0,812.0,128.0,213.0,78.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.3.c,15.3.c-Number tested-Female with ANC,RH,1644.0,2060.0,2364.0,2172.0,1918.0,1883.0,1845.0,1608.0,2036.0,1775.0,1587.0,1274.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.3.d,15.3.d-Number tested-Total {(a) to (c)},RH,1745.0,2158.0,2485.0,2268.0,1990.0,1990.0,1970.0,1742.0,2882.0,1931.0,1800.0,1380.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Malaria tests conducted,dummy,15.4,15.4-dummy-Malaria tests conducted,RH,,,,,,,,,,,,
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Blood smears examined,TOTAL,15.4.1,15.4.1-TOTAL-Blood smears examined,RH,534.0,547.0,1062.0,499.0,562.0,605.0,601.0,512.0,455.0,482.0,562.0,488.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Vivax test positive,TOTAL,15.4.2,15.4.2-TOTAL-Plasmodium Vivax test positive,RH,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+RH Nagpur,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Falciparum test positive,TOTAL,15.4.3,15.4.3-TOTAL-Plasmodium Falciparum test positive,RH,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,D-M16-,Monthly Inventory Status,dummy,dummy,dummy,Part D,Part D-dummy-dummy,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Stock Position (During the month),dummy,M16,M16-dummy-Stock Position (During the month),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vaccines,dummy,16.1,16.1-dummy-Vaccines,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Balance From Previous Month,16.1.1,16.1.1-Balance From Previous Month-DPT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stocks Received,16.1.1,16.1.1-Stocks Received-DPT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Unusable Stock,16.1.1,16.1.1-Unusable Stock-DPT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stock Distributed,16.1.1,16.1.1-Stock Distributed-DPT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Total Stock,16.1.1,16.1.1-Total Stock-DPT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Balance From Previous Month,16.1.2,16.1.2-Balance From Previous Month-OPV,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stocks Received,16.1.2,16.1.2-Stocks Received-OPV,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Unusable Stock,16.1.2,16.1.2-Unusable Stock-OPV,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stock Distributed,16.1.2,16.1.2-Stock Distributed-OPV,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Total Stock,16.1.2,16.1.2-Total Stock-OPV,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Balance From Previous Month,16.1.3,16.1.3-Balance From Previous Month-TT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stocks Received,16.1.3,16.1.3-Stocks Received-TT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Unusable Stock,16.1.3,16.1.3-Unusable Stock-TT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stock Distributed,16.1.3,16.1.3-Stock Distributed-TT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Total Stock,16.1.3,16.1.3-Total Stock-TT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Balance From Previous Month,16.1.4,16.1.4-Balance From Previous Month-DT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stocks Received,16.1.4,16.1.4-Stocks Received-DT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Unusable Stock,16.1.4,16.1.4-Unusable Stock-DT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stock Distributed,16.1.4,16.1.4-Stock Distributed-DT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Total Stock,16.1.4,16.1.4-Total Stock-DT,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Balance From Previous Month,16.1.5,16.1.5-Balance From Previous Month-BCG,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stocks Received,16.1.5,16.1.5-Stocks Received-BCG,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Unusable Stock,16.1.5,16.1.5-Unusable Stock-BCG,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stock Distributed,16.1.5,16.1.5-Stock Distributed-BCG,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Total Stock,16.1.5,16.1.5-Total Stock-BCG,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Balance From Previous Month,16.1.6,16.1.6-Balance From Previous Month-Measles,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stocks Received,16.1.6,16.1.6-Stocks Received-Measles,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Unusable Stock,16.1.6,16.1.6-Unusable Stock-Measles,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stock Distributed,16.1.6,16.1.6-Stock Distributed-Measles,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Total Stock,16.1.6,16.1.6-Total Stock-Measles,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Balance From Previous Month,16.1.7,16.1.7-Balance From Previous Month-JE,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stocks Received,16.1.7,16.1.7-Stocks Received-JE,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Unusable Stock,16.1.7,16.1.7-Unusable Stock-JE,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stock Distributed,16.1.7,16.1.7-Stock Distributed-JE,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Total Stock,16.1.7,16.1.7-Total Stock-JE,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Balance From Previous Month,16.1.8,16.1.8-Balance From Previous Month-Hepatitis B,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stocks Received,16.1.8,16.1.8-Stocks Received-Hepatitis B,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Unusable Stock,16.1.8,16.1.8-Unusable Stock-Hepatitis B,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stock Distributed,16.1.8,16.1.8-Stock Distributed-Hepatitis B,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Total Stock,16.1.8,16.1.8-Total Stock-Hepatitis B,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Family Planning,dummy,16.2,16.2-dummy-Family Planning,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Balance From Previous Month,16.2.1,16.2.1-Balance From Previous Month-IUD 380 A,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stocks Received,16.2.1,16.2.1-Stocks Received-IUD 380 A,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Unusable Stock,16.2.1,16.2.1-Unusable Stock-IUD 380 A,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stock Distributed,16.2.1,16.2.1-Stock Distributed-IUD 380 A,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Total Stock,16.2.1,16.2.1-Total Stock-IUD 380 A,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Balance From Previous Month,16.2.2,16.2.2-Balance From Previous Month-Condoms,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stocks Received,16.2.2,16.2.2-Stocks Received-Condoms,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Unusable Stock,16.2.2,16.2.2-Unusable Stock-Condoms,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stock Distributed,16.2.2,16.2.2-Stock Distributed-Condoms,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Total Stock,16.2.2,16.2.2-Total Stock-Condoms,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Balance From Previous Month,16.2.3,16.2.3-Balance From Previous Month-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stocks Received,16.2.3,16.2.3-Stocks Received-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Unusable Stock,16.2.3,16.2.3-Unusable Stock-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stock Distributed,16.2.3,16.2.3-Stock Distributed-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Total Stock,16.2.3,16.2.3-Total Stock-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Balance From Previous Month,16.2.4,16.2.4-Balance From Previous Month-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stocks Received,16.2.4,16.2.4-Stocks Received-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Unusable Stock,16.2.4,16.2.4-Unusable Stock-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stock Distributed,16.2.4,16.2.4-Stock Distributed-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Total Stock,16.2.4,16.2.4-Total Stock-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Balance From Previous Month,16.2.5,16.2.5-Balance From Previous Month-Tubal rings,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stocks Received,16.2.5,16.2.5-Stocks Received-Tubal rings,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Unusable Stock,16.2.5,16.2.5-Unusable Stock-Tubal rings,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stock Distributed,16.2.5,16.2.5-Stock Distributed-Tubal rings,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Total Stock,16.2.5,16.2.5-Total Stock-Tubal rings,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Other Items,dummy,16.3,16.3-dummy-Other Items,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Balance From Previous Month,16.3.01,16.3.01-Balance From Previous Month-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stocks Received,16.3.01,16.3.01-Stocks Received-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Unusable Stock,16.3.01,16.3.01-Unusable Stock-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stock Distributed,16.3.01,16.3.01-Stock Distributed-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Total Stock,16.3.01,16.3.01-Total Stock-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Balance From Previous Month,16.3.02,16.3.02-Balance From Previous Month-Gloves,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stocks Received,16.3.02,16.3.02-Stocks Received-Gloves,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Unusable Stock,16.3.02,16.3.02-Unusable Stock-Gloves,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stock Distributed,16.3.02,16.3.02-Stock Distributed-Gloves,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Total Stock,16.3.02,16.3.02-Total Stock-Gloves,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Balance From Previous Month,16.3.03,16.3.03-Balance From Previous Month-MVA Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stocks Received,16.3.03,16.3.03-Stocks Received-MVA Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Unusable Stock,16.3.03,16.3.03-Unusable Stock-MVA Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stock Distributed,16.3.03,16.3.03-Stock Distributed-MVA Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Total Stock,16.3.03,16.3.03-Total Stock-MVA Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Balance From Previous Month,16.3.04,16.3.04-Balance From Previous Month-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stocks Received,16.3.04,16.3.04-Stocks Received-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Unusable Stock,16.3.04,16.3.04-Unusable Stock-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stock Distributed,16.3.04,16.3.04-Stock Distributed-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Total Stock,16.3.04,16.3.04-Total Stock-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Balance From Previous Month,16.3.05,16.3.05-Balance From Previous Month-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stocks Received,16.3.05,16.3.05-Stocks Received-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Unusable Stock,16.3.05,16.3.05-Unusable Stock-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stock Distributed,16.3.05,16.3.05-Stock Distributed-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Total Stock,16.3.05,16.3.05-Total Stock-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Balance From Previous Month,16.3.06,16.3.06-Balance From Previous Month-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stocks Received,16.3.06,16.3.06-Stocks Received-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Unusable Stock,16.3.06,16.3.06-Unusable Stock-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stock Distributed,16.3.06,16.3.06-Stock Distributed-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Total Stock,16.3.06,16.3.06-Total Stock-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Balance From Previous Month,16.3.07,16.3.07-Balance From Previous Month-IFA tablets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stocks Received,16.3.07,16.3.07-Stocks Received-IFA tablets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Unusable Stock,16.3.07,16.3.07-Unusable Stock-IFA tablets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stock Distributed,16.3.07,16.3.07-Stock Distributed-IFA tablets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Total Stock,16.3.07,16.3.07-Total Stock-IFA tablets,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Balance From Previous Month,16.3.08,16.3.08-Balance From Previous Month-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stocks Received,16.3.08,16.3.08-Stocks Received-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Unusable Stock,16.3.08,16.3.08-Unusable Stock-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stock Distributed,16.3.08,16.3.08-Stock Distributed-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Total Stock,16.3.08,16.3.08-Total Stock-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Balance From Previous Month,16.3.09,16.3.09-Balance From Previous Month-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stocks Received,16.3.09,16.3.09-Stocks Received-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Unusable Stock,16.3.09,16.3.09-Unusable Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stock Distributed,16.3.09,16.3.09-Stock Distributed-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Total Stock,16.3.09,16.3.09-Total Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Balance From Previous Month,16.3.10,16.3.10-Balance From Previous Month-Vitamin A solution,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stocks Received,16.3.10,16.3.10-Stocks Received-Vitamin A solution,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Unusable Stock,16.3.10,16.3.10-Unusable Stock-Vitamin A solution,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stock Distributed,16.3.10,16.3.10-Stock Distributed-Vitamin A solution,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Total Stock,16.3.10,16.3.10-Total Stock-Vitamin A solution,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Balance From Previous Month,16.3.11,16.3.11-Balance From Previous Month-ORS (New WHO),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stocks Received,16.3.11,16.3.11-Stocks Received-ORS (New WHO),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Unusable Stock,16.3.11,16.3.11-Unusable Stock-ORS (New WHO),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stock Distributed,16.3.11,16.3.11-Stock Distributed-ORS (New WHO),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Total Stock,16.3.11,16.3.11-Total Stock-ORS (New WHO),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),Syringes,dummy,16.4,16.4-dummy-Syringes,RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Balance From Previous Month,16.4.1,16.4.1-Balance From Previous Month-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stocks Received,16.4.1,16.4.1-Stocks Received-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Unusable Stock,16.4.1,16.4.1-Unusable Stock-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stock Distributed,16.4.1,16.4.1-Stock Distributed-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Total Stock,16.4.1,16.4.1-Total Stock-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Balance From Previous Month,16.4.2,16.4.2-Balance From Previous Month-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stocks Received,16.4.2,16.4.2-Stocks Received-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Unusable Stock,16.4.2,16.4.2-Unusable Stock-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stock Distributed,16.4.2,16.4.2-Stock Distributed-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Total Stock,16.4.2,16.4.2-Total Stock-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Balance From Previous Month,16.4.3,16.4.3-Balance From Previous Month-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stocks Received,16.4.3,16.4.3-Stocks Received-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Unusable Stock,16.4.3,16.4.3-Unusable Stock-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stock Distributed,16.4.3,16.4.3-Stock Distributed-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Total Stock,16.4.3,16.4.3-Total Stock-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Nagpur,D-M16-,Mortality Details,dummy,dummy,dummy,Part E,dummy,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Details of deaths reported during the month with probable causes:,dummy,M17,M17-dummy-Details of deaths reported during the month with probable causes:,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant deaths within 24 hrs of birth,TOTAL,17.1,17.1-TOTAL-Infant deaths within 24 hrs of birth,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant Deaths up to 4 weeks by cause,dummy,17.2,17.2-dummy-Infant Deaths up to 4 weeks by cause,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Up to 1 Weeks of Birth,17.2.1,17.2.1-Up to 1 Weeks of Birth-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Between 1 week & 4 weeks of birth,17.2.1,17.2.1-Between 1 week & 4 weeks of birth-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Total,17.2.1,17.2.1-Total-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Up to 1 Weeks of Birth,17.2.2,17.2.2-Up to 1 Weeks of Birth-Asphyxia,RH,0.0,4.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Between 1 week & 4 weeks of birth,17.2.2,17.2.2-Between 1 week & 4 weeks of birth-Asphyxia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Total,17.2.2,17.2.2-Total-Asphyxia,RH,0.0,4.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Up to 1 Weeks of Birth,17.2.3,17.2.3-Up to 1 Weeks of Birth-LBW,RH,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Between 1 week & 4 weeks of birth,17.2.3,17.2.3-Between 1 week & 4 weeks of birth-LBW,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Total,17.2.3,17.2.3-Total-LBW,RH,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Up to 1 Weeks of Birth,17.2.4,17.2.4-Up to 1 Weeks of Birth-Others,RH,0.0,3.0,1.0,2.0,4.0,2.0,1.0,4.0,1.0,2.0,3.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 week & 4 weeks of birth,17.2.4,17.2.4-Between 1 week & 4 weeks of birth-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.2.4,17.2.4-Total-Others,RH,0.0,3.0,1.0,2.0,4.0,2.0,1.0,4.0,1.0,2.0,3.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant/Child Deaths up to 5 years by cause,dummy,17.3,17.3-dummy-Infant/Child Deaths up to 5 years by cause,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 month and 11 months,17.3.1,17.3.1-Between 1 month and 11 months-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 year & 5 years,17.3.1,17.3.1-Between 1 year & 5 years-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Total,17.3.1,17.3.1-Total-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 month and 11 months,17.3.2,17.3.2-Between 1 month and 11 months-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 year & 5 years,17.3.2,17.3.2-Between 1 year & 5 years-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Total,17.3.2,17.3.2-Total-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 month and 11 months,17.3.3,17.3.3-Between 1 month and 11 months-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 year & 5 years,17.3.3,17.3.3-Between 1 year & 5 years-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Total,17.3.3,17.3.3-Total-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 month and 11 months,17.3.4,17.3.4-Between 1 month and 11 months-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 year & 5 years,17.3.4,17.3.4-Between 1 year & 5 years-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Total,17.3.4,17.3.4-Total-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 month and 11 months,17.3.5,17.3.5-Between 1 month and 11 months-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 year & 5 years,17.3.5,17.3.5-Between 1 year & 5 years-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.3.5,17.3.5-Total-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Adolescent/Adult deaths by cause,dummy,17.4,17.4-dummy-Adolescent/Adult deaths by cause,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,6-14 yrs,17.4.1,17.4.1-6-14 yrs-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,15-55 yrs.,17.4.1,17.4.1-15-55 yrs.-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Above 55 yrs.,17.4.1,17.4.1-Above 55 yrs.-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Total,17.4.1,17.4.1-Total-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,6-14 yrs,17.4.2,17.4.2-6-14 yrs-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,15-55 yrs.,17.4.2,17.4.2-15-55 yrs.-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Above 55 yrs.,17.4.2,17.4.2-Above 55 yrs.-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Total,17.4.2,17.4.2-Total-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),6-14 yrs,17.4.3,17.4.3-6-14 yrs-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),15-55 yrs.,17.4.3,17.4.3-15-55 yrs.-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Above 55 yrs.,17.4.3,17.4.3-Above 55 yrs.-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Total,17.4.3,17.4.3-Total-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,6-14 yrs,17.4.4,17.4.4-6-14 yrs-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,15-55 yrs.,17.4.4,17.4.4-15-55 yrs.-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Above 55 yrs.,17.4.4,17.4.4-Above 55 yrs.-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Total,17.4.4,17.4.4-Total-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,6-14 yrs,17.4.5,17.4.5-6-14 yrs-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,15-55 yrs.,17.4.5,17.4.5-15-55 yrs.-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Above 55 yrs.,17.4.5,17.4.5-Above 55 yrs.-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Total,17.4.5,17.4.5-Total-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,6-14 yrs,17.4.6,17.4.6-6-14 yrs-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,15-55 yrs.,17.4.6,17.4.6-15-55 yrs.-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Above 55 yrs.,17.4.6,17.4.6-Above 55 yrs.-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Total,17.4.6,17.4.6-Total-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,6-14 yrs,17.4.7,17.4.7-6-14 yrs-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,15-55 yrs.,17.4.7,17.4.7-15-55 yrs.-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Above 55 yrs.,17.4.7,17.4.7-Above 55 yrs.-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Total,17.4.7,17.4.7-Total-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,6-14 yrs,17.4.8,17.4.8-6-14 yrs-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,15-55 yrs.,17.4.8,17.4.8-15-55 yrs.-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Above 55 yrs.,17.4.8,17.4.8-Above 55 yrs.-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Total,17.4.8,17.4.8-Total-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Maternal Deaths,dummy,17.4.9,17.4.9-dummy-Maternal Deaths,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,6-14 yrs,17.4.9(a),17.4.9(a)-6-14 yrs-Abortion,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,15-55 yrs.,17.4.9(a),17.4.9(a)-15-55 yrs.-Abortion,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Above 55 yrs.,17.4.9(a),17.4.9(a)-Above 55 yrs.-Abortion,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Total,17.4.9(a),17.4.9(a)-Total-Abortion,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,6-14 yrs,17.4.9(b),17.4.9(b)-6-14 yrs-Obstructed/prolonged labour,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,15-55 yrs.,17.4.9(b),17.4.9(b)-15-55 yrs.-Obstructed/prolonged labour,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Above 55 yrs.,17.4.9(b),17.4.9(b)-Above 55 yrs.-Obstructed/prolonged labour,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Total,17.4.9(b),17.4.9(b)-Total-Obstructed/prolonged labour,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,6-14 yrs,17.4.9(c),17.4.9(c)-6-14 yrs-Severe hypertesnion/fits,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,15-55 yrs.,17.4.9(c),17.4.9(c)-15-55 yrs.-Severe hypertesnion/fits,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Above 55 yrs.,17.4.9(c),17.4.9(c)-Above 55 yrs.-Severe hypertesnion/fits,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Total,17.4.9(c),17.4.9(c)-Total-Severe hypertesnion/fits,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,6-14 yrs,17.4.9(d),17.4.9(d)-6-14 yrs-Bleeding,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,15-55 yrs.,17.4.9(d),17.4.9(d)-15-55 yrs.-Bleeding,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Above 55 yrs.,17.4.9(d),17.4.9(d)-Above 55 yrs.-Bleeding,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Total,17.4.9(d),17.4.9(d)-Total-Bleeding,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,6-14 yrs,17.4.9(e),17.4.9(e)-6-14 yrs-High fever,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,15-55 yrs.,17.4.9(e),17.4.9(e)-15-55 yrs.-High fever,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Above 55 yrs.,17.4.9(e),17.4.9(e)-Above 55 yrs.-High fever,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Total,17.4.9(e),17.4.9(e)-Total-High fever,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),6-14 yrs,17.4.9(f),17.4.9(f)-6-14 yrs-Other Causes (including causes not known),RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),15-55 yrs.,17.4.9(f),17.4.9(f)-15-55 yrs.-Other Causes (including causes not known),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Above 55 yrs.,17.4.9(f),17.4.9(f)-Above 55 yrs.-Other Causes (including causes not known),RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Total,17.4.9(f),17.4.9(f)-Total-Other Causes (including causes not known),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,6-14 yrs,17.4.10,17.4.10-6-14 yrs-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,15-55 yrs.,17.4.10,17.4.10-15-55 yrs.-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Above 55 yrs.,17.4.10,17.4.10-Above 55 yrs.-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Total,17.4.10,17.4.10-Total-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,6-14 yrs,17.4.11,17.4.11-6-14 yrs-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,15-55 yrs.,17.4.11,17.4.11-15-55 yrs.-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Above 55 yrs.,17.4.11,17.4.11-Above 55 yrs.-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Total,17.4.11,17.4.11-Total-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,6-14 yrs,17.4.12,17.4.12-6-14 yrs-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,15-55 yrs.,17.4.12,17.4.12-15-55 yrs.-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Above 55 yrs.,17.4.12,17.4.12-Above 55 yrs.-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Total,17.4.12,17.4.12-Total-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Diseases,dummy,17.4.13,17.4.13-dummy-Other Diseases,RH,,,,,,,,,,,,
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,6-14 yrs,17.4.13(a),17.4.13(a)-6-14 yrs-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,15-55 yrs.,17.4.13(a),17.4.13(a)-15-55 yrs.-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Above 55 yrs.,17.4.13(a),17.4.13(a)-Above 55 yrs.-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Total,17.4.13(a),17.4.13(a)-Total-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,6-14 yrs,17.4.13(b),17.4.13(b)-6-14 yrs-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,15-55 yrs.,17.4.13(b),17.4.13(b)-15-55 yrs.-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Above 55 yrs.,17.4.13(b),17.4.13(b)-Above 55 yrs.-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Total,17.4.13(b),17.4.13(b)-Total-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,6-14 yrs,17.4.13(c),17.4.13(c)-6-14 yrs-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,15-55 yrs.,17.4.13(c),17.4.13(c)-15-55 yrs.-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Above 55 yrs.,17.4.13(c),17.4.13(c)-Above 55 yrs.-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Nagpur,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Total,17.4.13(c),17.4.13(c)-Total-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

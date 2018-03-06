@@ -1,0 +1,52 @@
+---
+title: "          "
+author: "Gitanshu Munjal"
+date: "March 6th, 2018"
+output: 
+  html_notebook: 
+    highlight: haddock
+    theme: spacelab
+---
+<br><br><br><br>
+Clean-up notes can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-cleanup.nb.html) and Analysis can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-code.nb.html)
+<br><br><hr><br><br>
+
+#### Notes/code for ***Data Analysis***
+
+<li> 
+Navigation through the data implemented using 3 core helper [functions](https://github.com/grmunjal/socialcops/code/):
+<br><br>
+
+1. The ***subject.area()*** function takes a letter input and returns available topics in that part of the survey.
+
+Example:
+```{r}
+subject.area("A")
+```
+<br><br>
+
+2. The ***focus.topics()*** function takes a number input and returns available topics in that part of the survey.
+
+Example (say you are interested in topic 1 Ante Natal Care Services ANC from above):
+
+***SCROLL RIGHT ON THE FRAME BELOW***
+```{r, fig.width=15}
+focus.topics(1)
+```
+<br><br>
+
+3. The ***focus.data()*** function takes a series of (or single) number input and returns available data for that part of the survey.
+
+Example (say you are interested in vaccination of pregnant women. The above frame tells you that those data start at row 8 and end at row 10 so you can run:
+
+***SCROLL RIGHT ON THE FRAME BELOW***
+```{r}
+iso.data <- focus.data(8:10)
+iso.data
+```
+
+<li> These functions together with code that I can use repetitively is then used for the visualizations below. 
+
+<li> The code that appears repeatedly is commented/explained the first time and subsequently just mentioned that it is repeated.
+
+<br><br><br>

@@ -1,0 +1,525 @@
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,Part A,Part A-dummy-Ante Natal Care Services ANC,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Ante Natal Care Services ANC,dummy,M1,M1-dummy-Ante Natal Care Services ANC,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women Registered for ANC  ,TOTAL,1.1,1.1-TOTAL-Total number of pregnant women Registered for ANC,RH,6.0,0.0,4.0,4.0,5.0,8.0,16.0,10.0,9.0,13.0,5.0,4.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Of which Number registered within first trimester,TOTAL,1.1.1,1.1.1-TOTAL-Of which Number registered within first trimester,RH,5.0,0.0,2.0,2.0,5.0,3.0,10.0,5.0,5.0,2.0,2.0,1.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New women registered under JSY,TOTAL,1.2,1.2-TOTAL-New women registered under JSY,RH,5.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,2.0,0.0,4.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women received 3 ANC check ups,TOTAL,1.3,1.3-TOTAL-Number of pregnant women received 3 ANC check ups,RH,16.0,17.0,14.0,26.0,15.0,19.0,13.0,3.0,6.0,15.0,24.0,28.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnant women given,dummy,1.4,1.4-dummy-Number of pregnant women given,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT1,TOTAL,1.4.1,1.4.1-TOTAL-TT1,RH,6.0,0.0,4.0,2.0,0.0,8.0,16.0,10.0,9.0,13.0,5.0,4.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,TT2 or Booster,TOTAL,1.4.2,1.4.2-TOTAL-TT2 or Booster,RH,4.0,2.0,1.0,4.0,5.0,7.0,16.0,1.0,5.0,15.0,2.0,4.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Total number of pregnant women given 100 IFA tablets,TOTAL,1.5,1.5-TOTAL-Total number of pregnant women given 100 IFA tablets,RH,22.0,14.0,5.0,19.0,8.0,14.0,8.0,8.0,6.0,21.0,18.0,26.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Hypertension (BP>140/90) ,dummy,1.6,1.6-dummy-Pregnant women with Hypertension (BP>140/90),RH,,,,,,,,,,,,
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,New cases detected at institution,TOTAL,1.6.1,1.6.1-TOTAL-New cases detected at institution,RH,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of Eclampsia cases managed during delivery,TOTAL,1.6.2,1.6.2-TOTAL-Number of Eclampsia cases managed during delivery,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Pregnant women with Anaemia ,dummy,1.7,1.7-dummy-Pregnant women with Anaemia,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having Hb level<11 (tested cases),TOTAL,1.7.1,1.7.1-TOTAL-Number having Hb level<11 (tested cases),RH,0.0,14.0,15.0,11.0,0.0,0.0,34.0,0.0,0.0,28.0,32.0,20.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number having severe anaemia (Hb<7) treated at institution,TOTAL,1.7.2,1.7.2-TOTAL-Number having severe anaemia (Hb<7) treated at institution,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M1-,REPRODUCTIVE AND CHILD HEALTH,Ante Natal Care Services ANC,Number of pregnancy kits used at Sub-centre,TOTAL,1.8,1.8-TOTAL-Number of pregnancy kits used at Sub-centre,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries ,dummy,M2,M2-dummy-Deliveries,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Home:,dummy,2.1,2.1-dummy-Deliveries conducted at Home:,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Home Deliveries attended by:,dummy,2.1.1,2.1.1-dummy-Number of Home Deliveries attended by:,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,SBA Trained (Doctor/Nurse/ANM),TOTAL,2.1.1.a,2.1.1.a-TOTAL-SBA Trained (Doctor/Nurse/ANM),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Non SBA (Trained TBA/Relatives/etc.),TOTAL,2.1.1.b,2.1.1.b-TOTAL-Non SBA (Trained TBA/Relatives/etc.),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Total {(a) to (b)},TOTAL,2.1.1.c,2.1.1.c-TOTAL-Total {(a) to (b)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of newborns visited within 24 hours of Home Delivery,TOTAL,2.1.2,2.1.2-TOTAL-Number of newborns visited within 24 hours of Home Delivery,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of mothers paid JSY incentive for Home deliveries,TOTAL,2.1.3,2.1.3-TOTAL-Number of mothers paid JSY incentive for Home deliveries,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Deliveries conducted at Public Institutions ,TOTAL,2.2,2.2-TOTAL-Deliveries conducted at Public Institutions,RH,14.0,16.0,14.0,16.0,20.0,23.0,12.0,11.0,27.0,14.0,17.0,19.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Of which Number discharged under 48 hours of delivery,TOTAL,2.2.1,2.2.1-TOTAL-Of which Number discharged under 48 hours of delivery,RH,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,10.0,1.0,2.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of cases where JSY incentive paid to,dummy,2.2.2,2.2.2-dummy-Number of cases where JSY incentive paid to,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.2.2.a,2.2.2.a-TOTAL-Mothers,RH,2.0,5.0,4.0,3.0,12.0,14.0,0.0,3.0,0.0,8.0,7.0,3.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.2.2.b,2.2.2.b-TOTAL-ASHAs,RH,2.0,3.0,4.0,3.0,0.0,14.0,0.0,0.0,0.0,7.0,0.0,3.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.2.2.c,2.2.2.c-TOTAL-ANM or AWW (only for HPS States),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of Deliveries  at accredited Private Institutions,TOTAL,2.3,2.3-TOTAL-Number of Deliveries  at accredited Private Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Number of institutional delivery cases where JSY incentive paid to,dummy,2.3.1,2.3.1-dummy-Number of institutional delivery cases where JSY incentive paid to,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,Mothers ,TOTAL,2.3.1.a,2.3.1.a-TOTAL-Mothers,RH,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ASHAs,TOTAL,2.3.1.b,2.3.1.b-TOTAL-ASHAs,RH,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M2-,REPRODUCTIVE AND CHILD HEALTH,Deliveries ,ANM or AWW (only for HPS States),TOTAL,2.3.1.c,2.3.1.c-TOTAL-ANM or AWW (only for HPS States),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Number of Caesarean C-Section deliveries performed at ,dummy,M3,M3-dummy-Number of Caesarean C-Section deliveries performed at,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Public facilities,dummy,3.1,3.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,PHC,TOTAL,3.1.1,3.1.1-TOTAL-PHC,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,CHC ,TOTAL,3.1.2,3.1.2-TOTAL-CHC,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Sub-divisional hospital/District Hospital,TOTAL,3.1.3,3.1.3-TOTAL-Sub-divisional hospital/District Hospital,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,At Other State Owned Public Institutions,TOTAL,3.1.4,3.1.4-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Total {(3.1.1) to (3.1.4)},TOTAL,3.1.5,3.1.5-TOTAL-Total {(3.1.1) to (3.1.4)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M3-,REPRODUCTIVE AND CHILD HEALTH,Number of Caesarean C-Section deliveries performed at ,Private facilities,TOTAL,3.2,3.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy outcome & weight of new-born,dummy,M4,M4-dummy-Pregnancy outcome & weight of new-born,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Pregnancy Outcome (in number),dummy,4.1,4.1-dummy-Pregnancy Outcome (in number),RH,,,,,,,,,,,,
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Live Birth,dummy,4.1.1,4.1.1-dummy-Live Birth,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Male,TOTAL,4.1.1.a,4.1.1.a-TOTAL-Male,RH,5.0,7.0,6.0,9.0,9.0,11.0,6.0,5.0,11.0,9.0,12.0,11.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Female,TOTAL,4.1.1.b ,4.1.1.b -TOTAL-Female,RH,9.0,9.0,8.0,7.0,11.0,12.0,6.0,6.0,16.0,5.0,5.0,8.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Total ({a} + {b}),TOTAL,4.1.1.c,4.1.1.c-TOTAL-Total ({a} + {b}),RH,14.0,16.0,14.0,16.0,20.0,23.0,12.0,11.0,27.0,14.0,17.0,19.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Still Birth,TOTAL,4.1.2,4.1.2-TOTAL-Still Birth,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Abortion (spontaneous/induced),TOTAL,4.1.3,4.1.3-TOTAL-Abortion (spontaneous/induced),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Details of Newborn children weighed,dummy,4.2,4.2-dummy-Details of Newborn children weighed,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns weighed at birth,TOTAL,4.2.1,4.2.1-TOTAL-Number of Newborns weighed at birth,RH,14.0,16.0,14.0,12.0,20.0,23.0,12.0,5.0,27.0,14.0,17.0,19.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns having weight less than 2.5 kg,TOTAL,4.2.2,4.2.2-TOTAL-Number of Newborns having weight less than 2.5 kg,RH,3.0,8.0,3.0,4.0,4.0,8.0,5.0,5.0,7.0,6.0,5.0,4.0
+RH Bhivpur ,A-M4-,REPRODUCTIVE AND CHILD HEALTH,Pregnancy outcome & weight of new-born,Number of Newborns breast fed within 1 hour,TOTAL,4.3,4.3-TOTAL-Number of Newborns breast fed within 1 hour,RH,14.0,16.0,14.0,16.0,20.0,23.0,0.0,11.0,27.0,14.0,17.0,19.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Complicated pregnanices,dummy,M5,M5-dummy-Complicated pregnanices,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,dummy,5.1,5.1-dummy-Number of cases of pregnant women with Obstetric Complications and attended at Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At PHCs ,TOTAL,5.1.1,5.1.1-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At CHCs ,TOTAL,5.1.2,5.1.2-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Sub-divisional hospitals/ District Hospitals,TOTAL,5.1.3,5.1.3-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,At Other State Owned Public Institutions,TOTAL,5.1.4,5.1.4-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Total {(5.1.1) to (5.1.4)},TOTAL,5.1.5,5.1.5-TOTAL-Total {(5.1.1) to (5.1.4)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,TOTAL,5.2,5.2-TOTAL-Number of cases of pregnant women with Obstetric Complications and attended at Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Number of Complicated pregnancies treated with,dummy,5.3,5.3-dummy-Number of Complicated pregnancies treated with,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antibiotics,TOTAL,5.3.1,5.3.1-TOTAL-IV antibiotics,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV antihypertensive/Magsulph injection,TOTAL,5.3.2,5.3.2-TOTAL-IV antihypertensive/Magsulph injection,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,IV Oxytocis,TOTAL,5.3.3,5.3.3-TOTAL-IV Oxytocis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M5-,REPRODUCTIVE AND CHILD HEALTH,Complicated pregnanices,Blood Transfusion ,TOTAL,5.3.4,5.3.4-TOTAL-Blood Transfusion,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Post - Natal Care,dummy,M6,M6-dummy-Post - Natal Care,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women receiving post partum check-up within 48 hours after delivery,TOTAL,6.1,6.1-TOTAL-Women receiving post partum check-up within 48 hours after delivery,RH,14.0,16.0,14.0,16.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,19.0
+RH Bhivpur ,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,Women getting a post partum check up between 48 hours and 14 days,TOTAL,6.2,6.2-TOTAL-Women getting a post partum check up between 48 hours and 14 days,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M6-,REPRODUCTIVE AND CHILD HEALTH,Post - Natal Care,PNC maternal complications attended ,TOTAL,6.3,6.3-TOTAL-PNC maternal complications attended,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Medical Termination of Pregnancy (MTP),dummy,M7,M7-dummy-Medical Termination of Pregnancy (MTP),RH,,,,,,,,,,,,
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Public Institutions,dummy,7.1,7.1-dummy-Number of MTPs conducted at Public Institutions,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Up to 12 weeks of pregnancy,TOTAL,7.1.1,7.1.1-TOTAL-Up to 12 weeks of pregnancy,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),More than 12 weeks of pregnancy,TOTAL,7.1.2,7.1.2-TOTAL-More than 12 weeks of pregnancy,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Total {(7.1.1) to (7.1.2)},TOTAL,7.1.3,7.1.3-TOTAL-Total {(7.1.1) to (7.1.2)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M7-,REPRODUCTIVE AND CHILD HEALTH,Medical Termination of Pregnancy (MTP),Number of MTPs conducted at Private Facilities,TOTAL,7.2,7.2-TOTAL-Number of MTPs conducted at Private Facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,RTI/STI Cases,dummy,M8,M8-dummy-RTI/STI Cases,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of new RTI/STI for which treatment initiated,dummy,8.1,8.1-dummy-Number of new RTI/STI for which treatment initiated,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Male,TOTAL,8.1.a,8.1.a-TOTAL-Male,RH,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Female,TOTAL,8.1.b,8.1.b-TOTAL-Female,RH,2.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Total {(a) to (b)},TOTAL,8.1.c,8.1.c-TOTAL-Total {(a) to (b)},RH,2.0,0.0,2.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0
+RH Bhivpur ,A-M8-,REPRODUCTIVE AND CHILD HEALTH,RTI/STI Cases,Number of wet mount tests conducted,TOTAL,8.2,8.2-TOTAL-Number of wet mount tests conducted,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Family Planning,dummy,M9,M9-dummy-Family Planning,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of NSV/Conventional Vasectomy conducted,dummy,9.01,9.01-dummy-Number of NSV/Conventional Vasectomy conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.1.1,9.1.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.1.1.a,9.1.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.1.1.b,9.1.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.1.1.c,9.1.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.1.1.d,9.1.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.1.1.e,9.1.1.e-TOTAL-Total {(a) to (d)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.1.2,9.1.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Laparoscopic sterilizations conducted,dummy,9.02,9.02-dummy-Number of Laparoscopic sterilizations conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.2.1,9.2.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.2.1.a,9.2.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.2.1.b,9.2.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.2.1.c,9.2.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.2.1.d,9.2.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.2.1.e,9.2.1.e-TOTAL-Total {(a) to (d)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.2.2,9.2.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Mini-lap sterilizations conducted ,dummy,9.03,9.03-dummy-Number of Mini-lap sterilizations conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Public facilities,dummy,9.3.1,9.3.1-dummy-At Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.3.1.a,9.3.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.3.1.b,9.3.1.b-TOTAL-At CHCs,RH,11.0,6.0,6.0,19.0,8.0,12.0,13.0,7.0,28.0,23.0,19.0,6.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.3.1.c,9.3.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.3.1.d,9.3.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.3.1.e,9.3.1.e-TOTAL-Total {(a) to (d)},RH,11.0,6.0,6.0,19.0,8.0,12.0,13.0,7.0,28.0,23.0,19.0,6.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Private facilities,TOTAL,9.3.2,9.3.2-TOTAL-At Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Post-Partum sterilizations conducted ,dummy,9.04,9.04-dummy-Number of Post-Partum sterilizations conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.4.1,9.4.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.4.1.a,9.4.1.a-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.4.1.b,9.4.1.b-TOTAL-At CHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.4.1.c,9.4.1.c-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.4.1.d,9.4.1.d-TOTAL-At Other State Owned Public Institutions,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (d)},TOTAL,9.4.1.e,9.4.1.e-TOTAL-Total {(a) to (d)},RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.4.2,9.4.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD Insertions,dummy,9.05,9.05-dummy-Number of IUD Insertions,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Public facilities,dummy,9.5.1,9.5.1-dummy-Public facilities,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-Centres ,TOTAL,9.5.1.a,9.5.1.a-TOTAL-At Sub-Centres,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At PHCs ,TOTAL,9.5.1.b,9.5.1.b-TOTAL-At PHCs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At CHCs ,TOTAL,9.5.1.c,9.5.1.c-TOTAL-At CHCs,RH,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Sub-divisional hospitals/ District Hospitals,TOTAL,9.5.1.d,9.5.1.d-TOTAL-At Sub-divisional hospitals/ District Hospitals,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,At Other State Owned Public Institutions,TOTAL,9.5.1.e,9.5.1.e-TOTAL-At Other State Owned Public Institutions,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Total {(a) to (e)},TOTAL,9.5.1.f,9.5.1.f-TOTAL-Total {(a) to (e)},RH,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,"Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",TOTAL,9.5.1.A,"9.5.1.A-TOTAL-Out of above total, Post-partum (within 48 hours of delivery) IUD Insertions",RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Private facilities,TOTAL,9.5.2,9.5.2-TOTAL-Private facilities,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of IUD removals,TOTAL,9.06,9.06-TOTAL-Number of IUD removals,RH,1.0,0.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Oral Pills cycles distributed,TOTAL,9.07,9.07-TOTAL-Number of Oral Pills cycles distributed,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Condom pieces distributed,TOTAL,9.08,9.08-TOTAL-Number of Condom pieces distributed,RH,10.0,10.0,20.0,20.0,600.0,10.0,20.0,10.0,0.0,60.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Centchroman (weekly) pills given,TOTAL,9.09,9.09-TOTAL-Number of Centchroman (weekly) pills given,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Emergency Contraceptive Pills distributed,TOTAL,9.1,9.1-TOTAL-Number of Emergency Contraceptive Pills distributed,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Quality in sterilization services,dummy,9.11,9.11-dummy-Quality in sterilization services,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of complications following sterilization,dummy,9.11.1,9.11.1-dummy-Number of complications following sterilization,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.1.a,9.11.1.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.1.b,9.11.1.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of failures following sterilization,dummy,9.11.2,9.11.2-dummy-Number of failures following sterilization,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.2.a,9.11.2.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.2.b,9.11.2.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of deaths following sterilization,dummy,9.11.3,9.11.3-dummy-Number of deaths following sterilization,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Male,TOTAL,9.11.3.a,9.11.3.a-TOTAL-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Female,TOTAL,9.11.3.b,9.11.3.b-TOTAL-Female,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M9-,REPRODUCTIVE AND CHILD HEALTH,Family Planning,Number of Institutions having NSV trained doctors,TOTAL,9.12,9.12-TOTAL-Number of Institutions having NSV trained doctors,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,CHILD IMMUNIZATION,dummy,M10,M10-dummy-CHILD IMMUNIZATION,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Infants 0 to 11 months old who received the following:,dummy,10.1,10.1-dummy-Number of Infants 0 to 11 months old who received the following:,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,BCG,TOTAL,10.1.01,10.1.01-TOTAL-BCG,RH,14.0,19.0,11.0,15.0,16.0,14.0,14.0,11.0,26.0,10.0,10.0,14.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT1,TOTAL,10.1.02,10.1.02-TOTAL-DPT1,RH,4.0,7.0,7.0,13.0,15.0,4.0,15.0,11.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT2,TOTAL,10.1.03,10.1.03-TOTAL-DPT2,RH,1.0,3.0,6.0,11.0,12.0,5.0,12.0,10.0,9.0,0.0,1.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT3,TOTAL,10.1.04,10.1.04-TOTAL-DPT3,RH,6.0,7.0,4.0,5.0,8.0,7.0,7.0,2.0,5.0,12.0,2.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 1,TOTAL,10.1.04A,10.1.04A-TOTAL-Pentavalent 1,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,12.0,8.0,7.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 2,TOTAL,10.1.04B,10.1.04B-TOTAL-Pentavalent 2,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,7.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Pentavalent 3,TOTAL,10.1.04C,10.1.04C-TOTAL-Pentavalent 3,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,4.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV 0 (Birth Dose),TOTAL,10.1.05,10.1.05-TOTAL-OPV 0 (Birth Dose),RH,14.0,16.0,14.0,16.0,16.0,23.0,14.0,11.0,26.0,14.0,17.0,19.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV1,TOTAL,10.1.06,10.1.06-TOTAL-OPV1,RH,4.0,7.0,7.0,13.0,15.0,4.0,15.0,11.0,0.0,12.0,8.0,7.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV2,TOTAL,10.1.07,10.1.07-TOTAL-OPV2,RH,1.0,3.0,6.0,11.0,12.0,5.0,12.0,10.0,9.0,5.0,7.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV3,TOTAL,10.1.08,10.1.08-TOTAL-OPV3,RH,6.0,7.0,4.0,5.0,8.0,7.0,7.0,2.0,5.0,12.0,4.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B0,TOTAL,10.1.09,10.1.09-TOTAL-Hepatitis-B0,RH,14.0,16.0,14.0,16.0,16.0,0.0,14.0,11.0,0.0,14.0,17.0,19.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B1,TOTAL,10.1.10,10.1.10-TOTAL-Hepatitis-B1,RH,4.0,7.0,7.0,13.0,15.0,4.0,15.0,11.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B2,TOTAL,10.1.11,10.1.11-TOTAL-Hepatitis-B2,RH,1.0,3.0,6.0,11.0,12.0,5.0,12.0,10.0,9.0,3.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Hepatitis-B3,TOTAL,10.1.12,10.1.12-TOTAL-Hepatitis-B3,RH,6.0,7.0,4.0,5.0,8.0,7.0,7.0,2.0,5.0,8.0,2.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles,TOTAL,10.1.13,10.1.13-TOTAL-Measles,RH,3.0,7.0,7.0,4.0,8.0,1.0,9.0,2.0,2.0,10.0,3.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Measles 2nd Dose,TOTAL,10.1.14,10.1.14-TOTAL-Measles 2nd Dose,RH,0.0,6.0,4.0,0.0,0.0,5.0,3.0,1.0,0.0,8.0,0.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.1.13,10.1.13-dummy-Total number of children aged between 9 and 11 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.1.13.a,10.1.13.a-TOTAL-Male,RH,1.0,6.0,6.0,4.0,4.0,0.0,5.0,2.0,2.0,3.0,2.0,3.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.1.13.b,10.1.13.b-TOTAL-Female,RH,2.0,1.0,1.0,0.0,4.0,1.0,4.0,0.0,0.0,7.0,1.0,2.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.1.13.c,10.1.13.c-TOTAL-Total {(a) to (b)},RH,3.0,7.0,7.0,4.0,8.0,1.0,9.0,2.0,2.0,10.0,3.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,No. of children aged 9 to 12 months who received JE 1st dose,TOTAL,10.1.A,10.1.A-TOTAL-No. of children aged 9 to 12 months who received JE 1st dose,RH,0.0,7.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of children more than 16 months who received the following,dummy,10.2,10.2-dummy-Number of children more than 16 months who received the following,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,DPT Booster,TOTAL,10.2.1,10.2.1-TOTAL-DPT Booster,RH,0.0,6.0,4.0,0.0,0.0,5.0,3.0,1.0,0.0,8.0,0.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,OPV Booster,TOTAL,10.2.2,10.2.2-TOTAL-OPV Booster,RH,0.0,6.0,4.0,0.0,0.0,5.0,3.0,1.0,0.0,8.0,0.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,"Measles, Mumps, Rubella (MMR) Vaccine",TOTAL,10.2.3,"10.2.3-TOTAL-Measles, Mumps, Rubella (MMR) Vaccine",RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Immunisation Status,dummy,10.3,10.3-dummy-Immunisation Status,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,dummy,10.3.1,10.3.1-dummy-Total number of children aged between 12 and 23 months who have been fully immunised (BCG+DPT123+OPV123+Measles) during the month,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Male,TOTAL,10.3.1.a,10.3.1.a-TOTAL-Male,RH,0.0,3.0,2.0,0.0,4.0,4.0,3.0,1.0,0.0,3.0,0.0,1.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Female,TOTAL,10.3.1.b,10.3.1.b-TOTAL-Female,RH,0.0,3.0,2.0,0.0,4.0,1.0,1.0,0.0,0.0,5.0,0.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Total {(a) to (b)},TOTAL,10.3.1.c,10.3.1.c-TOTAL-Total {(a) to (b)},RH,0.0,6.0,4.0,0.0,8.0,5.0,4.0,1.0,0.0,8.0,0.0,5.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 5 years given DT5,TOTAL,10.3.2,10.3.2-TOTAL-Children more than 5 years given DT5,RH,0.0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,1.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 10 years given TT10,TOTAL,10.3.3,10.3.3-TOTAL-Children more than 10 years given TT10,RH,0.0,4.0,7.0,5.0,10.0,6.0,10.0,5.0,8.0,4.0,14.0,10.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Children more than 16 years given TT16,TOTAL,10.3.4,10.3.4-TOTAL-Children more than 16 years given TT16,RH,0.0,5.0,5.0,4.0,0.0,8.0,15.0,6.0,4.0,5.0,9.0,12.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Adverse Event Following Immunisation (AEFI),dummy,10.3.5,10.3.5-dummy-Adverse Event Following Immunisation (AEFI),RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Abscess,TOTAL,10.3.5.a,10.3.5.a-TOTAL-Abscess,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Death,TOTAL,10.3.5.b,10.3.5.b-TOTAL-Death,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Others,TOTAL,10.3.5.c,10.3.5.c-TOTAL-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Number of Immunisation sessions during the month,dummy,10.4,10.4-dummy-Number of Immunisation sessions during the month,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Planned,TOTAL,10.4.1,10.4.1-TOTAL-Planned,RH,4.0,5.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0,5.0,4.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Held,TOTAL,10.4.2,10.4.2-TOTAL-Held,RH,3.0,5.0,4.0,5.0,4.0,3.0,5.0,4.0,4.0,5.0,3.0,4.0
+RH Bhivpur ,A-M10-,REPRODUCTIVE AND CHILD HEALTH,CHILD IMMUNIZATION,Sessions where ASHAs were present,TOTAL,10.4.3,10.4.3-TOTAL-Sessions where ASHAs were present,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Number of Vitamin A doses ,dummy,M11,M11-dummy-Number of Vitamin A doses,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Administered between 9 months and 5 years,dummy,11.1,11.1-dummy-Administered between 9 months and 5 years,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-1,TOTAL,11.1.1,11.1.1-TOTAL-Dose-1,RH,3.0,6.0,4.0,4.0,5.0,1.0,9.0,2.0,2.0,10.0,3.0,5.0
+RH Bhivpur ,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-5,TOTAL,11.1.2,11.1.2-TOTAL-Dose-5,RH,1.0,1.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0
+RH Bhivpur ,A-M11-,REPRODUCTIVE AND CHILD HEALTH,Number of Vitamin A doses ,Dose-9,TOTAL,11.1.3,11.1.3-TOTAL-Dose-9,RH,1.0,1.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,1.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number of cases of Childhood Diseases reported during the month0-5 years: ,dummy,M12,M12-dummy-Number of cases of Childhood Diseases reported during the month0-5 years:,RH,,,,,,,,,,,,
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diphtheria                         ,TOTAL,12.1,12.1-TOTAL-Diphtheria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Pertussis                            ,TOTAL,12.2,12.2-TOTAL-Pertussis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus Neonatorum,TOTAL,12.3,12.3-TOTAL-Tetanus Neonatorum,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Tetanus others,TOTAL,12.4,12.4-TOTAL-Tetanus others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Polio,TOTAL,12.5,12.5-TOTAL-Polio,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Measles,TOTAL,12.6,12.6-TOTAL-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Diarrhoea and dehydration,TOTAL,12.7,12.7-TOTAL-Diarrhoea and dehydration,RH,0.0,6.0,8.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,10.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Malaria,TOTAL,12.8,12.8-TOTAL-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,A-M12-,REPRODUCTIVE AND CHILD HEALTH,Number of cases of Childhood Diseases reported during the month0-5 years: ,Number admitted with Respiratory Infections,TOTAL,12.9,12.9-TOTAL-Number admitted with Respiratory Infections,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+RH Bhivpur ,B-M13-,Other Programmes,dummy,dummy,dummy,Part B,Part B-dummy-dummy,RH,,,,,,,,,,,,
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Blindness Control Programme,dummy,M13,M13-dummy-Blindness Control Programme,RH,,,,,,,,,,,,
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of Patients operated for cataract,TOTAL,13.1,13.1-TOTAL-Number of Patients operated for cataract,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of Intraocular Lens(IOL) implantations,TOTAL,13.2,13.2-TOTAL-Number of Intraocular Lens(IOL) implantations,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of School children detected with Refractive errors,TOTAL,13.3,13.3-TOTAL-Number of School children detected with Refractive errors,RH,0.0,0.0,0.0,0.0,0.0,0.0,50.0,50.0,100.0,0.0,1.0,0.0
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of children provided free glasses,TOTAL,13.4,13.4-TOTAL-Number of children provided free glasses,RH,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,27.0
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes collected,TOTAL,13.5,13.5-TOTAL-Number of eyes collected,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,B-M13-,Other Programmes,Blindness Control Programme,Number of eyes utilised,TOTAL,13.6,13.6-TOTAL-Number of eyes utilised,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,dummy,dummy,dummy,Part C,Part C-dummy-dummy,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Patient Services,dummy,M14,M14-dummy-Patient Services,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of CHC/ SDH/ DH functioning as an FRUs,TOTAL,14.01,14.01-TOTAL-Number of CHC/ SDH/ DH functioning as an FRUs,RH,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of PHCs functioning  24X7 3 Staff Nurses?,TOTAL,14.02,14.02-TOTAL-Number of PHCs functioning  24X7 3 Staff Nurses?,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of Anganwadi centres reported to have conducted VHNDs,TOTAL,14.03,14.03-TOTAL-Number of Anganwadi centres reported to have conducted VHNDs,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of facilities having a Rogi Kalyan Samiti,TOTAL,14.04,14.04-TOTAL-Number of facilities having a Rogi Kalyan Samiti,RH,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of RKS meetings held during the month,TOTAL,14.05,14.05-TOTAL-Number of RKS meetings held during the month,RH,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of  facilities having Ambulance services  Assured Referral Services available,TOTAL,14.06,14.06-TOTAL-Number of  facilities having Ambulance services  Assured Referral Services available,RH,1.0,1.0,1.0,1.0,51.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Total Number of times the Ambulance was used for transporting patients during the month,TOTAL,14.07,14.07-TOTAL-Total Number of times the Ambulance was used for transporting patients during the month,RH,14.0,13.0,60.0,26.0,1.0,25.0,18.0,36.0,1.0,0.0,38.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of Institutions having Operational Sick New Born and Child Care Units,TOTAL,14.08,14.08-TOTAL-Number of Institutions having Operational Sick New Born and Child Care Units,RH,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Number of functional Laproscopes in CHC/SDH/DH,TOTAL,14.09,14.09-TOTAL-Number of functional Laproscopes in CHC/SDH/DH,RH,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Inpatient,dummy,14.1,14.1-dummy-Inpatient,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Admissions ,dummy,14.10.1,14.10.1-dummy-Admissions,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Male,Children,14.10.1.a,14.10.1.a-Children-Male,RH,12.0,14.0,18.0,22.0,13.0,18.0,12.0,9.0,18.0,11.0,17.0,33.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Male,Adults,14.10.1.a,14.10.1.a-Adults-Male,RH,29.0,95.0,5.0,66.0,40.0,56.0,79.0,58.0,47.0,65.0,70.0,78.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Female,Children,14.10.1.b,14.10.1.b-Children-Female,RH,13.0,15.0,0.0,12.0,14.0,19.0,12.0,7.0,24.0,13.0,21.0,16.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Female,Adults,14.10.1.b,14.10.1.b-Adults-Female,RH,50.0,137.0,154.0,159.0,72.0,83.0,115.0,82.0,97.0,85.0,78.0,44.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Children,14.10.1.c,14.10.1.c-Children-Total {(a) to (b)},RH,25.0,29.0,18.0,34.0,27.0,37.0,24.0,16.0,42.0,24.0,38.0,49.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},Adults,14.10.1.c,14.10.1.c-Adults-Total {(a) to (b)},RH,79.0,232.0,159.0,225.0,112.0,139.0,194.0,140.0,144.0,150.0,148.0,122.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Deaths,dummy,14.10.2,14.10.2-dummy-Deaths,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Male,TOTAL,14.10.2.a,14.10.2.a-TOTAL-Male,RH,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Female,TOTAL,14.10.2.b,14.10.2.b-TOTAL-Female,RH,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Total {(a) to (b)},TOTAL,14.10.2.c,14.10.2.c-TOTAL-Total {(a) to (b)},RH,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,In-Patient Head Count at midnight,TOTAL,14.11,14.11-TOTAL-In-Patient Head Count at midnight,RH,325.0,330.0,396.0,533.0,376.0,113.0,304.0,345.0,426.0,390.0,426.0,397.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Outpatient,dummy,14.12,14.12-dummy-Outpatient,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,OPD attendance (All),TOTAL,14.12.1,14.12.1-TOTAL-OPD attendance (All),RH,4211.0,3912.0,3566.0,4939.0,3641.0,5562.0,6128.0,3641.0,4193.0,4159.0,4020.0,3498.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Operation Theatre,dummy,14.13,14.13-dummy-Operation Theatre,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Operation major (General and spinal anaesthesia),TOTAL,14.13.1,14.13.1-TOTAL-Operation major (General and spinal anaesthesia),RH,22.0,6.0,0.0,0.0,8.0,24.0,26.0,0.0,28.0,0.0,0.0,6.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,"Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",TOTAL,14.13.1A,"14.13.1A-TOTAL-Out of 14.13.1, Gynecology-Hysterectomy Surgeries ",RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Operation minor (No or local anaesthesia),TOTAL,14.13.2,14.13.2-TOTAL-Operation minor (No or local anaesthesia),RH,0.0,8.0,18.0,8.0,9.0,17.0,0.0,0.0,47.0,0.0,15.0,27.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,"Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",dummy,14.14,"14.14-dummy-Others (Include other services like Dental, Ophthalmology , AYUSH etc.)",RH,,,,,,,,,,,,
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,AYUSH,TOTAL,14.14.a,14.14.a-TOTAL-AYUSH,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Dental Procedures,TOTAL,14.14.b,14.14.b-TOTAL-Dental Procedures,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M14-,Health Facility Services,Patient Services,Adolescent counselling services,TOTAL,14.14.c,14.14.c-TOTAL-Adolescent counselling services,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Testing,dummy,M15,M15-dummy-Laboratory Testing,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Laboratory Test Details,dummy,15.1,15.1-dummy-Laboratory Test Details,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Hb Tests conducted,dummy,15.1.1,15.1.1-dummy-Hb Tests conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Number of Hb tests conducted,TOTAL,15.1.1.a,15.1.1.a-TOTAL-Number of Hb tests conducted,RH,204.0,211.0,233.0,282.0,273.0,0.0,241.0,138.0,262.0,279.0,310.0,277.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Of which number having Hb < 7 mg,TOTAL,15.1.1.b,15.1.1.b-TOTAL-Of which number having Hb < 7 mg,RH,3.0,20.0,3.0,8.0,6.0,0.0,0.0,4.0,10.0,3.0,3.0,7.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,HIV tests conducted,dummy,15.1.2,15.1.2-dummy-HIV tests conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Male,Number Positive,15.1.2.a,15.1.2.a-Number Positive-Male,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.1.2.a,15.1.2.a-Number tested-Male,RH,113.0,108.0,100.0,136.0,91.0,0.0,0.0,0.0,0.0,114.0,0.0,130.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number Positive,15.1.2.b,15.1.2.b-Number Positive-Female-Non ANC,RH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.1.2.b,15.1.2.b-Number tested-Female-Non ANC,RH,16.0,30.0,44.0,65.0,37.0,0.0,32.0,17.0,0.0,86.0,0.0,90.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number Positive,15.1.2.c,15.1.2.c-Number Positive-Female with ANC,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.1.2.c,15.1.2.c-Number tested-Female with ANC,RH,151.0,126.0,132.0,133.0,161.0,0.0,140.0,0.0,0.0,106.0,0.0,111.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number Positive,15.1.2.d,15.1.2.d-Number Positive-Total {(a) to (c)},RH,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.1.2.d,15.1.2.d-Number tested-Total {(a) to (c)},RH,280.0,264.0,276.0,334.0,289.0,0.0,172.0,17.0,0.0,306.0,0.0,331.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Widal tests conducted,Number tested,15.2,15.2-Number tested-Widal tests conducted,RH,73.0,85.0,48.0,59.0,44.0,63.0,0.0,39.0,82.0,43.0,50.0,23.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,VDRL  tests conducted,dummy,15.3,15.3-dummy-VDRL  tests conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Male,Number tested,15.3.a,15.3.a-Number tested-Male,RH,1.0,0.0,1.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,148.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female-Non ANC,Number tested,15.3.b,15.3.b-Number tested-Female-Non ANC,RH,0.0,3.0,1.0,3.0,0.0,2.0,0.0,1.0,1.0,1.0,101.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Female with ANC,Number tested,15.3.c,15.3.c-Number tested-Female with ANC,RH,0.0,62.0,65.0,66.0,59.0,64.0,58.0,27.0,91.0,50.0,98.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Total {(a) to (c)},Number tested,15.3.d,15.3.d-Number tested-Total {(a) to (c)},RH,1.0,65.0,67.0,71.0,61.0,68.0,59.0,30.0,93.0,53.0,347.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Malaria tests conducted,dummy,15.4,15.4-dummy-Malaria tests conducted,RH,,,,,,,,,,,,
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Blood smears examined,TOTAL,15.4.1,15.4.1-TOTAL-Blood smears examined,RH,503.0,450.0,538.0,652.0,283.0,199.0,269.0,144.0,230.0,84.0,83.0,45.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Vivax test positive,TOTAL,15.4.2,15.4.2-TOTAL-Plasmodium Vivax test positive,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,C-M15-,Health Facility Services,Laboratory Testing,Plasmodium Falciparum test positive,TOTAL,15.4.3,15.4.3-TOTAL-Plasmodium Falciparum test positive,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,D-M16-,Monthly Inventory Status,dummy,dummy,dummy,Part D,Part D-dummy-dummy,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Stock Position (During the month),dummy,M16,M16-dummy-Stock Position (During the month),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vaccines,dummy,16.1,16.1-dummy-Vaccines,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Balance From Previous Month,16.1.1,16.1.1-Balance From Previous Month-DPT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stocks Received,16.1.1,16.1.1-Stocks Received-DPT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Unusable Stock,16.1.1,16.1.1-Unusable Stock-DPT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Stock Distributed,16.1.1,16.1.1-Stock Distributed-DPT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DPT,Total Stock,16.1.1,16.1.1-Total Stock-DPT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Balance From Previous Month,16.1.2,16.1.2-Balance From Previous Month-OPV,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stocks Received,16.1.2,16.1.2-Stocks Received-OPV,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Unusable Stock,16.1.2,16.1.2-Unusable Stock-OPV,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Stock Distributed,16.1.2,16.1.2-Stock Distributed-OPV,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),OPV,Total Stock,16.1.2,16.1.2-Total Stock-OPV,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Balance From Previous Month,16.1.3,16.1.3-Balance From Previous Month-TT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stocks Received,16.1.3,16.1.3-Stocks Received-TT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Unusable Stock,16.1.3,16.1.3-Unusable Stock-TT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Stock Distributed,16.1.3,16.1.3-Stock Distributed-TT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),TT,Total Stock,16.1.3,16.1.3-Total Stock-TT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Balance From Previous Month,16.1.4,16.1.4-Balance From Previous Month-DT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stocks Received,16.1.4,16.1.4-Stocks Received-DT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Unusable Stock,16.1.4,16.1.4-Unusable Stock-DT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Stock Distributed,16.1.4,16.1.4-Stock Distributed-DT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),DT,Total Stock,16.1.4,16.1.4-Total Stock-DT,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Balance From Previous Month,16.1.5,16.1.5-Balance From Previous Month-BCG,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stocks Received,16.1.5,16.1.5-Stocks Received-BCG,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Unusable Stock,16.1.5,16.1.5-Unusable Stock-BCG,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Stock Distributed,16.1.5,16.1.5-Stock Distributed-BCG,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),BCG,Total Stock,16.1.5,16.1.5-Total Stock-BCG,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Balance From Previous Month,16.1.6,16.1.6-Balance From Previous Month-Measles,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stocks Received,16.1.6,16.1.6-Stocks Received-Measles,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Unusable Stock,16.1.6,16.1.6-Unusable Stock-Measles,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Stock Distributed,16.1.6,16.1.6-Stock Distributed-Measles,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Measles,Total Stock,16.1.6,16.1.6-Total Stock-Measles,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Balance From Previous Month,16.1.7,16.1.7-Balance From Previous Month-JE,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stocks Received,16.1.7,16.1.7-Stocks Received-JE,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Unusable Stock,16.1.7,16.1.7-Unusable Stock-JE,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Stock Distributed,16.1.7,16.1.7-Stock Distributed-JE,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),JE,Total Stock,16.1.7,16.1.7-Total Stock-JE,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Balance From Previous Month,16.1.8,16.1.8-Balance From Previous Month-Hepatitis B,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stocks Received,16.1.8,16.1.8-Stocks Received-Hepatitis B,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Unusable Stock,16.1.8,16.1.8-Unusable Stock-Hepatitis B,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Stock Distributed,16.1.8,16.1.8-Stock Distributed-Hepatitis B,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Hepatitis B,Total Stock,16.1.8,16.1.8-Total Stock-Hepatitis B,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Family Planning,dummy,16.2,16.2-dummy-Family Planning,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Balance From Previous Month,16.2.1,16.2.1-Balance From Previous Month-IUD 380 A,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stocks Received,16.2.1,16.2.1-Stocks Received-IUD 380 A,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Unusable Stock,16.2.1,16.2.1-Unusable Stock-IUD 380 A,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Stock Distributed,16.2.1,16.2.1-Stock Distributed-IUD 380 A,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IUD 380 A,Total Stock,16.2.1,16.2.1-Total Stock-IUD 380 A,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Balance From Previous Month,16.2.2,16.2.2-Balance From Previous Month-Condoms,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stocks Received,16.2.2,16.2.2-Stocks Received-Condoms,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Unusable Stock,16.2.2,16.2.2-Unusable Stock-Condoms,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Stock Distributed,16.2.2,16.2.2-Stock Distributed-Condoms,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Condoms,Total Stock,16.2.2,16.2.2-Total Stock-Condoms,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Balance From Previous Month,16.2.3,16.2.3-Balance From Previous Month-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stocks Received,16.2.3,16.2.3-Stocks Received-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Unusable Stock,16.2.3,16.2.3-Unusable Stock-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Stock Distributed,16.2.3,16.2.3-Stock Distributed-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Oral Contraceptive,Total Stock,16.2.3,16.2.3-Total Stock-Oral Contraceptive,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Balance From Previous Month,16.2.4,16.2.4-Balance From Previous Month-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stocks Received,16.2.4,16.2.4-Stocks Received-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Unusable Stock,16.2.4,16.2.4-Unusable Stock-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Stock Distributed,16.2.4,16.2.4-Stock Distributed-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Emergency Contraceptive Pills,Total Stock,16.2.4,16.2.4-Total Stock-Emergency Contraceptive Pills,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Balance From Previous Month,16.2.5,16.2.5-Balance From Previous Month-Tubal rings,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stocks Received,16.2.5,16.2.5-Stocks Received-Tubal rings,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Unusable Stock,16.2.5,16.2.5-Unusable Stock-Tubal rings,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Stock Distributed,16.2.5,16.2.5-Stock Distributed-Tubal rings,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tubal rings,Total Stock,16.2.5,16.2.5-Total Stock-Tubal rings,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Other Items,dummy,16.3,16.3-dummy-Other Items,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Balance From Previous Month,16.3.01,16.3.01-Balance From Previous Month-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stocks Received,16.3.01,16.3.01-Stocks Received-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Unusable Stock,16.3.01,16.3.01-Unusable Stock-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Stock Distributed,16.3.01,16.3.01-Stock Distributed-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Injection Oxytocin,Total Stock,16.3.01,16.3.01-Total Stock-Injection Oxytocin,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Balance From Previous Month,16.3.02,16.3.02-Balance From Previous Month-Gloves,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stocks Received,16.3.02,16.3.02-Stocks Received-Gloves,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Unusable Stock,16.3.02,16.3.02-Unusable Stock-Gloves,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Stock Distributed,16.3.02,16.3.02-Stock Distributed-Gloves,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gloves,Total Stock,16.3.02,16.3.02-Total Stock-Gloves,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Balance From Previous Month,16.3.03,16.3.03-Balance From Previous Month-MVA Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stocks Received,16.3.03,16.3.03-Stocks Received-MVA Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Unusable Stock,16.3.03,16.3.03-Unusable Stock-MVA Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Stock Distributed,16.3.03,16.3.03-Stock Distributed-MVA Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),MVA Syringes,Total Stock,16.3.03,16.3.03-Total Stock-MVA Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Balance From Previous Month,16.3.04,16.3.04-Balance From Previous Month-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stocks Received,16.3.04,16.3.04-Stocks Received-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Unusable Stock,16.3.04,16.3.04-Unusable Stock-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Stock Distributed,16.3.04,16.3.04-Stock Distributed-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Tab. Fluconazole,Total Stock,16.3.04,16.3.04-Total Stock-Tab. Fluconazole,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Balance From Previous Month,16.3.05,16.3.05-Balance From Previous Month-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stocks Received,16.3.05,16.3.05-Stocks Received-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Unusable Stock,16.3.05,16.3.05-Unusable Stock-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Stock Distributed,16.3.05,16.3.05-Stock Distributed-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Blood Transfusion sets,Total Stock,16.3.05,16.3.05-Total Stock-Blood Transfusion sets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Balance From Previous Month,16.3.06,16.3.06-Balance From Previous Month-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stocks Received,16.3.06,16.3.06-Stocks Received-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Unusable Stock,16.3.06,16.3.06-Unusable Stock-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Stock Distributed,16.3.06,16.3.06-Stock Distributed-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Gluteraldehyde 2%,Total Stock,16.3.06,16.3.06-Total Stock-Gluteraldehyde 2%,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Balance From Previous Month,16.3.07,16.3.07-Balance From Previous Month-IFA tablets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stocks Received,16.3.07,16.3.07-Stocks Received-IFA tablets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Unusable Stock,16.3.07,16.3.07-Unusable Stock-IFA tablets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Stock Distributed,16.3.07,16.3.07-Stock Distributed-IFA tablets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA tablets,Total Stock,16.3.07,16.3.07-Total Stock-IFA tablets,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Balance From Previous Month,16.3.08,16.3.08-Balance From Previous Month-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stocks Received,16.3.08,16.3.08-Stocks Received-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Unusable Stock,16.3.08,16.3.08-Unusable Stock-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Stock Distributed,16.3.08,16.3.08-Stock Distributed-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),IFA Syrup (Paediatric),Total Stock,16.3.08,16.3.08-Total Stock-IFA Syrup (Paediatric),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Balance From Previous Month,16.3.09,16.3.09-Balance From Previous Month-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stocks Received,16.3.09,16.3.09-Stocks Received-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Unusable Stock,16.3.09,16.3.09-Unusable Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Stock Distributed,16.3.09,16.3.09-Stock Distributed-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),Total Stock,16.3.09,16.3.09-Total Stock-Paediatrics Antibiotics (Cotrimaxozole and Injectable Gentamicin),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Balance From Previous Month,16.3.10,16.3.10-Balance From Previous Month-Vitamin A solution,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stocks Received,16.3.10,16.3.10-Stocks Received-Vitamin A solution,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Unusable Stock,16.3.10,16.3.10-Unusable Stock-Vitamin A solution,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Stock Distributed,16.3.10,16.3.10-Stock Distributed-Vitamin A solution,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Vitamin A solution,Total Stock,16.3.10,16.3.10-Total Stock-Vitamin A solution,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Balance From Previous Month,16.3.11,16.3.11-Balance From Previous Month-ORS (New WHO),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stocks Received,16.3.11,16.3.11-Stocks Received-ORS (New WHO),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Unusable Stock,16.3.11,16.3.11-Unusable Stock-ORS (New WHO),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Stock Distributed,16.3.11,16.3.11-Stock Distributed-ORS (New WHO),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),ORS (New WHO),Total Stock,16.3.11,16.3.11-Total Stock-ORS (New WHO),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),Syringes,dummy,16.4,16.4-dummy-Syringes,RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Balance From Previous Month,16.4.1,16.4.1-Balance From Previous Month-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stocks Received,16.4.1,16.4.1-Stocks Received-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Unusable Stock,16.4.1,16.4.1-Unusable Stock-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Stock Distributed,16.4.1,16.4.1-Stock Distributed-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.1 ml (AD),Total Stock,16.4.1,16.4.1-Total Stock-0.1 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Balance From Previous Month,16.4.2,16.4.2-Balance From Previous Month-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stocks Received,16.4.2,16.4.2-Stocks Received-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Unusable Stock,16.4.2,16.4.2-Unusable Stock-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Stock Distributed,16.4.2,16.4.2-Stock Distributed-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),0.5 ml (AD),Total Stock,16.4.2,16.4.2-Total Stock-0.5 ml (AD),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Balance From Previous Month,16.4.3,16.4.3-Balance From Previous Month-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stocks Received,16.4.3,16.4.3-Stocks Received-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Unusable Stock,16.4.3,16.4.3-Unusable Stock-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Stock Distributed,16.4.3,16.4.3-Stock Distributed-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Monthly Inventory Status,Stock Position (During the month),5.0 ml (Disposable),Total Stock,16.4.3,16.4.3-Total Stock-5.0 ml (Disposable),RH,,,,,,,,,,,,
+RH Bhivpur ,D-M16-,Mortality Details,dummy,dummy,dummy,Part E,dummy,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Details of deaths reported during the month with probable causes:,dummy,M17,M17-dummy-Details of deaths reported during the month with probable causes:,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant deaths within 24 hrs of birth,TOTAL,17.1,17.1-TOTAL-Infant deaths within 24 hrs of birth,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant Deaths up to 4 weeks by cause,dummy,17.2,17.2-dummy-Infant Deaths up to 4 weeks by cause,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Up to 1 Weeks of Birth,17.2.1,17.2.1-Up to 1 Weeks of Birth-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Between 1 week & 4 weeks of birth,17.2.1,17.2.1-Between 1 week & 4 weeks of birth-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Sepsis,Total,17.2.1,17.2.1-Total-Sepsis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Up to 1 Weeks of Birth,17.2.2,17.2.2-Up to 1 Weeks of Birth-Asphyxia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Between 1 week & 4 weeks of birth,17.2.2,17.2.2-Between 1 week & 4 weeks of birth-Asphyxia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Asphyxia,Total,17.2.2,17.2.2-Total-Asphyxia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Up to 1 Weeks of Birth,17.2.3,17.2.3-Up to 1 Weeks of Birth-LBW,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Between 1 week & 4 weeks of birth,17.2.3,17.2.3-Between 1 week & 4 weeks of birth-LBW,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,LBW,Total,17.2.3,17.2.3-Total-LBW,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Up to 1 Weeks of Birth,17.2.4,17.2.4-Up to 1 Weeks of Birth-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 week & 4 weeks of birth,17.2.4,17.2.4-Between 1 week & 4 weeks of birth-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.2.4,17.2.4-Total-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Infant/Child Deaths up to 5 years by cause,dummy,17.3,17.3-dummy-Infant/Child Deaths up to 5 years by cause,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 month and 11 months,17.3.1,17.3.1-Between 1 month and 11 months-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Between 1 year & 5 years,17.3.1,17.3.1-Between 1 year & 5 years-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Pneumonia,Total,17.3.1,17.3.1-Total-Pneumonia,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 month and 11 months,17.3.2,17.3.2-Between 1 month and 11 months-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Between 1 year & 5 years,17.3.2,17.3.2-Between 1 year & 5 years-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoea,Total,17.3.2,17.3.2-Total-Diarrhoea,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 month and 11 months,17.3.3,17.3.3-Between 1 month and 11 months-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Between 1 year & 5 years,17.3.3,17.3.3-Between 1 year & 5 years-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Fever related,Total,17.3.3,17.3.3-Total-Fever related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 month and 11 months,17.3.4,17.3.4-Between 1 month and 11 months-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Between 1 year & 5 years,17.3.4,17.3.4-Between 1 year & 5 years-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Measles,Total,17.3.4,17.3.4-Total-Measles,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 month and 11 months,17.3.5,17.3.5-Between 1 month and 11 months-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Between 1 year & 5 years,17.3.5,17.3.5-Between 1 year & 5 years-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Others,Total,17.3.5,17.3.5-Total-Others,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Adolescent/Adult deaths by cause,dummy,17.4,17.4-dummy-Adolescent/Adult deaths by cause,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,6-14 yrs,17.4.1,17.4.1-6-14 yrs-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,15-55 yrs.,17.4.1,17.4.1-15-55 yrs.-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Above 55 yrs.,17.4.1,17.4.1-Above 55 yrs.-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Diarrhoeal diseases,Total,17.4.1,17.4.1-Total-Diarrhoeal diseases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,6-14 yrs,17.4.2,17.4.2-6-14 yrs-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,15-55 yrs.,17.4.2,17.4.2-15-55 yrs.-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Above 55 yrs.,17.4.2,17.4.2-Above 55 yrs.-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Tuberculosis,Total,17.4.2,17.4.2-Total-Tuberculosis,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),6-14 yrs,17.4.3,17.4.3-6-14 yrs-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),15-55 yrs.,17.4.3,17.4.3-15-55 yrs.-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Above 55 yrs.,17.4.3,17.4.3-Above 55 yrs.-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Respiratory diseases including infections (other than TB),Total,17.4.3,17.4.3-Total-Respiratory diseases including infections (other than TB),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,6-14 yrs,17.4.4,17.4.4-6-14 yrs-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,15-55 yrs.,17.4.4,17.4.4-15-55 yrs.-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Above 55 yrs.,17.4.4,17.4.4-Above 55 yrs.-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Malaria,Total,17.4.4,17.4.4-Total-Malaria,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,6-14 yrs,17.4.5,17.4.5-6-14 yrs-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,15-55 yrs.,17.4.5,17.4.5-15-55 yrs.-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Above 55 yrs.,17.4.5,17.4.5-Above 55 yrs.-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Fever Related,Total,17.4.5,17.4.5-Total-Other Fever Related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,6-14 yrs,17.4.6,17.4.6-6-14 yrs-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,15-55 yrs.,17.4.6,17.4.6-15-55 yrs.-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Above 55 yrs.,17.4.6,17.4.6-Above 55 yrs.-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,HIV/AIDS,Total,17.4.6,17.4.6-Total-HIV/AIDS,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,6-14 yrs,17.4.7,17.4.7-6-14 yrs-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,15-55 yrs.,17.4.7,17.4.7-15-55 yrs.-Heart disease/Hypertension related,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Above 55 yrs.,17.4.7,17.4.7-Above 55 yrs.-Heart disease/Hypertension related,RH,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Heart disease/Hypertension related,Total,17.4.7,17.4.7-Total-Heart disease/Hypertension related,RH,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,6-14 yrs,17.4.8,17.4.8-6-14 yrs-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,15-55 yrs.,17.4.8,17.4.8-15-55 yrs.-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Above 55 yrs.,17.4.8,17.4.8-Above 55 yrs.-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Neurological disease including strokes,Total,17.4.8,17.4.8-Total-Neurological disease including strokes,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Maternal Deaths,dummy,17.4.9,17.4.9-dummy-Maternal Deaths,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,6-14 yrs,17.4.9(a),17.4.9(a)-6-14 yrs-Abortion,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,15-55 yrs.,17.4.9(a),17.4.9(a)-15-55 yrs.-Abortion,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Above 55 yrs.,17.4.9(a),17.4.9(a)-Above 55 yrs.-Abortion,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Abortion,Total,17.4.9(a),17.4.9(a)-Total-Abortion,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,6-14 yrs,17.4.9(b),17.4.9(b)-6-14 yrs-Obstructed/prolonged labour,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,15-55 yrs.,17.4.9(b),17.4.9(b)-15-55 yrs.-Obstructed/prolonged labour,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Above 55 yrs.,17.4.9(b),17.4.9(b)-Above 55 yrs.-Obstructed/prolonged labour,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Obstructed/prolonged labour,Total,17.4.9(b),17.4.9(b)-Total-Obstructed/prolonged labour,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,6-14 yrs,17.4.9(c),17.4.9(c)-6-14 yrs-Severe hypertesnion/fits,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,15-55 yrs.,17.4.9(c),17.4.9(c)-15-55 yrs.-Severe hypertesnion/fits,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Above 55 yrs.,17.4.9(c),17.4.9(c)-Above 55 yrs.-Severe hypertesnion/fits,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Severe hypertesnion/fits,Total,17.4.9(c),17.4.9(c)-Total-Severe hypertesnion/fits,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,6-14 yrs,17.4.9(d),17.4.9(d)-6-14 yrs-Bleeding,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,15-55 yrs.,17.4.9(d),17.4.9(d)-15-55 yrs.-Bleeding,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Above 55 yrs.,17.4.9(d),17.4.9(d)-Above 55 yrs.-Bleeding,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Bleeding,Total,17.4.9(d),17.4.9(d)-Total-Bleeding,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,6-14 yrs,17.4.9(e),17.4.9(e)-6-14 yrs-High fever,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,15-55 yrs.,17.4.9(e),17.4.9(e)-15-55 yrs.-High fever,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Above 55 yrs.,17.4.9(e),17.4.9(e)-Above 55 yrs.-High fever,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,High fever,Total,17.4.9(e),17.4.9(e)-Total-High fever,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),6-14 yrs,17.4.9(f),17.4.9(f)-6-14 yrs-Other Causes (including causes not known),RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),15-55 yrs.,17.4.9(f),17.4.9(f)-15-55 yrs.-Other Causes (including causes not known),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Above 55 yrs.,17.4.9(f),17.4.9(f)-Above 55 yrs.-Other Causes (including causes not known),RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Causes (including causes not known),Total,17.4.9(f),17.4.9(f)-Total-Other Causes (including causes not known),RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,6-14 yrs,17.4.10,17.4.10-6-14 yrs-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,15-55 yrs.,17.4.10,17.4.10-15-55 yrs.-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Above 55 yrs.,17.4.10,17.4.10-Above 55 yrs.-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Trauma/Accidents/Burn cases ,Total,17.4.10,17.4.10-Total-Trauma/Accidents/Burn cases,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,6-14 yrs,17.4.11,17.4.11-6-14 yrs-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,15-55 yrs.,17.4.11,17.4.11-15-55 yrs.-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Above 55 yrs.,17.4.11,17.4.11-Above 55 yrs.-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Suicide,Total,17.4.11,17.4.11-Total-Suicide,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,6-14 yrs,17.4.12,17.4.12-6-14 yrs-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,15-55 yrs.,17.4.12,17.4.12-15-55 yrs.-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Above 55 yrs.,17.4.12,17.4.12-Above 55 yrs.-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Animal bites and stings,Total,17.4.12,17.4.12-Total-Animal bites and stings,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Other Diseases,dummy,17.4.13,17.4.13-dummy-Other Diseases,RH,,,,,,,,,,,,
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,6-14 yrs,17.4.13(a),17.4.13(a)-6-14 yrs-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,15-55 yrs.,17.4.13(a),17.4.13(a)-15-55 yrs.-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Above 55 yrs.,17.4.13(a),17.4.13(a)-Above 55 yrs.-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Acute Disease,Total,17.4.13(a),17.4.13(a)-Total-Known Acute Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,6-14 yrs,17.4.13(b),17.4.13(b)-6-14 yrs-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,15-55 yrs.,17.4.13(b),17.4.13(b)-15-55 yrs.-Known Chronic Disease,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Above 55 yrs.,17.4.13(b),17.4.13(b)-Above 55 yrs.-Known Chronic Disease,RH,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Known Chronic Disease,Total,17.4.13(b),17.4.13(b)-Total-Known Chronic Disease,RH,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,6-14 yrs,17.4.13(c),17.4.13(c)-6-14 yrs-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,15-55 yrs.,17.4.13(c),17.4.13(c)-15-55 yrs.-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Above 55 yrs.,17.4.13(c),17.4.13(c)-Above 55 yrs.-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RH Bhivpur ,E-M17-,Mortality Details,Details of deaths reported during the month with probable causes:,Causes not known,Total,17.4.13(c),17.4.13(c)-Total-Causes not known,RH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

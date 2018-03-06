@@ -1,0 +1,529 @@
+---
+title: "Code for NRHM (Maharashtra) Data"
+author: "Gitanshu Munjal"
+date: "March 6th, 2018"
+output: 
+  html_notebook: 
+    code_folding: hide
+    highlight: haddock
+    theme: spacelab
+---
+
+Clean-up notes can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-cleanup.nb.html) and Analysis notes can be found [here](http://grmunjal.github.io/presentations/socialcops/Munjal-NRHM-analysis.nb.html)
+```{r "setup", include=FALSE, warning=FALSE, message=FALSE,error=FALSE}
+require("knitr")
+
+#Set working directory
+#setwd("~/Desktop/socialcops3/data/")
+opts_knit$set(root.dir = "~/Desktop/socialcops/data/")
+```
+
+```{r message=FALSE, warning=FALSE}
+#Clear working space
+rm(list=ls())
+
+
+#Read in data
+nrhm.data <- read.table("tidy-NRHM-compiledset.csv", 
+                        header = T, sep = ",")
+
+
+#Attach helper functions
+source("../code/NRHM-HelperFunctions.R")
+```
+<br><br><br><br><br>
+<hr>
+***In the decentralized healthcare scenario, Sub centre makes the lowest division, followed by PHC and then block level hospitals (or RH). Tell us if the numbers follow this vertical hierarchy.***
+<hr>
+```{r}
+#How many SCs?
+paste(length(grep("SC", unique(nrhm.data$FacilityName))), " SC's")
+
+#How many PHCs?
+paste(length(grep("PHC", unique(nrhm.data$FacilityName))), " PHC's")
+
+#How many RHs?
+paste(length(grep("RH", unique(nrhm.data$FacilityName))), " RH's")
+
+```
+
+***Answer: YES! The number of centers at each level follows the hierarchy: RH < PHC < SC***
+
+
+
+
+<br><br><br><br><br>
+<hr>
+***What are possible causes of an increasing Maternal Mortality in Maharashtra?***
+<hr>
+Go to subject area *E* ("Mortality Details")
+```{r}
+#What is our focus area?
+subject.area("E")
+```
+<br><br><br>
+
+Focus on topic M17 ("Maternal Deaths")
+```{r}
+#What survey responses do we have for disease prevlance in children ?
+#How are those data grouped?
+#(M17 from above)
+focus.topics(17)
+```
+<br><br><br>
+
+Gather the data for visualization 
+```{r}
+#Isolate relevant data: (numbers from above)
+iso.data <- focus.data(c(477:512))
+iso.data <- iso.data[grep("*Total*", 
+                          as.character(iso.data$Grouping), 
+                          invert = TRUE),]
+
+iso.data[,]
+```
+<br><br><br>
+
+Aggregate, Transform, Visualize
+```{r}
+#Aggregate, data across months and places
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+
+
+
+#Visualize (Color by age grouping)
+ggplot(t.iso.data, aes(reorder_size(Description), proportion), group=Grouping) +
+  geom_col(alpha=0.7, color="black", aes(fill=Grouping)) + 
+  labs(y = "% of total Maternal Mortalities", x ="") + 
+  sfvt + rotlabels + coord_flip() + brlegend 
+```
+***Suicide and Trauma/Accidents/Burn appear to be among the leading causes of maternal mortality. Women above the age of 15 are especially prone to dying of these causes***
+
+
+<br><br><br><br><br>
+<hr>
+***Indicator Calculations() IMR, MMR, SBR, AMR, HIV-related, Malaria-related)***
+<hr>
+<br><br>
+
+Maternal mortality ratio (per 100 000 live births)
+```{r}
+#Extract total maternal mortalities 
+#(exclude Accidents/Burns, Suicides, Other Causes, Animal bites)
+#include only 15-55 years
+
+subject.area("E")
+focus.topics(17)
+iso.data <- focus.data(c(477:512))
+iso.data <- iso.data[grep("*Total*",
+                          as.character(iso.data$Grouping),invert = TRUE),]
+
+iso.data <- iso.data[grep("*Above 55*",
+                          as.character(iso.data$Description),invert = TRUE),]
+iso.data <- iso.data[grep("*14 yrs*",
+                          as.character(iso.data$Description),invert = TRUE),]
+iso.data <- iso.data[grep("*Burn*",
+                          as.character(iso.data$Description),invert = TRUE),]
+iso.data <- iso.data[grep("*Suicide*",
+                          as.character(iso.data$Description),invert = TRUE),]
+iso.data <- iso.data[grep("*Other*",
+                          as.character(iso.data$Description),invert = TRUE),]
+iso.data <- iso.data[grep("*Animal*",
+                          as.character(iso.data$Description),invert = TRUE),]
+
+
+#Aggregate, data across months and places
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+#Record Maternal Deaths
+indicators[["MMR"]]['maternal.deaths'] <-  sum(t.iso.data$x,na.rm = T)
+
+
+
+#Extract total live births
+subject.area("A")
+focus.topics(4)
+iso.data <- focus.data(48:53)
+head(iso.data)
+
+
+iso.data <- focus.data(50)
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+indicators[["MMR"]]['live.births'] <-  t.iso.data$x
+
+
+#Calculate MMR
+indicators[["MMR"]]['Maternal mortality ratio (per 100 000 live births)'] <-
+  indicators[["MMR"]]['maternal.deaths']*100000/indicators[["MMR"]]['live.births']
+```
+<hr><br><br>
+
+Infant mortality rate (per 1000 live births)
+```{r}
+#------
+
+#Extract total still births
+
+subject.area("A")
+focus.topics(4)
+iso.data <- focus.data(48:52)
+head(iso.data)
+
+
+iso.data <- focus.data(51)
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+indicators[["IMR"]]['still.births'] <-  t.iso.data$x
+indicators[["IMR"]]['live.births'] <-  indicators[["MMR"]]['live.births']
+
+
+#Calculate IMR
+indicators[["IMR"]]['Infant mortality rate (per 1000 live births)'] <- 
+  indicators[["IMR"]]['still.births']*1000/indicators[["IMR"]]['live.births']
+```
+<hr><br><br>
+
+Stillbirth rate (per 1000 total births) 
+```{r}
+#Extract total still births
+
+subject.area("A")
+focus.topics(4)
+iso.data <- focus.data(48:52)
+head(iso.data)
+
+
+iso.data <- focus.data(51)
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+indicators[["SBR"]]['still.births'] <- t.iso.data$x
+indicators[["SBR"]]['live.births'] <- indicators[["IMR"]]['live.births']
+
+indicators[["SBR"]]['Stillbirth rate (per 1000 total births)'] <-
+  indicators[["SBR"]][1]*1000/(indicators[["SBR"]][1]+indicators[["SBR"]][2])
+```
+<hr><br><br>
+
+
+HIV prevalence (per 1000 population; assuming samples representative of population)
+```{r}
+#Extract HIV testing data
+
+subject.area("C")
+focus.topics(15)
+iso.data <- focus.data(252:260)
+iso.data <- iso.data[grep("*Total*",iso.data$Description),]
+
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+indicators[["HIV"]]['positive'] <- t.iso.data$x[1]
+indicators[["HIV"]]['tested'] <- t.iso.data$x[2]
+
+indicators[["HIV"]]["HIV prevalence (per 1000 population)"] <- 
+  indicators[["HIV"]][1]*1000/indicators[["HIV"]][2]
+```
+<hr><br><br>
+
+
+Malaria incidence rate (per 1000 population; assuming samples representative of population)
+```{r}
+#Extract Malaria testing data
+
+subject.area("C")
+focus.topics(15)
+iso.data <- focus.data(267:269)
+
+
+head(iso.data,n=10)
+
+
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+indicators[["Malaria"]]['positive'] <- t.iso.data$x[2] + t.iso.data$x[3]
+
+indicators[["Malaria"]]['tested'] <- t.iso.data$x[1]
+
+indicators[["Malaria"]]["Malaria incidence rate (per 1000 population)"] <- 
+  indicators[["Malaria"]][1]*1000/indicators[["Malaria"]][2]
+  
+  
+  
+#Write all to file  
+ind.table <- c()
+for(ind.num in names(indicators)){
+  
+  ind.data <- data.frame(t(indicators[[ind.num]]))
+  colnames(ind.data) <- c("Num","Denom","Indicator")
+  
+  ind.data$Name <- colnames(t(indicators[[ind.num]]))[3]
+
+  ind.table <- rbind(ind.table, ind.data)
+  
+}
+
+write.table(ind.table, 
+            "../output/indicators.csv", quote = F, sep = ",", row.names = F)  
+```
+
+
+
+<hr><br><br><br><br><br>
+<hr>
+###Indicators
+<hr>
+```{r, echo=FALSE}
+ind.table
+```
+
+
+
+<br><br><br><br><br>
+<hr>
+***Some Health Trends***
+<hr><br><br>
+
+Number of new RTI/STI for which treatment initiated
+```{r, include=FALSE}
+subject.area("A")
+focus.topics(8)
+iso.data <- focus.data(c(82:85))
+iso.data <- iso.data[grep("*ale",iso.data$Description),]
+
+head(iso.data)
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Level=iso.data$FacilityLevel),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+ggplot(t.iso.data, aes(reorder_size(Level), proportion, fill=Description)) +
+  geom_col(alpha=0.7, color="black",position = "dodge") + 
+  labs(y = "% of total new RTI/STI cases", x ="") + 
+  sfvt + rotlabels  + trlegend 
+```
+***A large share of new RTI/STI treatments occur at RH's and are directed towards females.***
+<hr><br><br>
+
+
+Infant Deaths up to 4 weeks by cause
+```{r, include=FALSE}
+subject.area("E")
+focus.topics(17)
+iso.data <- focus.data(c(415:426))
+
+iso.data <- iso.data[grep("*Total*",as.character(iso.data$Grouping),invert = TRUE),]
+
+
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Level=iso.data$FacilityLevel),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+ggplot(t.iso.data, aes(reorder_size(Level), proportion, fill=Description)) +
+  geom_col(alpha=0.7, color="black",position = "dodge") + 
+  labs(y = "% of total", x ="") + 
+  sfvt + rotlabels  + theme_bw() + coord_flip()
+```
+***Asphyxia is the leading cause of Infant Deaths up to 4 weeks by cause***
+<hr><br><br>
+
+
+Infant/Child Deaths up to 5 years by cause
+```{r, include=FALSE}
+subject.area("E")
+focus.topics(17)
+iso.data <- focus.data(c(428:442))
+iso.data <- iso.data[grep("*Total*",as.character(iso.data$Grouping),invert = TRUE),]
+
+
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Level=iso.data$FacilityLevel),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+ggplot(t.iso.data, aes(reorder_size(Level), proportion, fill=Description)) +
+  geom_col(alpha=0.7, color="black",position = "dodge") + 
+  labs(y = "% of total", x ="") + 
+  sfvt + rotlabels  + theme_bw() + coord_flip()
+```
+***"Others" is the leading cause of Infant/Child Deaths up to 5 years by cause. Since this category is not further broken down, it is hard to know this for sure but from infants (plot above this one) and adults (plot below this one) the indication is of a high incidence of respiratory problems. Air pollution data could be gathered from public sources and correlated with the incidence of disease over the 12-month period.***
+<hr><br><br>
+
+
+Adolescent/Adult deaths by cause
+```{r, include=FALSE}
+subject.area("E")
+focus.topics(17)
+iso.data <- focus.data(c(444:475))
+iso.data <- iso.data[grep("*Total*", 
+                          as.character(iso.data$Grouping), 
+                          invert = TRUE),]
+
+
+#Aggregate, data across months and places
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Grouping=iso.data$Grouping),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+
+#Visualize (Color by age grouping)
+ggplot(t.iso.data, aes(reorder_size(Description), proportion), group=Grouping) +
+  geom_col(alpha=0.7, color="black", aes(fill=Grouping)) + 
+  labs(y = "% of total", x ="") + 
+  sfvt + coord_flip() + ylim(0,100) + mrlegend 
+```
+<hr><br><br>
+
+
+CHILD IMMUNIZATION: Number of Infants 0 to 11 months old who received the following
+```{r, include=FALSE}
+subject.area("A")
+focus.topics(10)
+iso.data <- focus.data(c(147:163))
+
+#Aggregate, data across months and places
+t.iso.data <- melt(iso.data,
+                   id.vars = c("FacilityName", "FacilityLevel","Description","Grouping"))
+
+t.iso.data <- aggregate(t.iso.data$value, 
+                        list(Month=t.iso.data$variable,
+                             Description=t.iso.data$Description),sum)
+t.iso.data <- t.iso.data[t.iso.data$Month!="Total.Year",]
+
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+#Visualize (Color by age grouping)
+ggplot(t.iso.data, aes(reorder_size(Month), proportion)) +
+  geom_point(alpha=0.7, shape=21,color="black", aes(fill=Description)) + 
+  labs(y = "% of total Vaccines given", x ="") + 
+  sfvt + nolegend +facet_wrap(~Description)+ 
+  geom_hline(aes(yintercept=0.5), linetype=4) + rotlabels
+```
+***Seasonal patterns of administering vaccines are seen for some vaccines and not for others. The horizontal line is data-wide average.***
+<hr><br><br>
+
+
+CHILD IMMUNIZATION: Adverse Event Following Immunisation (AEFI)
+```{r, include=FALSE}
+subject.area("A")
+focus.topics(10)
+iso.data <- focus.data(c(182:184))
+
+t.iso.data <- aggregate(iso.data$Total.Year, 
+                        list(Description=iso.data$Description,
+                             Level=iso.data$FacilityLevel),sum)
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+ggplot(t.iso.data, aes(reorder_size(Level), x, fill=Description)) +
+  geom_col(alpha=0.7, color="black",position = "dodge") + 
+  labs(y = "% of total", x ="") + 
+  sfvt + rotlabels  + theme_bw()  + ylim(0,100)
+```
+***This plot makes it pretty clear that vaccines are safe!***
+<hr><br><br>
+
+
+Number of cases of Childhood Diseases reported during the month0-5 years: 
+```{r, include=FALSE}
+subject.area("A")
+focus.topics(12)
+iso.data <- focus.data(c(195:203))
+
+#Aggregate, data across months and places
+t.iso.data <- melt(iso.data,
+                   id.vars = c("FacilityName", "FacilityLevel","Description","Grouping"))
+
+t.iso.data <- aggregate(t.iso.data$value, 
+                        list(Month=t.iso.data$variable,
+                             Description=t.iso.data$Description,
+                             FacilityLevel=t.iso.data$FacilityLevel),sum)
+t.iso.data <- t.iso.data[t.iso.data$Month=="Total.Year",]
+
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+#Visualize (Color by age grouping)
+ggplot(t.iso.data, aes(reorder_size(FacilityLevel), proportion)) +
+  geom_col(alpha=0.7,color="black", aes(fill=FacilityLevel)) + 
+  labs(y = "% of total", x ="") + 
+  sfvt + nolegend + facet_wrap(~Description) + rotlabels + coord_flip()
+```
+***Again, a high incidence of respiratory problems.***
+<hr><br><br>
+
+
+Complicated Pregnancies
+```{r, include=FALSE}
+subject.area("A")
+focus.topics(5)
+iso.data <- focus.data(c(66:69))
+
+#Aggregate, data across months and places
+t.iso.data <- melt(iso.data,
+                   id.vars = c("FacilityName", "FacilityLevel","Description","Grouping"))
+
+t.iso.data <- aggregate(t.iso.data$value, 
+                        list(Month=t.iso.data$variable,
+                             Description=t.iso.data$Description,
+                             FacilityLevel=t.iso.data$FacilityLevel),sum)
+t.iso.data <- t.iso.data[t.iso.data$Month=="Total.Year",]
+
+
+#Express aggregate as a proportion of total deaths
+t.iso.data$proportion <- (t.iso.data$x/sum(t.iso.data$x,na.rm = T))*100
+```
+
+```{r}
+#Visualize (Color by age grouping)
+ggplot(t.iso.data, aes(reorder_size(FacilityLevel), proportion)) +
+  geom_col(alpha=0.7,color="black", aes(fill=FacilityLevel), position = "dodge") + 
+  labs(y = "% of total Maternal Mortalities", x ="") + 
+  sfvt + nolegend + facet_wrap(~Description) + rotlabels + coord_flip()
+```
+***Most complicated pregnancies are treated with IV antibiotics at the RH level***
+<hr><br><br>
