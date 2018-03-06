@@ -14,7 +14,7 @@ Clean-up notes can be found [here](http://grmunjal.github.io/presentations/socia
 #### Notes/code for ***Data Analysis***
 
 <li> 
-Navigation through the data implemented using 3 core helper [functions](https://github.com/grmunjal/socialcops/code/):
+Navigation through the data implemented using 3 core helper [functions](https://github.com/grmunjal/socialcops/tree/master/code/):
 <br><br>
 
 1. The ***subject.area()*** function takes a letter input and returns available topics in that part of the survey.
